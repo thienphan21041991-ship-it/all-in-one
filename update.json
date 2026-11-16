@@ -1,0 +1,10 @@
+{
+  "v": 1,
+  "build": 82,
+  "date": "16/11/2026",
+  "note": "Tu cap nhat: kiem tra ban moi khi mo tool, hoi Cap nhat ngay / De sau, tai ve kiem chu ky + SHA-256 roi chep de va mo lai; Export tu day ban moi len GitHub",
+  "size": 7577088,
+  "sha256": "22c59e1eae74bc3e2e3cc387b3b65de4d860aa349d6e0eb3e6337755e84c1a0b",
+  "asset": "XiaomiSmartFlasher-82.exe",
+  "sig": "JUOd3ZGRbmuIYGRL7ewZHK7yhVpouTkWFg05pWzJBsFLHfp8Oufaoi5VfY5lSX1iYzM1/IlrEc4DIC0+scxFSQ=="
+}

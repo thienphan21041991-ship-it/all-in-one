@@ -1,0 +1,11 @@
+{
+  "v": 2,
+  "tool": "xiaomi-smart-flasher",
+  "build": 83,
+  "date": "16/11/2026",
+  "note": "Quan tri: man Ban tool tren GitHub (xem danh sach, dang thu cong, xoa ban cu, giu 5 ban)",
+  "size": 7602176,
+  "sha256": "7cee3924b0389f5170a0134401aecf17e2ad49bd8b3a21668005316e6ec10286",
+  "asset": "XiaomiSmartFlasher-83.exe",
+  "sig": "IaxL1k/gpe6mZT/XfoGRyHz2+Jrv6eG9eZxTVpWjALZ6D91fRhZJYZZFp5oJ2TUCOEy1r7rEh7wBgfeIJEKX2A=="
+}

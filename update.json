@@ -1,10 +1,10 @@
 {
   "v": 1,
-  "build": 83,
+  "build": 84,
   "date": "16/11/2026",
-  "note": "Quan tri: man Ban tool tren GitHub (xem danh sach, dang thu cong, xoa ban cu, giu 5 ban)",
-  "size": 7602176,
-  "sha256": "7cee3924b0389f5170a0134401aecf17e2ad49bd8b3a21668005316e6ec10286",
-  "asset": "XiaomiSmartFlasher-83.exe",
-  "sig": "Kh06YopN0ZmzX0ZDo2oOtkEAqrsNq9B5vYTzosE+jbfF6z9Q5NHbyHy7XLEWC5Fg27LT8tQZuMSVmsYUEZcOUA=="
+  "note": "Kho tool theo tung tool (thu muc rieng tools/<ma>), cot Noi luu GitHub/may nay, dang ban da xuat tren may, chon tool xo xuong, them tool moi",
+  "size": 7629824,
+  "sha256": "70149b70fb4dcd256596baa4b08cf2558f2ec668b01e1bbed1b28e7ede534416",
+  "asset": "XiaomiSmartFlasher-84.exe",
+  "sig": "N9X/iXKipCkQE2fByhY2rp/8NtTjv17FCBhMUvAM/7HX+53vJfgIachgrbW3G+95ZRdh+2u6bPKVqL6CNrzipw=="
 }

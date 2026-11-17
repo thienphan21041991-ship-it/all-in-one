@@ -1,11 +1,11 @@
 {
   "v": 2,
   "tool": "xiaomi-smart-flasher",
-  "build": 84,
-  "date": "16/11/2026",
-  "note": "Kho tool theo tung tool (thu muc rieng tools/<ma>), cot Noi luu GitHub/may nay, dang ban da xuat tren may, chon tool xo xuong, them tool moi",
-  "size": 7629824,
-  "sha256": "70149b70fb4dcd256596baa4b08cf2558f2ec668b01e1bbed1b28e7ede534416",
-  "asset": "XiaomiSmartFlasher-84.exe",
-  "sig": "TLogAh0ajIpdbgd+CfqIAkDAZ2iA2rFb48iqxNFaoYCh+W8+c9jMW7DQ4jc9t1drgyS4nLY6yM6OOPL/mXE82Q=="
+  "build": 89,
+  "date": "17/11/2026",
+  "note": "Kho tool & driver: driver/fastboot/công cụ lên GitHub tải khi bấm, bỏ khỏi exe",
+  "size": 3540992,
+  "sha256": "0e0a5f91a0826a8d597ce460fd2d109a33f93c757986197a01b9fd2583c523c4",
+  "asset": "XiaomiSmartFlasher-89.exe",
+  "sig": "sTISiWFyNTDPxyN+ME2D1sT2n6sJkVcWK5X6lV4spMFmWF1I3ZLy3pfK+esn7f791JcIm01wh43nxJVXiJqypQ=="
 }

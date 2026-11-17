@@ -1,10 +1,10 @@
 {
   "v": 1,
-  "build": 92,
+  "build": 93,
   "date": "17/11/2026",
-  "note": "GSM Toolkit: mở mặc định Odin, nút Tools to 2 dòng, bảng Odin thu gọn/xổ phân vùng + nạp khi chưa đọc xong, báo kết quả từng phân vùng, bảng cuộn theo dòng đang nạp",
-  "size": 5933056,
-  "sha256": "ed2ca9166a4466e7e71666203d50690dbeffc8381e5fc9f0d24509952a76b5b8",
-  "asset": "XiaomiSmartFlasher-92.exe",
-  "sig": "hHplytfV8XgV8miaey6W1CKBwd+CJTn4a5LkbMTnSnn4MhZG+DqL+THCGl8C0sZnQ6xouVOjBa6kXILG7EG1OA=="
+  "note": "Đổi tên dự án thành GSM Pro Toolkit: tên tool, tên tệp exe, kênh GitHub gsm-pro-toolkit (giữ kênh cũ cho máy cũ tự cập nhật), thư mục dữ liệu tự chuyển",
+  "size": 5896192,
+  "sha256": "87098c53e5c568dd87891e20960f99646ec2dea87dcece016e7b0829e57d2a4b",
+  "asset": "XiaomiSmartFlasher-93.exe",
+  "sig": "TKDkPhNK0Qe2abwc7pKJ22/7SJfbj1w8SW2irDXvSXAwT9vngfl+DfZ/qzhwg7GC8bv9U+E68OSxeh+zhKyy0Q=="
 }

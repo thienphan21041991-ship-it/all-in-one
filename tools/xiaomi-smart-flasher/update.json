@@ -1,11 +1,11 @@
 {
   "v": 2,
   "tool": "xiaomi-smart-flasher",
-  "build": 96,
+  "build": 97,
   "date": "17/11/2026",
-  "note": "Logo cam #FF6900 (cam Xiaomi cu) da duyet",
-  "size": 6315008,
-  "sha256": "c2536baa52b42552b2ffdbbcfc298264a348564388cd22abc3858067a675daed",
-  "asset": "XiaomiSmartFlasher-96.exe",
-  "sig": "JeUcb37+0EO+26ZDjZ9VcZDsghcoQvzsPbyFHRhvgsKGpD7yDQsG75iNjpD7Wm+ONS11yqJEYQEqZ7StEDaaXg=="
+  "note": "Kiem tra ROM tu file nen co mat khau: hoi mat khau (zip ZipCrypto/AES, 7z, rar), sai thi hoi lai",
+  "size": 6319104,
+  "sha256": "3f4d8898c6ff50511d9cb53996e8438ebc06f835fbf2ed8992148d941dbac36f",
+  "asset": "XiaomiSmartFlasher-97.exe",
+  "sig": "9XJ7YmEb92QgQd5U6ztszDD+pfvYv6us5qtE8QfDt2GfuRhjvH6x4JeLmVSlo5a1NLltFHE75EgS8OF5twy99A=="
 }

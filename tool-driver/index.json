@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "ver": 1,
+  "ver": 2,
   "date": "17/11/2026",
   "items": [
     {
@@ -32,13 +32,6 @@
       "sha256": "14df1b4e5b822c94663e97dca5c6887907098a8e0a75b0978daa3484f6da1767"
     },
     {
-      "id": "platform-tools",
-      "name": "Fastboot",
-      "file": "platform-tools-736da7fa61ef.zip",
-      "size": 1068868,
-      "sha256": "736da7fa61ef7851a3d5105d840141e5812392b133330b4798fc60d87aca62fa"
-    },
-    {
       "id": "qualcomm-driver",
       "name": "Driver Qualcomm",
       "file": "qualcomm-driver-89d6a10ebcd4.zip",
@@ -67,5 +60,5 @@
       "sha256": "772ca2cfb0dd17b3a53affced5ae8daa83c3fd4391c00600a765c021b1210d90"
     }
   ],
-  "sig": "afG2VC8Z6GMhBRdA/E36hdBVbiaJ1q7t5r+ClwucdD3o4K+MV8AEjHVKhLGJX4pU7io/NJGreTCcjipDxnGl2g=="
+  "sig": "KyzjRpUKslhgS5ZwOmVvjC32TVrf9SMkY/WpjWzwI+UcAodDwHp/sDu45uB4tnqRPWMHm+51PfNIlasijO649g=="
 }

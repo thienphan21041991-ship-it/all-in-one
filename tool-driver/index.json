@@ -1,0 +1,71 @@
+{
+  "v": 1,
+  "ver": 1,
+  "date": "17/11/2026",
+  "items": [
+    {
+      "id": "adb-driver",
+      "name": "Driver ADB",
+      "file": "adb-driver-fe4b56bacbdf.zip",
+      "size": 2617001,
+      "sha256": "fe4b56bacbdf11c6a4d2d7a2739014422ac50cce2bccfda9c076812770939f0b"
+    },
+    {
+      "id": "kirin-driver",
+      "name": "Driver Kirin",
+      "file": "kirin-driver-25717ea65c9b.zip",
+      "size": 103864,
+      "sha256": "25717ea65c9b8a19f678a6a457b767a485c84180d98c179633192a1cee7ba0aa"
+    },
+    {
+      "id": "mtk-driver",
+      "name": "Driver MTK",
+      "file": "mtk-driver-b4c6476a7aa9.zip",
+      "size": 83086,
+      "sha256": "b4c6476a7aa9a6f1c38814270a5c6ca9cb0fca714d2cab2ad4bc719fdcc745ed"
+    },
+    {
+      "id": "neat-download",
+      "name": "Neat Download Manager",
+      "file": "neat-download-14df1b4e5b82.zip",
+      "size": 891089,
+      "sha256": "14df1b4e5b822c94663e97dca5c6887907098a8e0a75b0978daa3484f6da1767"
+    },
+    {
+      "id": "platform-tools",
+      "name": "Fastboot",
+      "file": "platform-tools-736da7fa61ef.zip",
+      "size": 1068868,
+      "sha256": "736da7fa61ef7851a3d5105d840141e5812392b133330b4798fc60d87aca62fa"
+    },
+    {
+      "id": "qualcomm-driver",
+      "name": "Driver Qualcomm",
+      "file": "qualcomm-driver-89d6a10ebcd4.zip",
+      "size": 160080,
+      "sha256": "89d6a10ebcd419390b417b1c41c51968f016be8493b3bfadd1714c3366299ed7"
+    },
+    {
+      "id": "samsung-driver",
+      "name": "Driver Samsung",
+      "file": "samsung-driver-f11a7c6e1ca6.zip",
+      "size": 273306,
+      "sha256": "f11a7c6e1ca66df2f716c18bf4af7c208cc601a457be5bb6061b9191a2198b08"
+    },
+    {
+      "id": "spd-driver",
+      "name": "Driver SPD",
+      "file": "spd-driver-8a09bd137028.zip",
+      "size": 3441491,
+      "sha256": "8a09bd137028ea9375090e88783101e72c253c23fe9ac1b16757e0000513a3d3"
+    },
+    {
+      "id": "windows-optimize",
+      "name": "Tối ưu Windows",
+      "file": "windows-optimize-772ca2cfb0dd.zip",
+      "size": 1627,
+      "sha256": "772ca2cfb0dd17b3a53affced5ae8daa83c3fd4391c00600a765c021b1210d90"
+    }
+  ],
+  "sig": "afG2VC8Z6GMhBRdA/E36hdBVbiaJ1q7t5r+ClwucdD3o4K+MV8AEjHVKhLGJX4pU7io/NJGreTCcjipDxnGl2g=="
+}

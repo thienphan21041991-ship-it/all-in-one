@@ -1,11 +1,11 @@
 {
   "v": 2,
   "tool": "gsm-pro-toolkit",
-  "build": 93,
+  "build": 94,
   "date": "17/11/2026",
-  "note": "Đổi tên dự án thành GSM Pro Toolkit: tên tool, tên tệp exe, kênh GitHub gsm-pro-toolkit (giữ kênh cũ cho máy cũ tự cập nhật), thư mục dữ liệu tự chuyển",
-  "size": 5896192,
-  "sha256": "87098c53e5c568dd87891e20960f99646ec2dea87dcece016e7b0829e57d2a4b",
-  "asset": "GsmProToolkit-93.exe",
-  "sig": "j9It5maL6xnHodsppEIH2c7PjzqBACokO4O8wcFhmNqEH8/jK0BdsP1qzrYVoRjxxGxaZEc+k3naVeysSlONmg=="
+  "note": "Logo mới: nền cam khung bo mềm, chữ G trắng thanh xanh dương, hộp công cụ ở góc (icon thanh tiêu đề + icon file exe); mở mặc định Odin, nút Tools to, bảng Odin thu gọn",
+  "size": 6269952,
+  "sha256": "9af08976e02367b22b8079bdef225cbf3bbad551b348a43a32924e31d6e12c9e",
+  "asset": "GsmProToolkit-94.exe",
+  "sig": "DqkgJD/OLqawX0/FgQ38weixW1yp4WKhOxjuElj81NqqqXB9mfVGgAyTn/0YZiN1Jmn6xq89LmXc1Dxxl+7f6w=="
 }

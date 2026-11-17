@@ -1,11 +1,11 @@
 {
   "v": 2,
   "tool": "gsm-pro-toolkit",
-  "build": 96,
+  "build": 97,
   "date": "17/11/2026",
-  "note": "Logo cam #FF6900 (cam Xiaomi cu) da duyet",
-  "size": 6315008,
-  "sha256": "c2536baa52b42552b2ffdbbcfc298264a348564388cd22abc3858067a675daed",
-  "asset": "GsmProToolkit-96.exe",
-  "sig": "Qt1eXfc5bHByP5oow5f8OA0542Pz75BXrLYgvBRleny0/ELkg+jute/LxlAKD8LLO7NsdNSDgWOYRZ5/o6AgjA=="
+  "note": "Kiem tra ROM tu file nen co mat khau: hoi mat khau (zip ZipCrypto/AES, 7z, rar), sai thi hoi lai",
+  "size": 6319104,
+  "sha256": "3f4d8898c6ff50511d9cb53996e8438ebc06f835fbf2ed8992148d941dbac36f",
+  "asset": "GsmProToolkit-97.exe",
+  "sig": "/Ot9vYki8VzcFyVHmLQ6Xy+vFCUrX4QC8x52JNLvDxMzKHb5wVf1O1mnxspTw8O6n01A5IERpLq4W1fwOkYTLQ=="
 }

@@ -1,10 +1,10 @@
 {
   "v": 1,
-  "build": 95,
+  "build": 96,
   "date": "17/11/2026",
-  "note": "Thuộc tính file exe: Company đổi thành GSM Pro Toolkit (không còn lộ tên thương hiệu cá nhân khi rê chuột vào file)",
-  "size": 6269952,
-  "sha256": "ff81c82ee2baf51039258003b3e2ef194085aec5835fc40d9b957a233ad3735d",
-  "asset": "XiaomiSmartFlasher-95.exe",
-  "sig": "0/nFHDtQB9ViGPc4C9YXbJ35IDYmJujNbKkNrYvCU2T6O6Be/dyOOdlZwDD0RswGIfAhu8OALcPkB0rqXkvUrw=="
+  "note": "Logo cam #FF6900 (cam Xiaomi cu) da duyet",
+  "size": 6315008,
+  "sha256": "c2536baa52b42552b2ffdbbcfc298264a348564388cd22abc3858067a675daed",
+  "asset": "XiaomiSmartFlasher-96.exe",
+  "sig": "rfothGHMDWAD4klufsFlf55R349rmKgAyEgeDuCo633YuUXuEe2zpcDDGAwodRkfpWV8o9gB870Gj0OHO+R9CQ=="
 }

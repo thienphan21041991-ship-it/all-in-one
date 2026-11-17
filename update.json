@@ -1,10 +1,10 @@
 {
   "v": 1,
-  "build": 93,
+  "build": 94,
   "date": "17/11/2026",
-  "note": "Đổi tên dự án thành GSM Pro Toolkit: tên tool, tên tệp exe, kênh GitHub gsm-pro-toolkit (giữ kênh cũ cho máy cũ tự cập nhật), thư mục dữ liệu tự chuyển",
-  "size": 5896192,
-  "sha256": "87098c53e5c568dd87891e20960f99646ec2dea87dcece016e7b0829e57d2a4b",
-  "asset": "XiaomiSmartFlasher-93.exe",
-  "sig": "TKDkPhNK0Qe2abwc7pKJ22/7SJfbj1w8SW2irDXvSXAwT9vngfl+DfZ/qzhwg7GC8bv9U+E68OSxeh+zhKyy0Q=="
+  "note": "Logo mới: nền cam khung bo mềm, chữ G trắng thanh xanh dương, hộp công cụ ở góc (icon thanh tiêu đề + icon file exe); mở mặc định Odin, nút Tools to, bảng Odin thu gọn",
+  "size": 6269952,
+  "sha256": "9af08976e02367b22b8079bdef225cbf3bbad551b348a43a32924e31d6e12c9e",
+  "asset": "XiaomiSmartFlasher-94.exe",
+  "sig": "oCCje+TnENY9NqA+jIvqwKaaZTaTc4Xj2iUYHSNbrJurXMtMSn2gQ35XD6QvXrpBXowJuISjGPP5hQyY89gmNA=="
 }

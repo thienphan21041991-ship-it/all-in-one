@@ -1,11 +1,11 @@
 {
   "v": 2,
   "tool": "xiaomi-smart-flasher",
-  "build": 97,
+  "build": 98,
   "date": "17/11/2026",
-  "note": "Kiem tra ROM tu file nen co mat khau: hoi mat khau (zip ZipCrypto/AES, 7z, rar), sai thi hoi lai",
-  "size": 6319104,
-  "sha256": "3f4d8898c6ff50511d9cb53996e8438ebc06f835fbf2ed8992148d941dbac36f",
-  "asset": "XiaomiSmartFlasher-97.exe",
-  "sig": "9XJ7YmEb92QgQd5U6ztszDD+pfvYv6us5qtE8QfDt2GfuRhjvH6x4JeLmVSlo5a1NLltFHE75EgS8OF5twy99A=="
+  "note": "Tool tai ve nam canh tool: GSM Pro Toolkit\\Driver, Cong cu, Tools (moi tool 1 thu muc) + nut Thu muc tool",
+  "size": 6323200,
+  "sha256": "39ec43b6c999134f47f07275d90da231917f787b49aad310c5ddd808a2e85d8e",
+  "asset": "XiaomiSmartFlasher-98.exe",
+  "sig": "r455K30zv9Rlxa/KMUA018C7cfNx/y9e8UQXlM9wMvTODfwkOjp+eM4Jo/XGGaqjor7MezuLngJxaGnKck+eMw=="
 }

@@ -1,11 +1,11 @@
 {
   "v": 2,
   "tool": "xiaomi-smart-flasher",
-  "build": 89,
+  "build": 90,
   "date": "17/11/2026",
-  "note": "Kho tool & driver: driver/fastboot/công cụ lên GitHub tải khi bấm, bỏ khỏi exe",
-  "size": 3540992,
-  "sha256": "0e0a5f91a0826a8d597ce460fd2d109a33f93c757986197a01b9fd2583c523c4",
-  "asset": "XiaomiSmartFlasher-89.exe",
-  "sig": "sTISiWFyNTDPxyN+ME2D1sT2n6sJkVcWK5X6lV4spMFmWF1I3ZLy3pfK+esn7f791JcIm01wh43nxJVXiJqypQ=="
+  "note": "Nhúng lại fastboot; ô thiết bị ghi Thiết bị; Công cụ gom hết Tối ưu Windows, bỏ nút Tối ưu Windows",
+  "size": 5818368,
+  "sha256": "4fbcb7b95a7c28f2f93cabfe13f3384cb4ec32360c1ce0b8c3d7ad2cd9aae39e",
+  "asset": "XiaomiSmartFlasher-90.exe",
+  "sig": "iYk8T+SdbR317G/gUtv0aeLIGY/7QVpytQE0QPtqFy79DCafDSCB1Aq+cgzV9tneX49pBXogS8+OpW9bTJlSIw=="
 }

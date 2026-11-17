@@ -1,11 +1,11 @@
 {
   "v": 2,
   "tool": "gsm-pro-toolkit",
-  "build": 97,
+  "build": 98,
   "date": "17/11/2026",
-  "note": "Kiem tra ROM tu file nen co mat khau: hoi mat khau (zip ZipCrypto/AES, 7z, rar), sai thi hoi lai",
-  "size": 6319104,
-  "sha256": "3f4d8898c6ff50511d9cb53996e8438ebc06f835fbf2ed8992148d941dbac36f",
-  "asset": "GsmProToolkit-97.exe",
-  "sig": "/Ot9vYki8VzcFyVHmLQ6Xy+vFCUrX4QC8x52JNLvDxMzKHb5wVf1O1mnxspTw8O6n01A5IERpLq4W1fwOkYTLQ=="
+  "note": "Tool tai ve nam canh tool: GSM Pro Toolkit\\Driver, Cong cu, Tools (moi tool 1 thu muc) + nut Thu muc tool",
+  "size": 6323200,
+  "sha256": "39ec43b6c999134f47f07275d90da231917f787b49aad310c5ddd808a2e85d8e",
+  "asset": "GsmProToolkit-98.exe",
+  "sig": "5yqXddWxJR2UK8BknLttPsI1dvcjyrypsQlyItnvIZirCPtWCG5537QmIiaRu3lwonJNggHVvWXBGR9dZ1BJoQ=="
 }

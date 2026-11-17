@@ -1,10 +1,10 @@
 {
   "v": 1,
-  "build": 91,
+  "build": 92,
   "date": "17/11/2026",
-  "note": "Bảng Tools (link gốc + kho GitHub, thêm/xóa cho máy quản trị); Odin: bỏ dấu X, đọc cấu trúc các tệp song song + hiện % tiến độ",
-  "size": 5928960,
-  "sha256": "0ef73ebb9501b6e7f8ec199920c4d432e087525d60de6acde697ba63d797b806",
-  "asset": "XiaomiSmartFlasher-91.exe",
-  "sig": "SMmYFt2wuZT0UyRVsDq3X9nZVsbh6H6PgruE1vBklG2+RALMpyk33PeYYtnxVN9p1utWXoSDB2VTEDRv4N6SNQ=="
+  "note": "GSM Toolkit: mở mặc định Odin, nút Tools to 2 dòng, bảng Odin thu gọn/xổ phân vùng + nạp khi chưa đọc xong, báo kết quả từng phân vùng, bảng cuộn theo dòng đang nạp",
+  "size": 5933056,
+  "sha256": "ed2ca9166a4466e7e71666203d50690dbeffc8381e5fc9f0d24509952a76b5b8",
+  "asset": "XiaomiSmartFlasher-92.exe",
+  "sig": "hHplytfV8XgV8miaey6W1CKBwd+CJTn4a5LkbMTnSnn4MhZG+DqL+THCGl8C0sZnQ6xouVOjBa6kXILG7EG1OA=="
 }

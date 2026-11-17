@@ -1,11 +1,11 @@
 {
   "v": 2,
   "tool": "xiaomi-smart-flasher",
-  "build": 94,
+  "build": 95,
   "date": "17/11/2026",
-  "note": "Logo mới: nền cam khung bo mềm, chữ G trắng thanh xanh dương, hộp công cụ ở góc (icon thanh tiêu đề + icon file exe); mở mặc định Odin, nút Tools to, bảng Odin thu gọn",
+  "note": "Thuộc tính file exe: Company đổi thành GSM Pro Toolkit (không còn lộ tên thương hiệu cá nhân khi rê chuột vào file)",
   "size": 6269952,
-  "sha256": "9af08976e02367b22b8079bdef225cbf3bbad551b348a43a32924e31d6e12c9e",
-  "asset": "XiaomiSmartFlasher-94.exe",
-  "sig": "NPGjGLTZDt5NgjwRMpxZNAnJJrXCX5KbQcJPh8AHUxmjiArw53SrQWLGpw16Nz6/DCwqdcQ/FnyE/pbBoKRumA=="
+  "sha256": "ff81c82ee2baf51039258003b3e2ef194085aec5835fc40d9b957a233ad3735d",
+  "asset": "XiaomiSmartFlasher-95.exe",
+  "sig": "GJr+D7ntRwev2h9bTOYkO7xojm7RTOVecgf4AXlVxdlWRCnfQkAqZOrSv4fQc1f+2UgJWopFe4YWGndpO8pEzw=="
 }

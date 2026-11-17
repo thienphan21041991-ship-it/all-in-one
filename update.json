@@ -1,10 +1,10 @@
 {
   "v": 1,
-  "build": 90,
+  "build": 91,
   "date": "17/11/2026",
-  "note": "Nhúng lại fastboot; ô thiết bị ghi Thiết bị; Công cụ gom hết Tối ưu Windows, bỏ nút Tối ưu Windows",
-  "size": 5818368,
-  "sha256": "4fbcb7b95a7c28f2f93cabfe13f3384cb4ec32360c1ce0b8c3d7ad2cd9aae39e",
-  "asset": "XiaomiSmartFlasher-90.exe",
-  "sig": "Xf3ILJU3SaAnsWC7t75F52HE0j5BaflvHwVKPPr3fI7VH/aQKtAwhnGBjUqt+kM9ir6FleLyHwEhfeqPjnau+g=="
+  "note": "Bảng Tools (link gốc + kho GitHub, thêm/xóa cho máy quản trị); Odin: bỏ dấu X, đọc cấu trúc các tệp song song + hiện % tiến độ",
+  "size": 5928960,
+  "sha256": "0ef73ebb9501b6e7f8ec199920c4d432e087525d60de6acde697ba63d797b806",
+  "asset": "XiaomiSmartFlasher-91.exe",
+  "sig": "SMmYFt2wuZT0UyRVsDq3X9nZVsbh6H6PgruE1vBklG2+RALMpyk33PeYYtnxVN9p1utWXoSDB2VTEDRv4N6SNQ=="
 }

@@ -1,11 +1,11 @@
 {
   "v": 2,
   "tool": "xiaomi-smart-flasher",
-  "build": 91,
+  "build": 92,
   "date": "17/11/2026",
-  "note": "Bảng Tools (link gốc + kho GitHub, thêm/xóa cho máy quản trị); Odin: bỏ dấu X, đọc cấu trúc các tệp song song + hiện % tiến độ",
-  "size": 5928960,
-  "sha256": "0ef73ebb9501b6e7f8ec199920c4d432e087525d60de6acde697ba63d797b806",
-  "asset": "XiaomiSmartFlasher-91.exe",
-  "sig": "jnfDgKdoN5XeitgIstoJSS5dSJbf3vxf7VS6pK5uGw+jEtdVbtQf5WOKlixFlYxulnHjTojk/6/im09c5j/ThA=="
+  "note": "GSM Toolkit: mở mặc định Odin, nút Tools to 2 dòng, bảng Odin thu gọn/xổ phân vùng + nạp khi chưa đọc xong, báo kết quả từng phân vùng, bảng cuộn theo dòng đang nạp",
+  "size": 5933056,
+  "sha256": "ed2ca9166a4466e7e71666203d50690dbeffc8381e5fc9f0d24509952a76b5b8",
+  "asset": "XiaomiSmartFlasher-92.exe",
+  "sig": "5CjyxjbmwZIg+f4n7VOPdIB1K59+a/Qmb/WCJM/9V9gz5HkUBsSFDEmeEHrO//tl35foVQgxZC65QwHXcGVK1g=="
 }

@@ -1,11 +1,11 @@
 {
   "v": 2,
   "tool": "xiaomi-smart-flasher",
-  "build": 98,
+  "build": 99,
   "date": "17/11/2026",
-  "note": "Tool tai ve nam canh tool: GSM Pro Toolkit\\Driver, Cong cu, Tools (moi tool 1 thu muc) + nut Thu muc tool",
+  "note": "Sua: nut Thu muc tool (cot thu 6 thanh nut)",
   "size": 6323200,
-  "sha256": "39ec43b6c999134f47f07275d90da231917f787b49aad310c5ddd808a2e85d8e",
-  "asset": "XiaomiSmartFlasher-98.exe",
-  "sig": "r455K30zv9Rlxa/KMUA018C7cfNx/y9e8UQXlM9wMvTODfwkOjp+eM4Jo/XGGaqjor7MezuLngJxaGnKck+eMw=="
+  "sha256": "adda05c8543162e678891bc32bc47ce08b2d5999034d7ea8b444a4c3d11cb859",
+  "asset": "XiaomiSmartFlasher-99.exe",
+  "sig": "ERPu6GYvG75YxJ+zzjQBsn3NOQGMcZQHkSkbL1K5cObY88bS5SaVazS3KNWyZWOiIaBZ3Uzr2sBX34xft9Xn8g=="
 }

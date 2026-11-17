@@ -1,11 +1,11 @@
 {
   "v": 2,
   "tool": "gsm-pro-toolkit",
-  "build": 99,
-  "date": "17/11/2026",
-  "note": "Sua: nut Thu muc tool (cot thu 6 thanh nut)",
-  "size": 6323200,
-  "sha256": "adda05c8543162e678891bc32bc47ce08b2d5999034d7ea8b444a4c3d11cb859",
-  "asset": "GsmProToolkit-99.exe",
-  "sig": "9CCifPalkVBBort6Dv46SAo+1gAVPSOMGRmNaHuAhgmCqODITXrSskjMexMQqW6Yl0Fb9Lm2QIkBytxcgwb0Ew=="
+  "build": 100,
+  "date": "18/11/2026",
+  "note": "Che do Apple: nut sau Flash Xiaomi + khung noi dung trong",
+  "size": 6327296,
+  "sha256": "b60a4c32d0546d758d003c14a4095382904e89e83a16c4c43561ae15faa669e2",
+  "asset": "GsmProToolkit-100.exe",
+  "sig": "xj3qEa/Wwwe9i3NM9o4wfP9BULpEiHqH65rdE0c34ZRISvox6k/+9Qw970Sz+Q9gDbqh2T1J3nFXgo5VabROGQ=="
 }

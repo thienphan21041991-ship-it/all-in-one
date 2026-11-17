@@ -1,0 +1,11 @@
+{
+  "v": 2,
+  "tool": "gsm-pro-toolkit",
+  "build": 93,
+  "date": "17/11/2026",
+  "note": "Đổi tên dự án thành GSM Pro Toolkit: tên tool, tên tệp exe, kênh GitHub gsm-pro-toolkit (giữ kênh cũ cho máy cũ tự cập nhật), thư mục dữ liệu tự chuyển",
+  "size": 5896192,
+  "sha256": "87098c53e5c568dd87891e20960f99646ec2dea87dcece016e7b0829e57d2a4b",
+  "asset": "GsmProToolkit-93.exe",
+  "sig": "j9It5maL6xnHodsppEIH2c7PjzqBACokO4O8wcFhmNqEH8/jK0BdsP1qzrYVoRjxxGxaZEc+k3naVeysSlONmg=="
+}

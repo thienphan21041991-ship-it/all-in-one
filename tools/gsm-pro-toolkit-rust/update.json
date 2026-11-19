@@ -1,0 +1,11 @@
+{
+  "asset": "GsmProToolkit-123.exe",
+  "build": 123,
+  "date": "19/11/2026",
+  "note": "",
+  "sha256": "062753fd23b48cd60c69d2a86e1e5a4cb2ca8738fc894d21203f433743dec0f1",
+  "sig": "WJrDIXFR7HipPHDyLQYUos+76htknbN1efNYJ1LV/hK7tSnLHy4fi+FXp/EUXpEY3YSp3h9roVbhqEQK/vY58w==",
+  "size": 6504448,
+  "tool": "gsm-pro-toolkit-rust",
+  "v": 2
+}

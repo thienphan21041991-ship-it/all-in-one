@@ -1,9 +1,32 @@
 {
-  "date": "19/11/2026",
-  "items": [],
+  "date": "21/11/2026",
+  "items": [
+    {
+      "author": "",
+      "channel": "",
+      "desc": "",
+      "disabled": false,
+      "disabled_note": "",
+      "file": "hub-unlocktool-9641a876f7c8.zip",
+      "group": "Tool",
+      "homepage": "",
+      "id": "unlocktool",
+      "kind": "depot",
+      "min_app": "",
+      "mirror_urls": [],
+      "name": "UnlockTool",
+      "notes": "",
+      "publisher": "",
+      "run": "",
+      "sha256": "9641a876f7c855732ec45b82706cd770f0488b2e1aafbb7fbbf16dfddf8e72f7",
+      "size": 229277695,
+      "url": "",
+      "version": "17-11"
+    }
+  ],
   "min_app": "",
   "mirrors": [],
-  "sig": "FUv57JqrD9npMic3tMPX2ImRRR36J9HCOXUo8znzmflNxCkLdD7jOAOxNbc4f9boM24fHBEjUAbq5aP2TvYjyg==",
+  "sig": "DoQF2j6VgJbCGWNQRKGm62TyKvhwuNxH57G++F2V/aHLEBuqzpoPkvQKJrdfMSokXGLN2O7527ne0Ay8TAE3jw==",
   "v": 2,
-  "ver": 2
+  "ver": 3
 }

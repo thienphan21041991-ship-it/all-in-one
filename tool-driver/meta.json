@@ -1,13 +1,6 @@
 {
-  "items": [
-    {
-      "icon": "",
-      "icon_sha256": "",
-      "id": "unlocktool",
-      "updated": "2026-11-21"
-    }
-  ],
-  "sig": "ttquIQ/uWVUwbwfjrdBPuKYiz/ogkEgMZIEqKwZKKSNSYpCJ0bCq1KCUZArB4kqg922XRk2GaPtoLuatu+uPkQ==",
+  "items": [],
+  "sig": "wH1c8KXrfqz8XRu/Z9rkXvowUNR4ISjXVhna145Ua9+dIW9OUSEFmsuAcgR2obvCtwd73FCWJVk1bHKFR4+1mQ==",
   "v": 1,
-  "ver": 1
+  "ver": 2
 }

@@ -7,6 +7,28 @@
       "desc": "",
       "disabled": false,
       "disabled_note": "",
+      "file": "hub-eft-pro-6136f3d877ba.zip",
+      "group": "Tool",
+      "homepage": "",
+      "id": "eft-pro",
+      "kind": "depot",
+      "min_app": "",
+      "mirror_urls": [],
+      "name": "EFT Pro",
+      "notes": "",
+      "publisher": "",
+      "run": "",
+      "sha256": "6136f3d877baf9b7036dfb3ae4878db66ea4ea94706efe064c39d60850123654",
+      "size": 92310369,
+      "url": "",
+      "version": "v5.6.8"
+    },
+    {
+      "author": "",
+      "channel": "",
+      "desc": "",
+      "disabled": false,
+      "disabled_note": "",
       "file": "hub-unlocktool-9641a876f7c8.zip",
       "group": "Tool",
       "homepage": "",
@@ -26,7 +48,7 @@
   ],
   "min_app": "",
   "mirrors": [],
-  "sig": "dYvRu6FL0qgfoLaxu+q4sTDgT8IGP43s5uslDi5pS4n/+NOZPqFifF327WKMyPoZPboEgT6HmyhHx7wC5yqPVg==",
+  "sig": "1ULlXzrsCw+xLJeLvPx6IZM87V8THYTHvbuQxANrU+7P/XCl9vzEQj34zZjtO5DFDZ8jlM9QS28piHzr+Sj4tA==",
   "v": 2,
-  "ver": 5
+  "ver": 6
 }

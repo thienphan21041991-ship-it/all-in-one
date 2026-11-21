@@ -1,6 +1,13 @@
 {
-  "items": [],
-  "sig": "wH1c8KXrfqz8XRu/Z9rkXvowUNR4ISjXVhna145Ua9+dIW9OUSEFmsuAcgR2obvCtwd73FCWJVk1bHKFR4+1mQ==",
+  "items": [
+    {
+      "icon": "unlocktool-275301d1dab6.png",
+      "icon_sha256": "275301d1dab6f00e63ea4bc41ed4e5bda65da4bcb3f36d07a2f37272ea4b73ce",
+      "id": "unlocktool",
+      "updated": ""
+    }
+  ],
+  "sig": "Pjz90VzspPr3oST/2Nts6CjhKQvzkATVmWIbNRiWyL/VU/rx/oEViMN1+PftNoOwL7onnZR3Drtkex/2bnjYlQ==",
   "v": 1,
-  "ver": 2
+  "ver": 3
 }

@@ -1,13 +1,19 @@
 {
   "items": [
     {
+      "icon": "eft-pro-b7d55843b2ee.png",
+      "icon_sha256": "b7d55843b2ee10176deb6c3d5e9b44968b1539a993a01bb932008cfd510c0f29",
+      "id": "eft-pro",
+      "updated": ""
+    },
+    {
       "icon": "unlocktool-275301d1dab6.png",
       "icon_sha256": "275301d1dab6f00e63ea4bc41ed4e5bda65da4bcb3f36d07a2f37272ea4b73ce",
       "id": "unlocktool",
       "updated": ""
     }
   ],
-  "sig": "zV3up8HCpx00wCLWI7iXuVTkEAMiBLteHdySxV9CMATSCbYSK6iNRCGHZGwRPrWPq+rkbFrvOGoKlcaLh/GMOg==",
+  "sig": "FING9BUIV891Yty5UOQNWtPfrPZP5UcN38AbC+GMWNLaT/TGNYf7Xy2DQz12UPDSdNJW8HCc/gJIp4DH9cPJZQ==",
   "v": 1,
-  "ver": 5
+  "ver": 6
 }

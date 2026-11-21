@@ -14,7 +14,7 @@
       "kind": "depot",
       "min_app": "",
       "mirror_urls": [],
-      "name": "UnlockTool",
+      "name": "Unlocktool",
       "notes": "",
       "publisher": "",
       "run": "",
@@ -26,7 +26,7 @@
   ],
   "min_app": "",
   "mirrors": [],
-  "sig": "DoQF2j6VgJbCGWNQRKGm62TyKvhwuNxH57G++F2V/aHLEBuqzpoPkvQKJrdfMSokXGLN2O7527ne0Ay8TAE3jw==",
+  "sig": "ODMUVQbacHpgIMZdN/Sjc4KKmrSMOTnPmecTWUSkutFX9KXrnuZ6fTTz+lTbmNxHCnY5NJ5h6G3l/rAOizFIOg==",
   "v": 2,
-  "ver": 3
+  "ver": 4
 }

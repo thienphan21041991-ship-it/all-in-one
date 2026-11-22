@@ -2,6 +2,17 @@
   "date": "22/11/2026",
   "items": [
     {
+      "file": "hub-apple-ramdisk-tool-204cfc58e99a.zip",
+      "group": "Tool",
+      "id": "apple-ramdisk-tool",
+      "kind": "depot",
+      "name": "APPLE RAMDISK TOOL",
+      "run": "",
+      "sha256": "204cfc58e99a6dcec4c73c37bcc200f72d22316f983f2c7012a1f67bef912eef",
+      "size": 585335547,
+      "url": ""
+    },
+    {
       "file": "hub-eft-pro-1e75dcb50d4a.zip",
       "group": "Tool",
       "id": "eft-pro",
@@ -13,7 +24,7 @@
       "url": ""
     }
   ],
-  "sig": "ScWBOj/o2tZt3hmGgbhMyzJ979rGZV+/RDc421NpwKQ5fuK/D7L4fXA15u+xdMH6ZdaBIfhCZEsF6CwLElYwMg==",
+  "sig": "Dwtqs65KI9XV3l4wYGQnfGgMKdIxctUoh5gDcNvAhK8h9hJrf3j1U+rJBf6mTnzNVPJZCdN/F+xpPNz1L1Mthg==",
   "v": 1,
-  "ver": 17
+  "ver": 18
 }

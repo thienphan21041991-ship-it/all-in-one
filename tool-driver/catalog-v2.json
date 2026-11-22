@@ -29,6 +29,28 @@
       "desc": "",
       "disabled": false,
       "disabled_note": "",
+      "file": "hub-mrst-pro-7ee293193259.zip",
+      "group": "Tool",
+      "homepage": "",
+      "id": "mrst-pro",
+      "kind": "depot",
+      "min_app": "",
+      "mirror_urls": [],
+      "name": "MRST Pro",
+      "notes": "",
+      "publisher": "",
+      "run": "",
+      "sha256": "7ee293193259536454fe1a2a014dd09cf0765af8e524b8472eb45c519c433352",
+      "size": 385240627,
+      "url": "",
+      "version": ""
+    },
+    {
+      "author": "",
+      "channel": "",
+      "desc": "",
+      "disabled": false,
+      "disabled_note": "",
       "file": "hub-unlocktool-9641a876f7c8.zip",
       "group": "Tool",
       "homepage": "",
@@ -49,7 +71,7 @@
   ],
   "min_app": "",
   "mirrors": [],
-  "sig": "2c6fvlD8PfHCFGO5oEgJZ5XKCn/zBVKYtgOqGLNnHLIM9hSkmERx7RbnNeSwE0hXheMcJoaVWaS9cO5Q2MB2aQ==",
+  "sig": "Rmsa8c2NguLRrxmX71NtCZOzLEDsWiuWJm+fAsTLwW5ObabEWygAOikEtC1RHiBlKTUFS4gO6cs8yGS0HgvP4w==",
   "v": 2,
-  "ver": 12
+  "ver": 13
 }

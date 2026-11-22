@@ -74,6 +74,28 @@
       "desc": "",
       "disabled": false,
       "disabled_note": "",
+      "file": "hub-titanservice-bypass-aio-06bc53068502.zip",
+      "group": "Tool",
+      "homepage": "",
+      "id": "titanservice-bypass-aio",
+      "kind": "depot",
+      "min_app": "",
+      "mirror_urls": [],
+      "name": "TitanService Bypass AIO",
+      "notes": "",
+      "publisher": "",
+      "run": "",
+      "sha256": "06bc530685023c55f083294c9d0c467fdb95e3f8eea798aba2c9616408595c77",
+      "size": 308379454,
+      "url": "",
+      "version": ""
+    },
+    {
+      "author": "",
+      "channel": "",
+      "desc": "",
+      "disabled": false,
+      "disabled_note": "",
       "file": "hub-tsm-pro-edition-50a863e8ee98.zip",
       "group": "Tool",
       "homepage": "",
@@ -117,7 +139,7 @@
   ],
   "min_app": "",
   "mirrors": [],
-  "sig": "bybjLkCKeA1ZCguqXRpDmfhROXI01sPY9U24Zir949b7lwGpcCoZ5FZDeFIgIajo1VoP1VsiY0DEX5yAkXBJqQ==",
+  "sig": "tKP8FFmH9QvlQs6zom2NePp6eBdWvYbKeiX/3Cb25AJyfeoQvbnEbiXU3ncKlkFn/RCMdCR2mRNDaK0KB1O49g==",
   "v": 2,
-  "ver": 19
+  "ver": 20
 }

@@ -22,9 +22,20 @@
       "sha256": "1e75dcb50d4a65ff2cc17f755a198aa14ef349734e5aa4926a2769fbb5de7166",
       "size": 91772050,
       "url": ""
+    },
+    {
+      "file": "hub-titanservice-bypass-aio-06bc53068502.zip",
+      "group": "Tool",
+      "id": "titanservice-bypass-aio",
+      "kind": "depot",
+      "name": "TitanService Bypass AIO",
+      "run": "",
+      "sha256": "06bc530685023c55f083294c9d0c467fdb95e3f8eea798aba2c9616408595c77",
+      "size": 308379454,
+      "url": ""
     }
   ],
-  "sig": "5qXoYzkcRQLDPH4f/pQ1FfbStHGdUHx5LTDhuvWkk9DQcuZTBfHbxQFertQa/ocqmcwFUaybvsoL/Phpn4KpWg==",
+  "sig": "xDdg1y4Pe95HbM2qhAVacPmPGYmseabJ5dAGfqJrxS7JYYpbmE0Nn/kraHoJYg+5Xgl5Ifj2zzA/iU/aln48iQ==",
   "v": 1,
-  "ver": 19
+  "ver": 20
 }

@@ -13,8 +13,8 @@
       "updated": "2026-11-22"
     },
     {
-      "icon": "",
-      "icon_sha256": "",
+      "icon": "tsm-pro-edition-04745e1aa7b5.png",
+      "icon_sha256": "04745e1aa7b55a06190cb73bd0603e4c9fdec63195968b712e6491662d7019e3",
       "id": "tsm-pro-edition",
       "updated": "2026-11-22"
     },
@@ -25,7 +25,7 @@
       "updated": "2026-11-17"
     }
   ],
-  "sig": "6elgYAUZUNwKTfjZS5rLOdF4sV06IgvnQGL3E20yLet4CG+x4rNYIRQ9x3B3oOIHJRR593jH7nPizQqJ40wmWw==",
+  "sig": "mebSf4rZl4+Ur+lRgApNGw1v7P7etsmLnnedfthyDZ2LTItMON9gcSyxr358o8uwWQlBsf7p4UsaJFplVgZyvQ==",
   "v": 1,
-  "ver": 11
+  "ver": 12
 }

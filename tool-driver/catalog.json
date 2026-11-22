@@ -11,20 +11,9 @@
       "sha256": "1e75dcb50d4a65ff2cc17f755a198aa14ef349734e5aa4926a2769fbb5de7166",
       "size": 91772050,
       "url": ""
-    },
-    {
-      "file": "hub-tsm-pro-edition-50a863e8ee98.zip",
-      "group": "Tool",
-      "id": "tsm-pro-edition",
-      "kind": "depot",
-      "name": "TSM Pro Edition",
-      "run": "",
-      "sha256": "50a863e8ee98e30b0e7f67a1dcc9f24699ddf633e4763dac2894ef6edbd98af3",
-      "size": 34631845,
-      "url": ""
     }
   ],
-  "sig": "13txa6ZtzGGQfDkH8ijWKeMJt2hd9W1Ygh1o5ri0ql/jv9NC8yz10tRbP35Ir1mY9CI2wrL8WUncTwEAWQZpWQ==",
+  "sig": "ScWBOj/o2tZt3hmGgbhMyzJ979rGZV+/RDc421NpwKQ5fuK/D7L4fXA15u+xdMH6ZdaBIfhCZEsF6CwLElYwMg==",
   "v": 1,
-  "ver": 16
+  "ver": 17
 }

@@ -33,6 +33,7 @@
       "group": "Tool",
       "homepage": "",
       "id": "mrst-pro",
+      "install_path": "C:\\Program Files (x86)\\Mrst Pro\\Mrst Pro\\MRST_1.4.7.exe",
       "kind": "depot",
       "min_app": "",
       "mirror_urls": [],
@@ -71,7 +72,7 @@
   ],
   "min_app": "",
   "mirrors": [],
-  "sig": "Rmsa8c2NguLRrxmX71NtCZOzLEDsWiuWJm+fAsTLwW5ObabEWygAOikEtC1RHiBlKTUFS4gO6cs8yGS0HgvP4w==",
+  "sig": "wKJfeDtSWpDowrgu/WyweIAhkXFFMdWI9PeUsm4Yk2QZCtHVwDq4nn+PAQmh4UREXIP1w677Y/dH2wninMdeuQ==",
   "v": 2,
-  "ver": 13
+  "ver": 14
 }

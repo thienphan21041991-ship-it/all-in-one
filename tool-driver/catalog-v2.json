@@ -1,5 +1,5 @@
 {
-  "date": "21/11/2026",
+  "date": "22/11/2026",
   "items": [
     {
       "author": "",
@@ -7,7 +7,7 @@
       "desc": "",
       "disabled": false,
       "disabled_note": "",
-      "file": "hub-eft-pro-6136f3d877ba.zip",
+      "file": "hub-eft-pro-1fe624e82f51.zip",
       "group": "Tool",
       "homepage": "",
       "id": "eft-pro",
@@ -18,10 +18,10 @@
       "notes": "",
       "publisher": "",
       "run": "",
-      "sha256": "6136f3d877baf9b7036dfb3ae4878db66ea4ea94706efe064c39d60850123654",
-      "size": 92310369,
+      "sha256": "1fe624e82f5152f8049e337340dd2d6ef3e615cfe95132aecb163f16016f16b0",
+      "size": 92138507,
       "url": "",
-      "version": "v5.6.8"
+      "version": "569"
     },
     {
       "author": "",
@@ -48,7 +48,7 @@
   ],
   "min_app": "",
   "mirrors": [],
-  "sig": "TMmARU/Ivk4Mu7rlN2L8MwzVmFApvzRlhEOMhLQJLVbpRclSvOanM5x3AOcJOeNf6NtdXhN2lQEStVXG6+SLsw==",
+  "sig": "yrFIJk0NlksgG1/3I+78S2G8c1g47ROd3QeJ05Dp6X2Tz0JSCkdXBoEYw5eb6E12FmW5lRufxwVCnOQ1maL36Q==",
   "v": 2,
-  "ver": 7
+  "ver": 8
 }

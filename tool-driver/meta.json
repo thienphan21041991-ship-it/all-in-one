@@ -7,8 +7,8 @@
       "updated": "2026-11-22"
     },
     {
-      "icon": "",
-      "icon_sha256": "",
+      "icon": "mrst-pro-8a9ef92bc0c1.png",
+      "icon_sha256": "8a9ef92bc0c1a910b93f4297fc3a46b9f64eb35a1152a7201b3bb44ce4a1e4a2",
       "id": "mrst-pro",
       "updated": "2026-11-22"
     },
@@ -19,7 +19,7 @@
       "updated": "2026-11-17"
     }
   ],
-  "sig": "/LL9dpa3P45je9KTPEUW5T6BBSjjvrdOkDpOvV0oTH7EgoK0hzA9KwDZHk6ZSwkMoRGXiIkmYaZfb9WfRTWfZw==",
+  "sig": "cJmRqBePINojTKFfR/2dRWpALUCxXML54R05ixMtDhFzKH/7wkkfuKw7WvqmWDKD6pIErBP9OAFG5TYr21VZ9w==",
   "v": 1,
-  "ver": 9
+  "ver": 10
 }

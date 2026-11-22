@@ -4,7 +4,7 @@
       "icon": "eft-pro-b7d55843b2ee.png",
       "icon_sha256": "b7d55843b2ee10176deb6c3d5e9b44968b1539a993a01bb932008cfd510c0f29",
       "id": "eft-pro",
-      "updated": ""
+      "updated": "2026-11-22"
     },
     {
       "icon": "unlocktool-275301d1dab6.png",
@@ -13,7 +13,7 @@
       "updated": ""
     }
   ],
-  "sig": "FING9BUIV891Yty5UOQNWtPfrPZP5UcN38AbC+GMWNLaT/TGNYf7Xy2DQz12UPDSdNJW8HCc/gJIp4DH9cPJZQ==",
+  "sig": "L2/HzylNiuMf8RRHHIUgtYPOpU2nsVfv78bMFSlaVjx3paXJLI85moYfbZ7czkeBdBkRRPO1okXoD3TU4+1QXg==",
   "v": 1,
-  "ver": 6
+  "ver": 7
 }

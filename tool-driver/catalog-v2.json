@@ -56,6 +56,7 @@
       "group": "Tool",
       "homepage": "",
       "id": "tsm-pro-edition",
+      "install_path": "C:\\Program Files (x86)\\TSM-PRO Edition\\TSM-PRO-Edition.exe",
       "kind": "depot",
       "min_app": "",
       "mirror_urls": [],
@@ -94,7 +95,7 @@
   ],
   "min_app": "",
   "mirrors": [],
-  "sig": "hRuwr2zvqb4N0WKqDnFqLif0yzgtNZV7EhL7+oBiGdBCXM9mae+bbGjk7nuvSEgkFqEnVxfKhwXjmxSRi79rcw==",
+  "sig": "USJjrhdA1up66otLhWw8AfWOrp8ZSBzJzgfjW08cKSdUOmFis+tTkAlPZmXeL5AFtvC8yOFI2EpAciJgT3A8HA==",
   "v": 2,
-  "ver": 16
+  "ver": 17
 }

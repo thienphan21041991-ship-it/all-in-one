@@ -11,9 +11,20 @@
       "sha256": "1e75dcb50d4a65ff2cc17f755a198aa14ef349734e5aa4926a2769fbb5de7166",
       "size": 91772050,
       "url": ""
+    },
+    {
+      "file": "hub-mrst-pro-7ee293193259.zip",
+      "group": "Tool",
+      "id": "mrst-pro",
+      "kind": "depot",
+      "name": "MRST Pro",
+      "run": "",
+      "sha256": "7ee293193259536454fe1a2a014dd09cf0765af8e524b8472eb45c519c433352",
+      "size": 385240627,
+      "url": ""
     }
   ],
-  "sig": "V4Zf3JRQnKQbdQbk2De9Pzse119n87K/mfZYqO7fI62twqZy/IQDoKKK7p6LaDxTmU5uK3HcNQN9HAKLDbnCkg==",
+  "sig": "aJxOJI+zM+YChHBkeqSlpMF+RXGELYlXHKrMfTZXYOA0yRYcX+Lv8fJC/6ssEoCSDucrB9TvDoS8zqXhJ7YFeg==",
   "v": 1,
-  "ver": 12
+  "ver": 13
 }

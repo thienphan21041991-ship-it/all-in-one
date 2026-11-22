@@ -21,7 +21,7 @@
       "sha256": "204cfc58e99a6dcec4c73c37bcc200f72d22316f983f2c7012a1f67bef912eef",
       "size": 585335547,
       "url": "",
-      "version": ""
+      "version": "HTH 4.3.2"
     },
     {
       "author": "",
@@ -139,7 +139,7 @@
   ],
   "min_app": "",
   "mirrors": [],
-  "sig": "w3f8w+N7g78/3VJ66i3k4wh8myeS6FAfJDvBqZ7w9yOKx48ytRpXjC9iTbar9hfE78NPdqM7O5LONipG5yWzIQ==",
+  "sig": "tQAoNuGOylQwHihCEFVp9YsvSU4C69iyb9p+u+m2v86EiTOTOeNfXW8+lnts4fGjQ4tV9umhyT1QGt/tseNt2Q==",
   "v": 2,
-  "ver": 22
+  "ver": 23
 }

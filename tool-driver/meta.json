@@ -1,6 +1,12 @@
 {
   "items": [
     {
+      "icon": "",
+      "icon_sha256": "",
+      "id": "apple-ramdisk-tool",
+      "updated": "2026-11-22"
+    },
+    {
       "icon": "eft-pro-b7d55843b2ee.png",
       "icon_sha256": "b7d55843b2ee10176deb6c3d5e9b44968b1539a993a01bb932008cfd510c0f29",
       "id": "eft-pro",
@@ -25,7 +31,7 @@
       "updated": "2026-11-17"
     }
   ],
-  "sig": "mebSf4rZl4+Ur+lRgApNGw1v7P7etsmLnnedfthyDZ2LTItMON9gcSyxr358o8uwWQlBsf7p4UsaJFplVgZyvQ==",
+  "sig": "OcJFPAeKSeUamt4azuEPcy6oiR4DpmD4yCHVHB1D9piaqP3EZhc8HUyzqmzFPT0c+Tvfm7uVa0XGIxoFN0p5ug==",
   "v": 1,
-  "ver": 12
+  "ver": 13
 }

@@ -19,8 +19,8 @@
       "updated": "2026-11-22"
     },
     {
-      "icon": "",
-      "icon_sha256": "",
+      "icon": "titanservice-bypass-aio-fbd70923d23c.png",
+      "icon_sha256": "fbd70923d23c469c6c741a138e291bb288ff4d9f1d286185593050b0d82ad961",
       "id": "titanservice-bypass-aio",
       "updated": "2026-11-22"
     },
@@ -37,7 +37,7 @@
       "updated": "2026-11-17"
     }
   ],
-  "sig": "BIsnYheDGGRLxJUlOhYao7YXazlLekHVB1JspSqdET8T0YoHqms7D0wola0vsPpuZI4ab1dHlXeIJMQT7EQqAg==",
+  "sig": "Ab/iza5Rjjf3CvMzah2vNZirWAPaRcprx7pA9CVhs861UMiCsnEwR+Z24lW9KAY97MaWEKS8gmE7iBE5Mkby+g==",
   "v": 1,
-  "ver": 15
+  "ver": 16
 }

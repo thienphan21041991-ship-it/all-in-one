@@ -1,7 +1,19 @@
 {
   "date": "22/11/2026",
-  "items": [],
-  "sig": "TSY6IOR/b8veJiC8lLBSV6oc9mgQvYrOrBa2SYvIX3hjMQUdjdSlj+AAMBrc3hdPKVF76HdFMnie0Ih9WRn2KA==",
+  "items": [
+    {
+      "file": "hub-eft-pro-1fe624e82f51.zip",
+      "group": "Tool",
+      "id": "eft-pro",
+      "kind": "depot",
+      "name": "EFT Pro",
+      "run": "",
+      "sha256": "1fe624e82f5152f8049e337340dd2d6ef3e615cfe95132aecb163f16016f16b0",
+      "size": 92138507,
+      "url": ""
+    }
+  ],
+  "sig": "8nNbUzWfYMoNJ7dncS+MZUNBOddBZn+kppcDvxWxQ9jzXPjeN1fOJfV9SJA8DIeT5zubqGPopp6V7ZXbPNc/ZA==",
   "v": 1,
-  "ver": 10
+  "ver": 11
 }

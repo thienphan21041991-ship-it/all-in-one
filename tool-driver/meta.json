@@ -7,13 +7,19 @@
       "updated": "2026-11-22"
     },
     {
+      "icon": "",
+      "icon_sha256": "",
+      "id": "mrst-pro",
+      "updated": "2026-11-22"
+    },
+    {
       "icon": "unlocktool-275301d1dab6.png",
       "icon_sha256": "275301d1dab6f00e63ea4bc41ed4e5bda65da4bcb3f36d07a2f37272ea4b73ce",
       "id": "unlocktool",
       "updated": "2026-11-17"
     }
   ],
-  "sig": "8QG6MGaZEjy4+576YzSmlNv9jioMe8aCdkK8Kf0FmKU3boM3nesEXK3/naVj8YAmwyW3XUxVe5hgXo4PrTr0aQ==",
+  "sig": "/LL9dpa3P45je9KTPEUW5T6BBSjjvrdOkDpOvV0oTH7EgoK0hzA9KwDZHk6ZSwkMoRGXiIkmYaZfb9WfRTWfZw==",
   "v": 1,
-  "ver": 8
+  "ver": 9
 }

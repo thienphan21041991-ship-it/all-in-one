@@ -52,6 +52,28 @@
       "desc": "",
       "disabled": false,
       "disabled_note": "",
+      "file": "hub-tsm-pro-edition-50a863e8ee98.zip",
+      "group": "Tool",
+      "homepage": "",
+      "id": "tsm-pro-edition",
+      "kind": "depot",
+      "min_app": "",
+      "mirror_urls": [],
+      "name": "TSM Pro Edition",
+      "notes": "",
+      "publisher": "",
+      "run": "",
+      "sha256": "50a863e8ee98e30b0e7f67a1dcc9f24699ddf633e4763dac2894ef6edbd98af3",
+      "size": 34631845,
+      "url": "",
+      "version": ""
+    },
+    {
+      "author": "",
+      "channel": "",
+      "desc": "",
+      "disabled": false,
+      "disabled_note": "",
       "file": "hub-unlocktool-9641a876f7c8.zip",
       "group": "Tool",
       "homepage": "",
@@ -72,7 +94,7 @@
   ],
   "min_app": "",
   "mirrors": [],
-  "sig": "5/NLQQOU/sVXusl0ob2H1RjVV+C/EbGDkOmH3c6+8vEPtjknWTDqrbrrj/roElCoHhC8Ohg0oLOqeaXPa0sjFg==",
+  "sig": "hRuwr2zvqb4N0WKqDnFqLif0yzgtNZV7EhL7+oBiGdBCXM9mae+bbGjk7nuvSEgkFqEnVxfKhwXjmxSRi79rcw==",
   "v": 2,
-  "ver": 15
+  "ver": 16
 }

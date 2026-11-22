@@ -13,13 +13,19 @@
       "updated": "2026-11-22"
     },
     {
+      "icon": "",
+      "icon_sha256": "",
+      "id": "tsm-pro-edition",
+      "updated": "2026-11-22"
+    },
+    {
       "icon": "unlocktool-275301d1dab6.png",
       "icon_sha256": "275301d1dab6f00e63ea4bc41ed4e5bda65da4bcb3f36d07a2f37272ea4b73ce",
       "id": "unlocktool",
       "updated": "2026-11-17"
     }
   ],
-  "sig": "cJmRqBePINojTKFfR/2dRWpALUCxXML54R05ixMtDhFzKH/7wkkfuKw7WvqmWDKD6pIErBP9OAFG5TYr21VZ9w==",
+  "sig": "6elgYAUZUNwKTfjZS5rLOdF4sV06IgvnQGL3E20yLet4CG+x4rNYIRQ9x3B3oOIHJRR593jH7nPizQqJ40wmWw==",
   "v": 1,
-  "ver": 10
+  "ver": 11
 }

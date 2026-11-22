@@ -21,7 +21,7 @@
       "sha256": "1fe624e82f5152f8049e337340dd2d6ef3e615cfe95132aecb163f16016f16b0",
       "size": 92138507,
       "url": "",
-      "version": "569"
+      "version": ""
     },
     {
       "author": "",
@@ -49,7 +49,7 @@
   ],
   "min_app": "",
   "mirrors": [],
-  "sig": "Cu/s/Q9g2oa0KNEaFj1wE7ba8JpsWKdOd/l9DWVGy3w/ImlCah7vpeEa0vxPpQJbBTpWsWrdCj0AfOj4wfT3Ug==",
+  "sig": "Hj9oL8BAxmyuKoNbESySGXrF4qZ7AE5w25FbbuB6OAJ9O1nFQJYbLxRWQnnlZRNAqwrlfvABlcXVQ9YRGCWb6g==",
   "v": 2,
-  "ver": 10
+  "ver": 11
 }

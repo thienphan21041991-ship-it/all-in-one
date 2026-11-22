@@ -33,6 +33,7 @@
       "group": "Tool",
       "homepage": "",
       "id": "unlocktool",
+      "install_path": "C:\\UnlockTool\\unlocktool.exe",
       "kind": "depot",
       "min_app": "",
       "mirror_urls": [],
@@ -43,12 +44,12 @@
       "sha256": "9641a876f7c855732ec45b82706cd770f0488b2e1aafbb7fbbf16dfddf8e72f7",
       "size": 229277695,
       "url": "",
-      "version": "17-11"
+      "version": ""
     }
   ],
   "min_app": "",
   "mirrors": [],
-  "sig": "yrFIJk0NlksgG1/3I+78S2G8c1g47ROd3QeJ05Dp6X2Tz0JSCkdXBoEYw5eb6E12FmW5lRufxwVCnOQ1maL36Q==",
+  "sig": "RD0Z+c869V/WJHuUG9E669Q+5Rc8U+Vvdm/or71hy2OgBsthQ7QZxrXlTD3sAJsaxMfFBLm493JHOYgNrHbI4g==",
   "v": 2,
-  "ver": 8
+  "ver": 9
 }

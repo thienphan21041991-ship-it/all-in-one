@@ -10,10 +10,10 @@
       "icon": "unlocktool-275301d1dab6.png",
       "icon_sha256": "275301d1dab6f00e63ea4bc41ed4e5bda65da4bcb3f36d07a2f37272ea4b73ce",
       "id": "unlocktool",
-      "updated": ""
+      "updated": "2026-11-17"
     }
   ],
-  "sig": "L2/HzylNiuMf8RRHHIUgtYPOpU2nsVfv78bMFSlaVjx3paXJLI85moYfbZ7czkeBdBkRRPO1okXoD3TU4+1QXg==",
+  "sig": "8QG6MGaZEjy4+576YzSmlNv9jioMe8aCdkK8Kf0FmKU3boM3nesEXK3/naVj8YAmwyW3XUxVe5hgXo4PrTr0aQ==",
   "v": 1,
-  "ver": 7
+  "ver": 8
 }

@@ -19,6 +19,12 @@
       "updated": "2026-11-22"
     },
     {
+      "icon": "",
+      "icon_sha256": "",
+      "id": "libusb-win32",
+      "updated": "2026-11-24"
+    },
+    {
       "icon": "mrst-pro-8a9ef92bc0c1.png",
       "icon_sha256": "8a9ef92bc0c1a910b93f4297fc3a46b9f64eb35a1152a7201b3bb44ce4a1e4a2",
       "id": "mrst-pro",
@@ -73,7 +79,7 @@
       "updated": "2026-11-23"
     }
   ],
-  "sig": "tza27O0vDtgziNOyfZ/vFMa6oCNO+JnIF5nlw6NAL+HCXeF/lARMGhm5SF1gxsj3AemImstOkvaBZcVtDNKx3w==",
+  "sig": "ybIp8OVKmbmGQdKcllGNYmaI7zNaqsi2JuodN/oyd29AsbIL4xa+rXUVxMc3WXmr7gKjL85MBz/JzuHPrYsH2A==",
   "v": 1,
-  "ver": 28
+  "ver": 29
 }

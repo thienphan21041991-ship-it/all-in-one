@@ -28,7 +28,7 @@
       "icon": "tsm-pro-edition-04745e1aa7b5.png",
       "icon_sha256": "04745e1aa7b55a06190cb73bd0603e4c9fdec63195968b712e6491662d7019e3",
       "id": "tsm-pro-edition",
-      "updated": "2026-11-22"
+      "updated": "2026-11-23"
     },
     {
       "icon": "unlocktool-275301d1dab6.png",
@@ -37,7 +37,7 @@
       "updated": "2026-11-17"
     }
   ],
-  "sig": "Ab/iza5Rjjf3CvMzah2vNZirWAPaRcprx7pA9CVhs861UMiCsnEwR+Z24lW9KAY97MaWEKS8gmE7iBE5Mkby+g==",
+  "sig": "rRHY3lkQbmAHJ5oFQw+5G8GKgffyOdyZSey0+J1u7UCQudZGOUj+2z3yCqiWkZop27V2WQoNMwb11HS1XymEkA==",
   "v": 1,
-  "ver": 16
+  "ver": 17
 }

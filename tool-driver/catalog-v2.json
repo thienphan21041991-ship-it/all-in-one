@@ -1,5 +1,5 @@
 {
-  "date": "22/11/2026",
+  "date": "23/11/2026",
   "items": [
     {
       "author": "",
@@ -96,7 +96,7 @@
       "desc": "",
       "disabled": false,
       "disabled_note": "",
-      "file": "hub-tsm-pro-edition-50a863e8ee98.zip",
+      "file": "hub-tsm-pro-edition-d7c5ba650467.zip",
       "group": "Tool",
       "homepage": "",
       "id": "tsm-pro-edition",
@@ -108,8 +108,8 @@
       "notes": "",
       "publisher": "",
       "run": "",
-      "sha256": "50a863e8ee98e30b0e7f67a1dcc9f24699ddf633e4763dac2894ef6edbd98af3",
-      "size": 34631845,
+      "sha256": "d7c5ba650467fa5011b791055c18f5af72db60a6d9caa212e3a469f29031c904",
+      "size": 41926913,
       "url": "",
       "version": ""
     },
@@ -139,7 +139,7 @@
   ],
   "min_app": "",
   "mirrors": [],
-  "sig": "tQAoNuGOylQwHihCEFVp9YsvSU4C69iyb9p+u+m2v86EiTOTOeNfXW8+lnts4fGjQ4tV9umhyT1QGt/tseNt2Q==",
+  "sig": "NEuLaIRjq0+agu5/2E4/u0nrCfninxD4F9fzGSsGFOLp1BydfKFZNPmEWkdVmhA/xGL277k69ENr2NON5P+4vw==",
   "v": 2,
-  "ver": 23
+  "ver": 24
 }

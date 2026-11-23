@@ -224,11 +224,33 @@
       "size": 229352525,
       "url": "",
       "version": ""
+    },
+    {
+      "author": "",
+      "channel": "",
+      "desc": "",
+      "disabled": false,
+      "disabled_note": "",
+      "file": "hub-usb-1-9-7-1d4c0f3cdfb2.zip",
+      "group": "Tool",
+      "homepage": "",
+      "id": "usb-1-9-7",
+      "kind": "depot",
+      "min_app": "",
+      "mirror_urls": [],
+      "name": "USB 1.9.7",
+      "notes": "",
+      "publisher": "",
+      "run": "",
+      "sha256": "1d4c0f3cdfb2d3d69ec6627996c4b200b482610c12528bcf76cd42b489596f11",
+      "size": 2510204,
+      "url": "",
+      "version": ""
     }
   ],
   "min_app": "",
   "mirrors": [],
-  "sig": "HSYin/cu10IpFACaRB4Fkr4HaBRCY5gof+5k6Rh3rJ4SMtlCQ5tfkWLg1DdYbH/WVP+s25UZM+6/aJw0lEA9uQ==",
+  "sig": "fU7P2oXM1ZKBF3jgMsUcFMuwdregXWHBOFuku3JeZH3x9qTBisr4Oyw2yHwl5x6JgL7ZXt+zKRfk2d3CDDVKBA==",
   "v": 2,
-  "ver": 43
+  "ver": 44
 }

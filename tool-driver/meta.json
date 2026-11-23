@@ -58,10 +58,10 @@
       "icon": "unlocktool-275301d1dab6.png",
       "icon_sha256": "275301d1dab6f00e63ea4bc41ed4e5bda65da4bcb3f36d07a2f37272ea4b73ce",
       "id": "unlocktool",
-      "updated": "2026-11-17"
+      "updated": "2026-11-23"
     }
   ],
-  "sig": "7Q5XtgnE5ynLZ7YVvVhbxd9j56MBByrSPaabInEXkCJcy+Egd2KwQabGytLHMnbM+aysOuAAohS34rGxBUSFZQ==",
+  "sig": "xMPd6gmPTky1SEw6D1pd3xm50urO/GNsPZegFy0GC1EG9InXXMDEDZFEPBjXLJMUJpIh/e5EPr3fLDPzW91UFQ==",
   "v": 1,
-  "ver": 25
+  "ver": 26
 }

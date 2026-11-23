@@ -65,9 +65,15 @@
       "icon_sha256": "",
       "id": "usb-1-9-7",
       "updated": "2026-11-23"
+    },
+    {
+      "icon": "",
+      "icon_sha256": "",
+      "id": "winrar-x64-7-23",
+      "updated": "2026-11-23"
     }
   ],
-  "sig": "woNuOPCnZlnOh7vux9mNQVicAvhFeXrNBlGmnOmfAgvcTSg9Ua6zrG/s8xg8kDj8n2Ai0yJMaCmXA3nzIn3eOg==",
+  "sig": "tza27O0vDtgziNOyfZ/vFMa6oCNO+JnIF5nlw6NAL+HCXeF/lARMGhm5SF1gxsj3AemImstOkvaBZcVtDNKx3w==",
   "v": 1,
-  "ver": 27
+  "ver": 28
 }

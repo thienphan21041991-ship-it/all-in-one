@@ -246,11 +246,33 @@
       "size": 2510204,
       "url": "",
       "version": ""
+    },
+    {
+      "author": "",
+      "channel": "",
+      "desc": "",
+      "disabled": false,
+      "disabled_note": "",
+      "file": "hub-winrar-x64-7-23-9fedd584247d.zip",
+      "group": "Tool",
+      "homepage": "",
+      "id": "winrar-x64-7-23",
+      "kind": "depot",
+      "min_app": "",
+      "mirror_urls": [],
+      "name": "WinRAR x64 7.23",
+      "notes": "",
+      "publisher": "",
+      "run": "",
+      "sha256": "9fedd584247d67f5346850ca70efcc724c0296195393675b4544584178d461f9",
+      "size": 3574541,
+      "url": "",
+      "version": ""
     }
   ],
   "min_app": "",
   "mirrors": [],
-  "sig": "fU7P2oXM1ZKBF3jgMsUcFMuwdregXWHBOFuku3JeZH3x9qTBisr4Oyw2yHwl5x6JgL7ZXt+zKRfk2d3CDDVKBA==",
+  "sig": "9zBxYYAWDKFHh6AUlfR7Sx225I2jM7Gx0w0Lmrsz8mTRQawrIS16fQxgmfn9riBkLCBiM5R6mGsKsREgySbdbw==",
   "v": 2,
-  "ver": 44
+  "ver": 45
 }

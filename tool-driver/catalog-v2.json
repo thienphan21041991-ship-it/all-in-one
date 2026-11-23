@@ -37,7 +37,7 @@
       "kind": "depot",
       "min_app": "",
       "mirror_urls": [],
-      "name": "[Client] KernelPro - USB over Ethernet",
+      "name": "KernelPro",
       "notes": "",
       "publisher": "",
       "run": "",
@@ -162,7 +162,7 @@
   ],
   "min_app": "",
   "mirrors": [],
-  "sig": "GX0q+BcA974Gu0LS76kHqE3z3PJx66TPdvtrh9oJ/1sokUHUgw92Mbiw8hcP0DXhTpbk7Rlq73y4Qc98Aym8bQ==",
+  "sig": "5frAko69FqnbyYYVg1GCwJJkMHhfxABn896pW9sQgcntka6KM6Ik+e/gHGT7eFyChlZGOH0Mq4CxWV4R97YWfg==",
   "v": 2,
-  "ver": 26
+  "ver": 27
 }

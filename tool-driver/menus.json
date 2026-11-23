@@ -1,5 +1,40 @@
 {
-  "driver": [],
+  "driver": [
+    {
+      "key": "b:mtk",
+      "label": "Driver MTK"
+    },
+    {
+      "behavior": "install",
+      "key": "b:libusb",
+      "label": "LibUSB-Win32",
+      "src": "libusb-win32"
+    },
+    {
+      "key": "b:adb",
+      "label": "Driver ADB"
+    },
+    {
+      "key": "b:samsung",
+      "label": "Driver Samsung"
+    },
+    {
+      "key": "b:qualcomm",
+      "label": "Driver Qualcomm"
+    },
+    {
+      "key": "b:spd",
+      "label": "Driver SPD"
+    },
+    {
+      "key": "b:kirin",
+      "label": "Driver Kirin"
+    },
+    {
+      "key": "b:all",
+      "label": "Cài tất cả"
+    }
+  ],
   "tools": [
     {
       "key": "b:devmgr",

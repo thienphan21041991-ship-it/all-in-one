@@ -29,6 +29,28 @@
       "desc": "",
       "disabled": false,
       "disabled_note": "",
+      "file": "hub-client-kernelpro-usb-over-ethernet-a7e6ebcb91a6.zip",
+      "group": "Tool",
+      "homepage": "",
+      "id": "client-kernelpro-usb-over-ethernet",
+      "kind": "depot",
+      "min_app": "",
+      "mirror_urls": [],
+      "name": "[Client] KernelPro - USB over Ethernet",
+      "notes": "",
+      "publisher": "",
+      "run": "",
+      "sha256": "a7e6ebcb91a60f81b51716e20b7c6d30aec2be3ac04752bfddf4cf374a57a8e8",
+      "size": 3532385,
+      "url": "",
+      "version": ""
+    },
+    {
+      "author": "",
+      "channel": "",
+      "desc": "",
+      "disabled": false,
+      "disabled_note": "",
       "file": "hub-eft-pro-1e75dcb50d4a.zip",
       "group": "Tool",
       "homepage": "",
@@ -139,7 +161,7 @@
   ],
   "min_app": "",
   "mirrors": [],
-  "sig": "NEuLaIRjq0+agu5/2E4/u0nrCfninxD4F9fzGSsGFOLp1BydfKFZNPmEWkdVmhA/xGL277k69ENr2NON5P+4vw==",
+  "sig": "L/Lj7TGmDRhbrKnyfQSEf3Cyq0iuyHCqeSPBeQorHrWCaugqbz11e1cpQj9wLa9ivvgo16E+biqkMRjU0KsIhg==",
   "v": 2,
-  "ver": 24
+  "ver": 25
 }

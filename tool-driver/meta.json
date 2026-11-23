@@ -25,8 +25,8 @@
       "updated": "2026-11-22"
     },
     {
-      "icon": "",
-      "icon_sha256": "",
+      "icon": "scrcpy-679a5be73e01.png",
+      "icon_sha256": "679a5be73e018606381cd6ffbefbd945bafb5a8db47e8215f4bbcf03898323bb",
       "id": "scrcpy",
       "updated": "2026-11-23"
     },
@@ -55,7 +55,7 @@
       "updated": "2026-11-17"
     }
   ],
-  "sig": "SqcmKxDCFrOw6IXMXXveIwburwZHWFGe/AmXI1hNWQ160oUtFvt8B1XYnSVtt7Dr4B+TYhNgRxr3z4li+8H0JA==",
+  "sig": "EPkscCK/YvUon2DlsMYdIJddhvMrXqg3gAJE8lDwHyRfPoi6IqZu2v+z/2cARTFYfWuR1qvob2S2PlO5Wlm6Ng==",
   "v": 1,
-  "ver": 22
+  "ver": 23
 }

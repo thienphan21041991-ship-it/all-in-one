@@ -97,6 +97,28 @@
       "desc": "",
       "disabled": false,
       "disabled_note": "",
+      "file": "hub-scrcpy-fafd59f25216.zip",
+      "group": "Tool",
+      "homepage": "",
+      "id": "scrcpy",
+      "kind": "depot",
+      "min_app": "",
+      "mirror_urls": [],
+      "name": "scrcpy",
+      "notes": "",
+      "publisher": "",
+      "run": "",
+      "sha256": "fafd59f2521632be32594bf23e459cb4ab0c136cb39ba8de5aae8df6ad02da2d",
+      "size": 11237909,
+      "url": "",
+      "version": "win64-v5.0.1"
+    },
+    {
+      "author": "",
+      "channel": "",
+      "desc": "",
+      "disabled": false,
+      "disabled_note": "",
       "file": "hub-tg82part-b60a2c461c1c.zip",
       "group": "Tool",
       "homepage": "",
@@ -184,7 +206,7 @@
   ],
   "min_app": "",
   "mirrors": [],
-  "sig": "MIQy7KAkJEKrB/YfKFLQKFgfNtYkAZE+VKdk37COl9r3MBRF99/foVJJDC7HKalihMcrqfuyBbIE9osE84mj/Q==",
+  "sig": "nF6Eq8l6MFKex+K2acvW7RA9tQGg/ovYgN2r4TS/IaFt/3DzIyqxdbHx0Fj1HyAUUgxbOWfUttu8j5lH4OZAFw==",
   "v": 2,
-  "ver": 30
+  "ver": 31
 }

@@ -97,6 +97,28 @@
       "desc": "",
       "disabled": false,
       "disabled_note": "",
+      "file": "hub-samsung-small-toolkit-2a0d2076b1c7.zip",
+      "group": "Tool",
+      "homepage": "",
+      "id": "samsung-small-toolkit",
+      "kind": "depot",
+      "min_app": "",
+      "mirror_urls": [],
+      "name": "Samsung small toolkit",
+      "notes": "",
+      "publisher": "",
+      "run": "",
+      "sha256": "2a0d2076b1c703d47f234d76bfe9867a6d503fe9cb38f5021f997b8d623ad6f9",
+      "size": 44709,
+      "url": "",
+      "version": ""
+    },
+    {
+      "author": "",
+      "channel": "",
+      "desc": "",
+      "disabled": false,
+      "disabled_note": "",
       "file": "hub-scrcpy-fafd59f25216.zip",
       "group": "Tool",
       "homepage": "",
@@ -206,7 +228,7 @@
   ],
   "min_app": "",
   "mirrors": [],
-  "sig": "/Q1v4mJz5ATVJPp0OjScyd8lVbwRzkj9t6G26mMLjiX0IL2jn2xu2VMzuIYaqAZP9aX3EK/0xtLLdA9l+VhjKQ==",
+  "sig": "XYHHTBVfvvnehmeatTwPNFNoEGNmZBUo0+rudfdtRUZJicD7eYq3erWG/qYkIiM+HjtL6JTTtsu6nH247lXxdQ==",
   "v": 2,
-  "ver": 39
+  "ver": 40
 }

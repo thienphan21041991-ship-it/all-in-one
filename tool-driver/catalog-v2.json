@@ -44,7 +44,7 @@
       "sha256": "a7e6ebcb91a60f81b51716e20b7c6d30aec2be3ac04752bfddf4cf374a57a8e8",
       "size": 3532385,
       "url": "",
-      "version": ""
+      "version": "Client"
     },
     {
       "author": "",
@@ -228,7 +228,7 @@
   ],
   "min_app": "",
   "mirrors": [],
-  "sig": "xUBWJ70rZjFESvZ4BUndwpWT6mNQZIoJPrXFEG3qJnZYxLz750khUJolHk7ZT2vD65BVYoJDcUjeG9NAtcCOHA==",
+  "sig": "J8oszGf+uAqf5VgGlaALHnFlAh5is4N0t/CoYAWwrE05IPiTFsg6toj3eKUBfdGMdAVqHHeUYpvifeF0ipXCIg==",
   "v": 2,
-  "ver": 41
+  "ver": 42
 }

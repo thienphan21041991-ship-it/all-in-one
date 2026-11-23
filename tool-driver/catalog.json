@@ -11,9 +11,20 @@
       "sha256": "1e75dcb50d4a65ff2cc17f755a198aa14ef349734e5aa4926a2769fbb5de7166",
       "size": 91772050,
       "url": ""
+    },
+    {
+      "file": "hub-tg82part-b60a2c461c1c.zip",
+      "group": "Tool",
+      "id": "tg82part",
+      "kind": "depot",
+      "name": "TG82PART",
+      "run": "",
+      "sha256": "b60a2c461c1c5e799c894e8d44f5649b5ca72d435e585a30694f1626d92dcf76",
+      "size": 65503154,
+      "url": ""
     }
   ],
-  "sig": "rka/GbXkzwOTldeMggVe/XWm4T1kd9/lmKgEIvThBFbeepVs0OFQAIhW0w9TqDqC+mNCL47vhTkHMVB9VkB+Ow==",
+  "sig": "idBELvcTY+b0lgbx0ibTyLMIvNhJAJlZfmKD4J5oz5O4Op7liO2U+DLjQ0q3UhyGF0X2jt+Lkk+7olldcMFUew==",
   "v": 1,
-  "ver": 28
+  "ver": 29
 }

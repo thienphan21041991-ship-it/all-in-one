@@ -25,8 +25,8 @@
       "updated": "2026-11-22"
     },
     {
-      "icon": "",
-      "icon_sha256": "",
+      "icon": "tg82part-76977dcfc4fd.png",
+      "icon_sha256": "76977dcfc4fd8b0f3a12716d7c753cc8a89bdc7f9391f39a0ca9d10e5b9a6036",
       "id": "tg82part",
       "updated": "2026-11-23"
     },
@@ -49,7 +49,7 @@
       "updated": "2026-11-17"
     }
   ],
-  "sig": "OZ3sqKE0xgaXKtC7vEtgsCC2/4empjm93cZqRfMVjRQlSIyAXV1YPmIKjnZ9KDYEi3R3o90pfLIf/saMknnrhQ==",
+  "sig": "QOPCYOVPw0S7bRX9/BcmfzfMshE0urlFLFu7GpIcLwSWBPl42cE1RvBOtvTskJ4frQkSLMftRHV0Ls6uSegqSg==",
   "v": 1,
-  "ver": 20
+  "ver": 21
 }

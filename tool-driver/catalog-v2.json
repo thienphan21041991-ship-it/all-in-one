@@ -208,7 +208,7 @@
       "desc": "",
       "disabled": false,
       "disabled_note": "",
-      "file": "hub-unlocktool-9641a876f7c8.zip",
+      "file": "hub-unlocktool-16533a9d1a8b.zip",
       "group": "Tool",
       "homepage": "",
       "id": "unlocktool",
@@ -220,15 +220,15 @@
       "notes": "",
       "publisher": "",
       "run": "",
-      "sha256": "9641a876f7c855732ec45b82706cd770f0488b2e1aafbb7fbbf16dfddf8e72f7",
-      "size": 229277695,
+      "sha256": "16533a9d1a8bb0029610b9eaa805d4276e6a5dac5aa5da337616e30c18d73260",
+      "size": 229352525,
       "url": "",
       "version": ""
     }
   ],
   "min_app": "",
   "mirrors": [],
-  "sig": "J8oszGf+uAqf5VgGlaALHnFlAh5is4N0t/CoYAWwrE05IPiTFsg6toj3eKUBfdGMdAVqHHeUYpvifeF0ipXCIg==",
+  "sig": "HSYin/cu10IpFACaRB4Fkr4HaBRCY5gof+5k6Rh3rJ4SMtlCQ5tfkWLg1DdYbH/WVP+s25UZM+6/aJw0lEA9uQ==",
   "v": 2,
-  "ver": 42
+  "ver": 43
 }

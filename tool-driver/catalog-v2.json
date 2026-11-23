@@ -111,7 +111,7 @@
       "sha256": "fafd59f2521632be32594bf23e459cb4ab0c136cb39ba8de5aae8df6ad02da2d",
       "size": 11237909,
       "url": "",
-      "version": "v5.0.1(x64)"
+      "version": "v5.0.1"
     },
     {
       "author": "",
@@ -206,7 +206,7 @@
   ],
   "min_app": "",
   "mirrors": [],
-  "sig": "lU+00EDyc1MV82R3Ip0Em4xwniGOcnbnK1bCZjKtFhGnJVvtVtnfxmsT+7hlLQ75E/YZViJLfZ7Obu1BJZBELw==",
+  "sig": "ogJZKEZYEvOMvSQoLJ+akO0deM/i9vsNP5jB385s+Is9cf3NowniXaGSDm7TJbaDMl332tmUCRZDu8nxURNkHA==",
   "v": 2,
-  "ver": 37
+  "ver": 38
 }

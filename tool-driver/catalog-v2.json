@@ -33,6 +33,7 @@
       "group": "Tool",
       "homepage": "",
       "id": "client-kernelpro-usb-over-ethernet",
+      "install_path": "C:\\Program Files\\USB over Ethernet\\usboe.exe",
       "kind": "depot",
       "min_app": "",
       "mirror_urls": [],
@@ -161,7 +162,7 @@
   ],
   "min_app": "",
   "mirrors": [],
-  "sig": "L/Lj7TGmDRhbrKnyfQSEf3Cyq0iuyHCqeSPBeQorHrWCaugqbz11e1cpQj9wLa9ivvgo16E+biqkMRjU0KsIhg==",
+  "sig": "GX0q+BcA974Gu0LS76kHqE3z3PJx66TPdvtrh9oJ/1sokUHUgw92Mbiw8hcP0DXhTpbk7Rlq73y4Qc98Aym8bQ==",
   "v": 2,
-  "ver": 25
+  "ver": 26
 }

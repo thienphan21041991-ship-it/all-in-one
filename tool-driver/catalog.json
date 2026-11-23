@@ -22,9 +22,20 @@
       "sha256": "1d4c0f3cdfb2d3d69ec6627996c4b200b482610c12528bcf76cd42b489596f11",
       "size": 2510204,
       "url": ""
+    },
+    {
+      "file": "hub-winrar-x64-7-23-9fedd584247d.zip",
+      "group": "Tool",
+      "id": "winrar-x64-7-23",
+      "kind": "depot",
+      "name": "WinRAR x64 7.23",
+      "run": "",
+      "sha256": "9fedd584247d67f5346850ca70efcc724c0296195393675b4544584178d461f9",
+      "size": 3574541,
+      "url": ""
     }
   ],
-  "sig": "H05XjC0Q7MWqZli7tsQJ4VHgzjpPDEfkfBMoDxvuINPZP7bAoJtcK8mKNNiYVCyiT3Rh6kPaeNDRwjWEZciVNg==",
+  "sig": "iSkAhekZPYxXLJg9I1Oyx6K0JOXHruKxC4cR5rcPrCpm9PTN7dvnp7XHIQDK9Hvofhm5JBYe14mrTzx4h/kBXw==",
   "v": 1,
-  "ver": 44
+  "ver": 45
 }

@@ -7,6 +7,12 @@
       "updated": "2026-11-22"
     },
     {
+      "icon": "",
+      "icon_sha256": "",
+      "id": "client-kernelpro-usb-over-ethernet",
+      "updated": "2026-11-23"
+    },
+    {
       "icon": "eft-pro-b7d55843b2ee.png",
       "icon_sha256": "b7d55843b2ee10176deb6c3d5e9b44968b1539a993a01bb932008cfd510c0f29",
       "id": "eft-pro",
@@ -37,7 +43,7 @@
       "updated": "2026-11-17"
     }
   ],
-  "sig": "rRHY3lkQbmAHJ5oFQw+5G8GKgffyOdyZSey0+J1u7UCQudZGOUj+2z3yCqiWkZop27V2WQoNMwb11HS1XymEkA==",
+  "sig": "aXhNBxhassB8djFpVxqOM7bqVjmsBncszqSkL7/uddcltiTO/NK2X9N8SMhCh8cI6koPQBwp4Ohzc+xh2iNXIQ==",
   "v": 1,
-  "ver": 17
+  "ver": 18
 }

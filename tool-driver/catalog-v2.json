@@ -1,5 +1,5 @@
 {
-  "date": "23/11/2026",
+  "date": "24/11/2026",
   "items": [
     {
       "author": "",
@@ -67,6 +67,28 @@
       "size": 91772050,
       "url": "",
       "version": ""
+    },
+    {
+      "author": "",
+      "channel": "",
+      "desc": "",
+      "disabled": false,
+      "disabled_note": "",
+      "file": "hub-libusb-win32-ded3513d7d39.zip",
+      "group": "Tool",
+      "homepage": "",
+      "id": "libusb-win32",
+      "kind": "depot",
+      "min_app": "",
+      "mirror_urls": [],
+      "name": "LibUSB-Win32",
+      "notes": "",
+      "publisher": "",
+      "run": "",
+      "sha256": "ded3513d7d39ef63886c3449387f8ab3c1fe2622e0d166fbce7bfb7ec5168d69",
+      "size": 617650,
+      "url": "",
+      "version": "1.2.6"
     },
     {
       "author": "",
@@ -272,7 +294,7 @@
   ],
   "min_app": "",
   "mirrors": [],
-  "sig": "9zBxYYAWDKFHh6AUlfR7Sx225I2jM7Gx0w0Lmrsz8mTRQawrIS16fQxgmfn9riBkLCBiM5R6mGsKsREgySbdbw==",
+  "sig": "/4px96dqDOyTC8ILif2KtuisiQwvyoCMzM9hHkNaa307i3VRe4nsGoYLJMPDYmplwLomEIw+g6B9iwxtoLI4rQ==",
   "v": 2,
-  "ver": 45
+  "ver": 46
 }

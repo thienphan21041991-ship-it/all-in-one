@@ -2,17 +2,6 @@
   "date": "23/11/2026",
   "items": [
     {
-      "file": "hub-client-kernelpro-usb-over-ethernet-a7e6ebcb91a6.zip",
-      "group": "Tool",
-      "id": "client-kernelpro-usb-over-ethernet",
-      "kind": "depot",
-      "name": "[Client] KernelPro - USB over Ethernet",
-      "run": "",
-      "sha256": "a7e6ebcb91a60f81b51716e20b7c6d30aec2be3ac04752bfddf4cf374a57a8e8",
-      "size": 3532385,
-      "url": ""
-    },
-    {
       "file": "hub-eft-pro-1e75dcb50d4a.zip",
       "group": "Tool",
       "id": "eft-pro",
@@ -24,7 +13,7 @@
       "url": ""
     }
   ],
-  "sig": "jNWRdk7aDLcu8yu5iI5OlepSptHuEM+ejeQqhaQRKr6GyvkaWSDtseqLpsnO+W7Hnum9SeBj/Py2YRWamaJYiw==",
+  "sig": "M9m7Hd9pZciri/Wums/cCpJTbzwj21J8vUnLWuVvUms2QGJ+IBauLQa4DMWGiD5yK92r4gp/Ylt3JK8ZWaCwOA==",
   "v": 1,
-  "ver": 25
+  "ver": 26
 }

@@ -25,8 +25,8 @@
       "updated": "2026-11-22"
     },
     {
-      "icon": "",
-      "icon_sha256": "",
+      "icon": "samsung-small-toolkit-7111bf77b50a.png",
+      "icon_sha256": "7111bf77b50a7cd8a387c1027f1cec6def06ea7c59b792fa88a86c4fceda63ee",
       "id": "samsung-small-toolkit",
       "updated": "2026-11-23"
     },
@@ -61,7 +61,7 @@
       "updated": "2026-11-17"
     }
   ],
-  "sig": "z00eas9GKSfAoThbtjX2nY/FBnODa9ggK/aJz/0GWVH1KPbBF4gc/XwYyk4yKNtktC4dCm/LqEG+uMnW3rxrZQ==",
+  "sig": "7Q5XtgnE5ynLZ7YVvVhbxd9j56MBByrSPaabInEXkCJcy+Egd2KwQabGytLHMnbM+aysOuAAohS34rGxBUSFZQ==",
   "v": 1,
-  "ver": 24
+  "ver": 25
 }

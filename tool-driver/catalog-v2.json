@@ -111,7 +111,7 @@
       "sha256": "fafd59f2521632be32594bf23e459cb4ab0c136cb39ba8de5aae8df6ad02da2d",
       "size": 11237909,
       "url": "",
-      "version": "win64-v5.0.1"
+      "version": "v5.0.1"
     },
     {
       "author": "",
@@ -206,7 +206,7 @@
   ],
   "min_app": "",
   "mirrors": [],
-  "sig": "RKEZTqDE/BkMaTQtACWqIxQ+vgi3eocqkxwZAGZ42L8Qqk0VSamSo6WljB5JrnZ6MLmsfKWt4NPREWPvmuUFfA==",
+  "sig": "+S36+xwLASolaqFrZL6gmDixWdP2VKbVPDhBNUoxg2yk7upQKyiSc6HQpqwXTOqFE0d9qqKUv59pp7fgYNo9MA==",
   "v": 2,
-  "ver": 35
+  "ver": 36
 }

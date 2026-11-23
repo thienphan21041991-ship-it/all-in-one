@@ -11,9 +11,20 @@
       "sha256": "1e75dcb50d4a65ff2cc17f755a198aa14ef349734e5aa4926a2769fbb5de7166",
       "size": 91772050,
       "url": ""
+    },
+    {
+      "file": "hub-samsung-small-toolkit-2a0d2076b1c7.zip",
+      "group": "Tool",
+      "id": "samsung-small-toolkit",
+      "kind": "depot",
+      "name": "Samsung small toolkit",
+      "run": "",
+      "sha256": "2a0d2076b1c703d47f234d76bfe9867a6d503fe9cb38f5021f997b8d623ad6f9",
+      "size": 44709,
+      "url": ""
     }
   ],
-  "sig": "dzOAuj5+JKyazsz5X3IuaIK3WyG3wQUOmWcvuhbEenPu/4CcvmFf/vKYSV4PSO/xds7ECtVPEqsL1DcbeBlsUg==",
+  "sig": "iLNlWo7BUYcYDyMHgAML4vnylb/LMne2ZSUZ2noaD2PKcgTdqjnJ4wiwpokBCXn5i1lko6hJdGeAoIyJtRTiCg==",
   "v": 1,
-  "ver": 39
+  "ver": 40
 }

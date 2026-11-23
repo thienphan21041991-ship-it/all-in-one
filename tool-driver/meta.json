@@ -59,9 +59,15 @@
       "icon_sha256": "275301d1dab6f00e63ea4bc41ed4e5bda65da4bcb3f36d07a2f37272ea4b73ce",
       "id": "unlocktool",
       "updated": "2026-11-23"
+    },
+    {
+      "icon": "",
+      "icon_sha256": "",
+      "id": "usb-1-9-7",
+      "updated": "2026-11-23"
     }
   ],
-  "sig": "xMPd6gmPTky1SEw6D1pd3xm50urO/GNsPZegFy0GC1EG9InXXMDEDZFEPBjXLJMUJpIh/e5EPr3fLDPzW91UFQ==",
+  "sig": "woNuOPCnZlnOh7vux9mNQVicAvhFeXrNBlGmnOmfAgvcTSg9Ua6zrG/s8xg8kDj8n2Ai0yJMaCmXA3nzIn3eOg==",
   "v": 1,
-  "ver": 26
+  "ver": 27
 }

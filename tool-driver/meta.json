@@ -7,8 +7,8 @@
       "updated": "2026-11-22"
     },
     {
-      "icon": "",
-      "icon_sha256": "",
+      "icon": "client-kernelpro-usb-over-ethernet-5d60fcffdfd3.png",
+      "icon_sha256": "5d60fcffdfd359194c35b85bf672b86a63a3f0a4fa8cb4ed7b922e4e8bba47a1",
       "id": "client-kernelpro-usb-over-ethernet",
       "updated": "2026-11-23"
     },
@@ -43,7 +43,7 @@
       "updated": "2026-11-17"
     }
   ],
-  "sig": "aXhNBxhassB8djFpVxqOM7bqVjmsBncszqSkL7/uddcltiTO/NK2X9N8SMhCh8cI6koPQBwp4Ohzc+xh2iNXIQ==",
+  "sig": "73kGH0WondbRnLpCInZBO08SCd4TfcTjM1c0HLobAcA2vMU81AyYt/64plu/o3L7ToepxnMt+xHGUbni/OzRxw==",
   "v": 1,
-  "ver": 18
+  "ver": 19
 }

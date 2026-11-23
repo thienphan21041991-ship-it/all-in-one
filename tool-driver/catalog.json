@@ -11,9 +11,20 @@
       "sha256": "1e75dcb50d4a65ff2cc17f755a198aa14ef349734e5aa4926a2769fbb5de7166",
       "size": 91772050,
       "url": ""
+    },
+    {
+      "file": "hub-usb-1-9-7-1d4c0f3cdfb2.zip",
+      "group": "Tool",
+      "id": "usb-1-9-7",
+      "kind": "depot",
+      "name": "USB 1.9.7",
+      "run": "",
+      "sha256": "1d4c0f3cdfb2d3d69ec6627996c4b200b482610c12528bcf76cd42b489596f11",
+      "size": 2510204,
+      "url": ""
     }
   ],
-  "sig": "nQQdLj+VKbcaI4vRwK5hd7Alsono576hiahHiKvhZ6XtqyNrk4p5OUcSBbyEEr0ppunUMORAoO27X6C22ZIRsg==",
+  "sig": "H05XjC0Q7MWqZli7tsQJ4VHgzjpPDEfkfBMoDxvuINPZP7bAoJtcK8mKNNiYVCyiT3Rh6kPaeNDRwjWEZciVNg==",
   "v": 1,
-  "ver": 43
+  "ver": 44
 }

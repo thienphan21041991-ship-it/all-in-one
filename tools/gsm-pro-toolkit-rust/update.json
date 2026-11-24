@@ -1,11 +1,11 @@
 {
-  "asset": "GsmProToolkit-171.exe",
-  "build": 171,
+  "asset": "GsmProToolkit-172.exe",
+  "build": 172,
   "date": "24/11/2026",
-  "note": "",
-  "sha256": "658f20b204721d929fa6630c22bf5fd96481c56e511905d3642635dfd9aac09c",
-  "sig": "WrZt8zuD0INaDdF7pGzm08CNLcwAxw6CHo756IA+cRMHN6wUTznsen0d2o5SO3hvR1b+aLqbxJU7Zj248mFrAQ==",
-  "size": 7072256,
+  "note": "Muc Apple: bang he sinh thai tool lay tu Kho tool (Mo tool, Lam moi, Quan ly); sua mo nham adb.exe o menu Cong cu; USB doc lap khoa; nguon update khong hoi mat khau",
+  "sha256": "76b9790ff63a4fbdb2f6615c27799315c72e59977782144b95d5bfbde1ff280e",
+  "sig": "ZdSt2w1UcmSLQ0P2y5vsZgcBtx7RnRbS9Zu6Z3kIIAXwjojKztfBF8ZDBW3rIcjwpKM9xtJZW2DeuR6w7TEjQA==",
+  "size": 7091712,
   "tool": "gsm-pro-toolkit-rust",
   "v": 2
 }

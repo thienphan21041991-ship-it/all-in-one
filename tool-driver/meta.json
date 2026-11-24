@@ -43,6 +43,12 @@
       "updated": "2026-11-24"
     },
     {
+      "icon": "",
+      "icon_sha256": "",
+      "id": "tg82part",
+      "updated": "2026-11-24"
+    },
+    {
       "icon": "titanservice-bypass-aio-fbd70923d23c.png",
       "icon_sha256": "fbd70923d23c469c6c741a138e291bb288ff4d9f1d286185593050b0d82ad961",
       "id": "titanservice-bypass-aio",
@@ -73,7 +79,7 @@
       "updated": "2026-11-23"
     }
   ],
-  "sig": "1pHJPRqZBTeg7SLiApIGLbvKYRfuAn/nWRzpxE5N0OhYwf1T7SaL6dWKqy3C3ZHJPwn7nt6QxUSCeZOqYUXHuA==",
+  "sig": "aAimSjl63K4QkeYnqZvFCL3+mfVzeeBKp/ZZDXqTePAosQkWNiuzLFeJ0fj4NyJ5c/jNc0Kz8XHFFwkjIvnfIg==",
   "v": 1,
-  "ver": 35
+  "ver": 36
 }

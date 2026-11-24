@@ -1,11 +1,11 @@
 {
-  "asset": "GsmProToolkit-173.exe",
-  "build": 173,
+  "asset": "GsmProToolkit-174.exe",
+  "build": 174,
   "date": "24/11/2026",
-  "note": "Kho tool va Apple thanh bang ngay trong cua so chinh (bo nut Flash lon, cum nut nho); menu cong cu la du lieu dong; sua loi dang kho xoa nham menus.json",
-  "sha256": "4c1a82f9e57f7288253c776ef03cd53c2e15aee495be547a1d5678d8cd5e189e",
-  "sig": "9lLdVC1SM+lilU+HQaU4Cvs61pFbGhDaBoyIYCW4YGxphEJbWtzAgJ1tZ/UDPUXKG7tlRliXzsjswPgnIn3PaQ==",
-  "size": 7129600,
+  "note": "Kho tool: dong thoang hon, co icon, du cot (them Ngay up), bo 3 nut Kiem tra cap nhat / Cai dat / Mo; tool da an bien mat han khoi Kho tool",
+  "sha256": "4729b94f259e33b06bd5fb608221b54f516555c49de9c881048d829ef0904046",
+  "sig": "QCjAqgH0lFQ6BOfiFqKm88k98kQ7xx2vKAM6hjjFSP/x3FUF18vEz/IMkKtIFqL2dqkafbJhQ2GgP3SKD6NrKg==",
+  "size": 7136768,
   "tool": "gsm-pro-toolkit-rust",
   "v": 2
 }

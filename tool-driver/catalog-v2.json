@@ -275,6 +275,28 @@
       "desc": "",
       "disabled": false,
       "disabled_note": "",
+      "file": "hub-windows-desktop-runtime-f1286194dcd7.zip",
+      "group": "Tool",
+      "homepage": "",
+      "id": "windows-desktop-runtime",
+      "kind": "depot",
+      "min_app": "",
+      "mirror_urls": [],
+      "name": "Windows Desktop Runtime",
+      "notes": "",
+      "publisher": "",
+      "run": "",
+      "sha256": "f1286194dcd72971048016f645cab9c59d1de33a58071878eee15b90d37a3272",
+      "size": 58472458,
+      "url": "",
+      "version": "v8.0.31"
+    },
+    {
+      "author": "",
+      "channel": "",
+      "desc": "",
+      "disabled": false,
+      "disabled_note": "",
       "file": "hub-winrar-x64-7-23-9fedd584247d.zip",
       "group": "Tool",
       "homepage": "",
@@ -294,7 +316,7 @@
   ],
   "min_app": "",
   "mirrors": [],
-  "sig": "fv55LQzTmIUt2oi7N8b2FBRroTBzvgIfA7mGfeaYfcuEPsM6ru/n2hf1D+fSZ5b4LUpEMtlc3CZJPvZ9xPWcug==",
+  "sig": "X+zCoxcfYyET6Wz9cOW0IYGPnqGT/z19cZ56v7T9lq3JIayb5sIZzrai9SuWDxepdSXPWKm2SS/qUByErnlkEw==",
   "v": 2,
-  "ver": 54
+  "ver": 55
 }

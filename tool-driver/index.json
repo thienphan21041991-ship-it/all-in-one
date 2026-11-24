@@ -1,64 +1,64 @@
 {
-  "v": 1,
-  "ver": 2,
-  "date": "17/11/2026",
+  "date": "24/11/2026",
   "items": [
     {
+      "file": "adb-driver-574c592749a6.zip",
       "id": "adb-driver",
       "name": "Driver ADB",
-      "file": "adb-driver-fe4b56bacbdf.zip",
-      "size": 2617001,
-      "sha256": "fe4b56bacbdf11c6a4d2d7a2739014422ac50cce2bccfda9c076812770939f0b"
+      "sha256": "574c592749a6272c91372457152cf368616f7a63694c13aff5440965f0f4881e",
+      "size": 2619472
     },
     {
+      "file": "kirin-driver-b97fe3f02837.zip",
       "id": "kirin-driver",
       "name": "Driver Kirin",
-      "file": "kirin-driver-25717ea65c9b.zip",
-      "size": 103864,
-      "sha256": "25717ea65c9b8a19f678a6a457b767a485c84180d98c179633192a1cee7ba0aa"
+      "sha256": "b97fe3f02837de70c77ccafd9a476dea0574aae7cfa93795844ecec56fcf2a66",
+      "size": 103909
     },
     {
+      "file": "mtk-driver-25c10779804d.zip",
       "id": "mtk-driver",
       "name": "Driver MTK",
-      "file": "mtk-driver-b4c6476a7aa9.zip",
-      "size": 83086,
-      "sha256": "b4c6476a7aa9a6f1c38814270a5c6ca9cb0fca714d2cab2ad4bc719fdcc745ed"
+      "sha256": "25c10779804da83cd1c120be98e7b0907fdf016a6b55fbabe44591225c06a0d8",
+      "size": 82271
     },
     {
+      "file": "neat-download-128c226cc66f.zip",
       "id": "neat-download",
       "name": "Neat Download Manager",
-      "file": "neat-download-14df1b4e5b82.zip",
-      "size": 891089,
-      "sha256": "14df1b4e5b822c94663e97dca5c6887907098a8e0a75b0978daa3484f6da1767"
+      "sha256": "128c226cc66fd862b5a460309771cef96eaef383498290f927325180719b73f8",
+      "size": 891788
     },
     {
+      "file": "qualcomm-driver-daf5b78ffcfb.zip",
       "id": "qualcomm-driver",
       "name": "Driver Qualcomm",
-      "file": "qualcomm-driver-89d6a10ebcd4.zip",
-      "size": 160080,
-      "sha256": "89d6a10ebcd419390b417b1c41c51968f016be8493b3bfadd1714c3366299ed7"
+      "sha256": "daf5b78ffcfb86a09a027b648e256537e35fe7b336ee188262e7eadc18be13b5",
+      "size": 159905
     },
     {
+      "file": "samsung-driver-124961f275de.zip",
       "id": "samsung-driver",
       "name": "Driver Samsung",
-      "file": "samsung-driver-f11a7c6e1ca6.zip",
-      "size": 273306,
-      "sha256": "f11a7c6e1ca66df2f716c18bf4af7c208cc601a457be5bb6061b9191a2198b08"
+      "sha256": "124961f275de0e7b2154dc89f32193c9c86e498c01dca3a49c483bc21a816cde",
+      "size": 273766
     },
     {
+      "file": "spd-driver-525f6bf5cd6e.zip",
       "id": "spd-driver",
       "name": "Driver SPD",
-      "file": "spd-driver-8a09bd137028.zip",
-      "size": 3441491,
-      "sha256": "8a09bd137028ea9375090e88783101e72c253c23fe9ac1b16757e0000513a3d3"
+      "sha256": "525f6bf5cd6e6a9bfe5b1e2c8c84df24af1f09190a401e047d28c6d737528bfa",
+      "size": 3442641
     },
     {
+      "file": "windows-optimize-4971f6300390.zip",
       "id": "windows-optimize",
       "name": "Tối ưu Windows",
-      "file": "windows-optimize-772ca2cfb0dd.zip",
-      "size": 1627,
-      "sha256": "772ca2cfb0dd17b3a53affced5ae8daa83c3fd4391c00600a765c021b1210d90"
+      "sha256": "4971f63003905fccb8329746380ff371aae92dc212f58f753f648500fea35c93",
+      "size": 1627
     }
   ],
-  "sig": "KyzjRpUKslhgS5ZwOmVvjC32TVrf9SMkY/WpjWzwI+UcAodDwHp/sDu45uB4tnqRPWMHm+51PfNIlasijO649g=="
+  "sig": "nQVc6Nd75mFwPrw8llyn3KsXEdBGoohSgaqXuZaF2UVV3C+a8njRexkiiqNEn30Jt5Sfc16dYMwzgxiSAyeziQ==",
+  "v": 1,
+  "ver": 3
 }

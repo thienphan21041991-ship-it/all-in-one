@@ -62,7 +62,7 @@
     },
     {
       "key": "b:optimize",
-      "label": "Tối ưu UAC/Sleep/Time /Snap"
+      "label": "Tối ưu UAC/Sleep/Time/Snap"
     },
     {
       "key": "b:neat",
@@ -86,6 +86,7 @@
       "label": "Bật/tắt Realtime Protection"
     },
     {
+      "hidden": true,
       "key": "b:defender",
       "label": "Thêm vào loại trừ Windows Defender"
     },

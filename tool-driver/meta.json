@@ -75,11 +75,17 @@
     {
       "icon": "",
       "icon_sha256": "",
+      "id": "windows-desktop-runtime",
+      "updated": "2026-11-24"
+    },
+    {
+      "icon": "",
+      "icon_sha256": "",
       "id": "winrar-x64-7-23",
       "updated": "2026-11-23"
     }
   ],
-  "sig": "+amfSE4jpiLRjx4nQlINTng3L5HLJTEmSC3tGM3bqkK4wdhUZflwQtzBTY+/5G6EDBwKCZSQl7jL+TKBhA6KQQ==",
+  "sig": "GlX5NLkIsVotdlmTAJtORma8A8gBJGz+sBreJIdpSMXKhseHZ7AvBmdNa0NQFQ5JhEEDsv0vSH2qTgf90Iq4ew==",
   "v": 1,
-  "ver": 37
+  "ver": 38
 }

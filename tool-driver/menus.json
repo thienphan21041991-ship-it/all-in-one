@@ -38,6 +38,7 @@
   "hub_hidden": [
     "libusb-win32",
     "samsung-small-toolkit",
+    "scrcpy",
     "usb-1-9-7",
     "winrar-x64-7-23"
   ],

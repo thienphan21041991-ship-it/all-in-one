@@ -37,12 +37,6 @@
       "updated": "2026-11-23"
     },
     {
-      "icon": "tg82part-76977dcfc4fd.png",
-      "icon_sha256": "76977dcfc4fd8b0f3a12716d7c753cc8a89bdc7f9391f39a0ca9d10e5b9a6036",
-      "id": "tg82part",
-      "updated": "2026-11-23"
-    },
-    {
       "icon": "titanservice-bypass-aio-fbd70923d23c.png",
       "icon_sha256": "fbd70923d23c469c6c741a138e291bb288ff4d9f1d286185593050b0d82ad961",
       "id": "titanservice-bypass-aio",
@@ -73,7 +67,7 @@
       "updated": "2026-11-23"
     }
   ],
-  "sig": "Qqp9axXWQ1OGxMU3yY/T/KNI3gUC3fmz9gLYhuZtnXTZy6mDY3Sd0xeBShsseE2PW5lQ3dRJCi0OtcTyogvr6w==",
+  "sig": "2qx7qh7QoaisWvVEgBnNXuwVkTpMToXhtETrc1PElcnWzrPAbVJL2oORYvIxrO9XeJxJccOYpOyFVKrF7KMPxg==",
   "v": 1,
-  "ver": 32
+  "ver": 33
 }

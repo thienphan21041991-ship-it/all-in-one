@@ -37,7 +37,8 @@
   ],
   "hub_hidden": [
     "libusb-win32",
-    "usb-1-9-7"
+    "usb-1-9-7",
+    "winrar-x64-7-23"
   ],
   "tools": [
     {

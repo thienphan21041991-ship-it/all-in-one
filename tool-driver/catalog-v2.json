@@ -141,28 +141,6 @@
       "desc": "",
       "disabled": false,
       "disabled_note": "",
-      "file": "hub-tg82part-b60a2c461c1c.zip",
-      "group": "Tool",
-      "homepage": "",
-      "id": "tg82part",
-      "kind": "depot",
-      "min_app": "",
-      "mirror_urls": [],
-      "name": "TG82PART",
-      "notes": "",
-      "publisher": "",
-      "run": "",
-      "sha256": "b60a2c461c1c5e799c894e8d44f5649b5ca72d435e585a30694f1626d92dcf76",
-      "size": 65503154,
-      "url": "",
-      "version": "v0.2.12"
-    },
-    {
-      "author": "",
-      "channel": "",
-      "desc": "",
-      "disabled": false,
-      "disabled_note": "",
       "file": "hub-titanservice-bypass-aio-2a11ebd81031.zip",
       "group": "Tool",
       "homepage": "",
@@ -272,7 +250,7 @@
   ],
   "min_app": "",
   "mirrors": [],
-  "sig": "9YhvmxW3zMiwnLbleB3McHn6w50x0hiYIAJzHEA+cf6r10CyAE2tTc74A9sXIKyqGccYVNZLY+UpQfRGtOvJGA==",
+  "sig": "ja2dQ4xR3wh+9hdgFdFI11GlFsfs7lkAwYQuEKVGYuQrZuwUC7fyzEUA9NKjaWVStyDOQFKAL/04CLZKHErtdw==",
   "v": 2,
-  "ver": 49
+  "ver": 50
 }

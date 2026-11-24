@@ -151,7 +151,7 @@
       "name": "scrcpy",
       "notes": "",
       "publisher": "",
-      "run": "",
+      "run": "scrcpy.exe",
       "sha256": "f39f3085700cbefa4d731b3b2be28c1f84d5461ce1809ae8042d23369c00f4d6",
       "size": 11277501,
       "url": "",
@@ -272,7 +272,7 @@
   ],
   "min_app": "",
   "mirrors": [],
-  "sig": "shrm3E26A5hpeGsHTTBweUFYLz0X4czm7RGal7+KwQiXFejfiTfXrQtiSAg0xscIslmqSpmEsFRvX17RYKpKgg==",
+  "sig": "a02rVYLOmA3Z4svYJRmI4AUI8NS51Y4snR0qHM9wOz6hku6I5Vi6ELFzX59Ppi9p5Ob0xdjt9JQKWdrfI9QyoQ==",
   "v": 2,
-  "ver": 51
+  "ver": 52
 }

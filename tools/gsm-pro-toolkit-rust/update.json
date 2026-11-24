@@ -1,11 +1,11 @@
 {
-  "asset": "GsmProToolkit-169.exe",
-  "build": 169,
+  "asset": "GsmProToolkit-170.exe",
+  "build": 170,
   "date": "24/11/2026",
   "note": "",
-  "sha256": "efdb45188284f28d5fff0513c0ed53c113a6a51a7672e0a26f0987a87c610c9b",
-  "sig": "IO8wBENyyftvbWwWa9irV6A/kCzDGhSUmOEZ/VsTijZMTn4RKBtTPAkSjqY2JAUP8scyefMB8nxEz39quhWK0w==",
-  "size": 7068672,
+  "sha256": "2180c5c9ee45bb8ba374162ab7f0ad7af40b5952719ef2a5566ff0229b2788ba",
+  "sig": "pXgf8Og4D3GDjsX4EU5HOCBJ3mZr7pmI+R++D1AIOqJtsz+mzOLFBo69LK8ux3EQYMNPvD9DnOD+emay8fuMDA==",
+  "size": 7071232,
   "tool": "gsm-pro-toolkit-rust",
   "v": 2
 }

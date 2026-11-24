@@ -173,11 +173,11 @@
       "name": "TG82PART",
       "notes": "",
       "publisher": "",
-      "run": "",
+      "run": "Tg82VolteBuilder.exe",
       "sha256": "9f707904bdfb702e4261a24a275cf267ac6808b8d5ce95df6f8610a721e359f4",
       "size": 1303855,
       "url": "",
-      "version": ""
+      "version": "v0.2.12"
     },
     {
       "author": "",
@@ -294,7 +294,7 @@
   ],
   "min_app": "",
   "mirrors": [],
-  "sig": "GxnAoodi0x45kfo5fvnnGBZT/r+FkgwAhMH8pffe1qorjJ+tRiERG/sTnrnwxTFsNowxSSoSsGPc1VjP2CdnzA==",
+  "sig": "fv55LQzTmIUt2oi7N8b2FBRroTBzvgIfA7mGfeaYfcuEPsM6ru/n2hf1D+fSZ5b4LUpEMtlc3CZJPvZ9xPWcug==",
   "v": 2,
-  "ver": 53
+  "ver": 54
 }

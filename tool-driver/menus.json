@@ -40,6 +40,21 @@
     "usb-1-9-7",
     "winrar-x64-7-23"
   ],
+  "hub_order": [
+    "eft-pro",
+    "client-kernelpro-usb-over-ethernet",
+    "mrst-pro",
+    "tsm-pro-edition",
+    "apple-ramdisk-tool",
+    "titanservice-bypass-aio",
+    "unlocktool",
+    "scrcpy",
+    "tg82part",
+    "samsung-small-toolkit",
+    "usb-1-9-7",
+    "winrar-x64-7-23",
+    "libusb-win32"
+  ],
   "tools": [
     {
       "key": "b:devmgr",

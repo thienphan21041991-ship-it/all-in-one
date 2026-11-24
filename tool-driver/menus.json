@@ -35,6 +35,9 @@
       "label": "Cài tất cả"
     }
   ],
+  "hub_hidden": [
+    "usb-1-9-7"
+  ],
   "tools": [
     {
       "key": "b:devmgr",

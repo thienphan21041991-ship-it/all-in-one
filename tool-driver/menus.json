@@ -35,6 +35,7 @@
       "label": "Cài tất cả"
     }
   ],
+  "dyn": true,
   "hub_hidden": [
     "libusb-win32",
     "samsung-small-toolkit",
@@ -56,7 +57,7 @@
     "winrar-x64-7-23",
     "libusb-win32"
   ],
-  "rev": 1,
+  "rev": 2,
   "tools": [
     {
       "key": "b:devmgr",

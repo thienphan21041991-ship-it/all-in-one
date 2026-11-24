@@ -141,6 +141,28 @@
       "desc": "",
       "disabled": false,
       "disabled_note": "",
+      "file": "hub-scrcpy-f39f3085700c.zip",
+      "group": "Tool",
+      "homepage": "",
+      "id": "scrcpy",
+      "kind": "depot",
+      "min_app": "",
+      "mirror_urls": [],
+      "name": "scrcpy",
+      "notes": "",
+      "publisher": "",
+      "run": "",
+      "sha256": "f39f3085700cbefa4d731b3b2be28c1f84d5461ce1809ae8042d23369c00f4d6",
+      "size": 11277501,
+      "url": "",
+      "version": "v5.0.1"
+    },
+    {
+      "author": "",
+      "channel": "",
+      "desc": "",
+      "disabled": false,
+      "disabled_note": "",
       "file": "hub-titanservice-bypass-aio-2a11ebd81031.zip",
       "group": "Tool",
       "homepage": "",
@@ -250,7 +272,7 @@
   ],
   "min_app": "",
   "mirrors": [],
-  "sig": "ja2dQ4xR3wh+9hdgFdFI11GlFsfs7lkAwYQuEKVGYuQrZuwUC7fyzEUA9NKjaWVStyDOQFKAL/04CLZKHErtdw==",
+  "sig": "shrm3E26A5hpeGsHTTBweUFYLz0X4czm7RGal7+KwQiXFejfiTfXrQtiSAg0xscIslmqSpmEsFRvX17RYKpKgg==",
   "v": 2,
-  "ver": 50
+  "ver": 51
 }

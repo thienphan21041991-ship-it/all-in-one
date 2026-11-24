@@ -13,6 +13,17 @@
       "url": ""
     },
     {
+      "file": "hub-tg82part-9f707904bdfb.zip",
+      "group": "Tool",
+      "id": "tg82part",
+      "kind": "depot",
+      "name": "TG82PART",
+      "run": "",
+      "sha256": "9f707904bdfb702e4261a24a275cf267ac6808b8d5ce95df6f8610a721e359f4",
+      "size": 1303855,
+      "url": ""
+    },
+    {
       "file": "hub-usb-1-9-7-1d4c0f3cdfb2.zip",
       "group": "Tool",
       "id": "usb-1-9-7",
@@ -35,7 +46,7 @@
       "url": ""
     }
   ],
-  "sig": "WxViM0kGEbHjXa6s0IRFr5SE9si9VBuqBDPj4iuMPfUFOlAGFdxWVxiJkpmleLes7EtTIUJbdEMGsV3CCjAh2g==",
+  "sig": "VW1OkoNX7n4npV6Pt+PgxMu+q1PxqhV0vJ6fv1kjbYv6oV0WjUcNAAMmleHO0XKzcCk4pwZt6P5JnApm4ET4dw==",
   "v": 1,
-  "ver": 52
+  "ver": 53
 }

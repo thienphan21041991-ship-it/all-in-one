@@ -77,6 +77,11 @@
     },
     {
       "behavior": "install",
+      "key": "h:scrcpy",
+      "label": "scrcpy"
+    },
+    {
+      "behavior": "install",
       "key": "h:winrar-x64-7-23",
       "label": "WinRAR x64 7.23"
     },

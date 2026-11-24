@@ -1,11 +1,11 @@
 {
-  "asset": "GsmProToolkit-174.exe",
-  "build": 174,
+  "asset": "GsmProToolkit-175.exe",
+  "build": 175,
   "date": "24/11/2026",
-  "note": "Kho tool: dong thoang hon, co icon, du cot (them Ngay up), bo 3 nut Kiem tra cap nhat / Cai dat / Mo; tool da an bien mat han khoi Kho tool",
-  "sha256": "4729b94f259e33b06bd5fb608221b54f516555c49de9c881048d829ef0904046",
-  "sig": "QCjAqgH0lFQ6BOfiFqKm88k98kQ7xx2vKAM6hjjFSP/x3FUF18vEz/IMkKtIFqL2dqkafbJhQ2GgP3SKD6NrKg==",
-  "size": 7136768,
+  "note": "Kho tool: cum nut dung mot hang gon (Kiem tra cap nhat / Cai dat / Mo / Thu muc, quan tri them Them + len/xuong, viec phu vao menu Khac)",
+  "sha256": "d5bf33ea7c82a641ca1c18933394a6f1db7adc9d45a677f1a35367ae76562c58",
+  "sig": "izZNnF5Z8AhX7UU2k0lmikwm+/1r6P+SKpjoIr1rXuJjXnWH/0vyiE7Ej6aPdg/ag22KKJSLpDJJUY+lTjWPtQ==",
+  "size": 7137792,
   "tool": "gsm-pro-toolkit-rust",
   "v": 2
 }

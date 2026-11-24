@@ -36,6 +36,7 @@
     }
   ],
   "hub_hidden": [
+    "libusb-win32",
     "usb-1-9-7"
   ],
   "tools": [

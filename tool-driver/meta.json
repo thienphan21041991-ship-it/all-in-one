@@ -73,8 +73,8 @@
       "updated": "2026-11-23"
     },
     {
-      "icon": "",
-      "icon_sha256": "",
+      "icon": "windows-desktop-runtime-a2d81b347587.png",
+      "icon_sha256": "a2d81b347587e4ddb74d4087dac66f9e756cc7d2b4f03253389b4a2f1f1f3f7f",
       "id": "windows-desktop-runtime",
       "updated": "2026-11-24"
     },
@@ -85,7 +85,7 @@
       "updated": "2026-11-23"
     }
   ],
-  "sig": "GlX5NLkIsVotdlmTAJtORma8A8gBJGz+sBreJIdpSMXKhseHZ7AvBmdNa0NQFQ5JhEEDsv0vSH2qTgf90Iq4ew==",
+  "sig": "SIJENEz9Y0HhJW+w2okx0OzgqXo5GSWBHWH6Vm+pYm0x43ccVsFH8XffbxT370R/u3n2r/Bni+BIGjvDAjRIqw==",
   "v": 1,
-  "ver": 38
+  "ver": 39
 }

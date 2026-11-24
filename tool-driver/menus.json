@@ -43,8 +43,8 @@
     "winrar-x64-7-23"
   ],
   "hub_order": [
-    "eft-pro",
     "client-kernelpro-usb-over-ethernet",
+    "eft-pro",
     "mrst-pro",
     "tsm-pro-edition",
     "apple-ramdisk-tool",
@@ -52,12 +52,9 @@
     "unlocktool",
     "scrcpy",
     "tg82part",
-    "samsung-small-toolkit",
-    "usb-1-9-7",
-    "winrar-x64-7-23",
-    "libusb-win32"
+    "windows-desktop-runtime"
   ],
-  "rev": 4,
+  "rev": 5,
   "tools": [
     {
       "key": "b:devmgr",

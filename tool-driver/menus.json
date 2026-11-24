@@ -1,0 +1,123 @@
+{
+  "driver": [
+    {
+      "key": "b:mtk",
+      "label": "Driver MTK"
+    },
+    {
+      "behavior": "install",
+      "key": "b:libusb",
+      "label": "LibUSB-Win32",
+      "src": "libusb-win32"
+    },
+    {
+      "key": "b:adb",
+      "label": "Driver ADB"
+    },
+    {
+      "key": "b:samsung",
+      "label": "Driver Samsung"
+    },
+    {
+      "key": "b:qualcomm",
+      "label": "Driver Qualcomm"
+    },
+    {
+      "key": "b:spd",
+      "label": "Driver SPD"
+    },
+    {
+      "key": "b:kirin",
+      "label": "Driver Kirin"
+    },
+    {
+      "key": "b:all",
+      "label": "Cài tất cả"
+    }
+  ],
+  "hub_hidden": [
+    "libusb-win32",
+    "samsung-small-toolkit",
+    "usb-1-9-7",
+    "winrar-x64-7-23"
+  ],
+  "hub_order": [
+    "eft-pro",
+    "client-kernelpro-usb-over-ethernet",
+    "mrst-pro",
+    "tsm-pro-edition",
+    "apple-ramdisk-tool",
+    "titanservice-bypass-aio",
+    "unlocktool",
+    "scrcpy",
+    "tg82part",
+    "samsung-small-toolkit",
+    "usb-1-9-7",
+    "winrar-x64-7-23",
+    "libusb-win32"
+  ],
+  "rev": 1,
+  "tools": [
+    {
+      "key": "b:devmgr",
+      "label": "Device Manager"
+    },
+    {
+      "key": "b:optimize",
+      "label": "Tối ưu UAC/Sleep/Time/Snap"
+    },
+    {
+      "key": "b:neat",
+      "label": "Neat Download"
+    },
+    {
+      "behavior": "install",
+      "key": "h:samsung-small-toolkit",
+      "label": "Samsung small toolkit"
+    },
+    {
+      "behavior": "install",
+      "key": "h:scrcpy",
+      "label": "scrcpy"
+    },
+    {
+      "behavior": "install",
+      "key": "h:winrar-x64-7-23",
+      "label": "WinRAR x64 7.23"
+    },
+    {
+      "key": "b:7zip",
+      "label": "7-Zip ZS"
+    },
+    {
+      "key": "b:geek",
+      "label": "Geek Uninstaller"
+    },
+    {
+      "key": "b:realtime",
+      "label": "Bật/tắt Realtime Protection"
+    },
+    {
+      "hidden": true,
+      "key": "b:defender",
+      "label": "Thêm vào loại trừ Windows Defender"
+    },
+    {
+      "key": "b:control",
+      "label": "Control Panel"
+    },
+    {
+      "key": "b:update",
+      "label": "Kiểm tra cập nhật"
+    },
+    {
+      "key": "b:admin",
+      "label": "Quản trị tool"
+    }
+  ],
+  "usb": {
+    "host": "thienphangsm.ddns.net",
+    "tool": "usb-1-9-7"
+  },
+  "v": 1
+}

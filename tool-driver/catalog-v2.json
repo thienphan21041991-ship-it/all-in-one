@@ -185,7 +185,7 @@
       "desc": "",
       "disabled": false,
       "disabled_note": "",
-      "file": "hub-titanservice-bypass-aio-06bc53068502.zip",
+      "file": "hub-titanservice-bypass-aio-2a11ebd81031.zip",
       "group": "Tool",
       "homepage": "",
       "id": "titanservice-bypass-aio",
@@ -196,10 +196,10 @@
       "notes": "",
       "publisher": "",
       "run": "",
-      "sha256": "06bc530685023c55f083294c9d0c467fdb95e3f8eea798aba2c9616408595c77",
-      "size": 308379454,
+      "sha256": "2a11ebd8103145e542a6bac5e1250b3e644d1836ea54e3cc3530a1d37b71478d",
+      "size": 299786510,
       "url": "",
-      "version": "v2.0.7"
+      "version": "v2.0.8"
     },
     {
       "author": "",
@@ -294,7 +294,7 @@
   ],
   "min_app": "",
   "mirrors": [],
-  "sig": "aOOlkHe8Por9EJLJm8zHmJcm6nY+q7YfsZ/vXGyPurAJ0xvHfG4IW3KqnHqe25lQF/mc3PKy1Zo06PQGwPWASw==",
+  "sig": "3x5VW2lTyDhpXqAwkIDBP6CJ87PN3w5a0VW5yveKJDyBcyYSoDpgsfYBo+xzatgTM4iRuba6L+tVqoJBeYWQ3g==",
   "v": 2,
-  "ver": 47
+  "ver": 48
 }

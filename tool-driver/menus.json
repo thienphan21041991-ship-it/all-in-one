@@ -43,8 +43,8 @@
     "winrar-x64-7-23"
   ],
   "hub_order": [
-    "client-kernelpro-usb-over-ethernet",
     "eft-pro",
+    "client-kernelpro-usb-over-ethernet",
     "mrst-pro",
     "tsm-pro-edition",
     "apple-ramdisk-tool",
@@ -54,7 +54,7 @@
     "tg82part",
     "windows-desktop-runtime"
   ],
-  "rev": 5,
+  "rev": 6,
   "tools": [
     {
       "key": "b:devmgr",

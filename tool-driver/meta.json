@@ -37,8 +37,8 @@
       "updated": "2026-11-23"
     },
     {
-      "icon": "",
-      "icon_sha256": "",
+      "icon": "scrcpy-679a5be73e01.png",
+      "icon_sha256": "679a5be73e018606381cd6ffbefbd945bafb5a8db47e8215f4bbcf03898323bb",
       "id": "scrcpy",
       "updated": "2026-11-24"
     },
@@ -73,7 +73,7 @@
       "updated": "2026-11-23"
     }
   ],
-  "sig": "0frAF+b21mfkFIRBCsmSDyGf1n+mE2EML5wYe4E91jDGo/CXZ4RzBgPCye55qwpl3fZDxRTH4Zzoilh+dyPqvA==",
+  "sig": "1pHJPRqZBTeg7SLiApIGLbvKYRfuAn/nWRzpxE5N0OhYwf1T7SaL6dWKqy3C3ZHJPwn7nt6QxUSCeZOqYUXHuA==",
   "v": 1,
-  "ver": 34
+  "ver": 35
 }

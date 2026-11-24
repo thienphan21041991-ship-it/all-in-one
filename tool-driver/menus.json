@@ -70,6 +70,11 @@
     },
     {
       "behavior": "install",
+      "key": "h:samsung-small-toolkit",
+      "label": "Samsung small toolkit"
+    },
+    {
+      "behavior": "install",
       "key": "h:winrar-x64-7-23",
       "label": "WinRAR x64 7.23"
     },

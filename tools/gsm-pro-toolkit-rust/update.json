@@ -1,11 +1,11 @@
 {
-  "asset": "GsmProToolkit-175.exe",
-  "build": 175,
-  "date": "24/11/2026",
-  "note": "Kho tool: cum nut dung mot hang gon (Kiem tra cap nhat / Cai dat / Mo / Thu muc, quan tri them Them + len/xuong, viec phu vao menu Khac)",
-  "sha256": "d5bf33ea7c82a641ca1c18933394a6f1db7adc9d45a677f1a35367ae76562c58",
-  "sig": "izZNnF5Z8AhX7UU2k0lmikwm+/1r6P+SKpjoIr1rXuJjXnWH/0vyiE7Ej6aPdg/ag22KKJSLpDJJUY+lTjWPtQ==",
-  "size": 7137792,
+  "asset": "GsmProToolkit-176.exe",
+  "build": 176,
+  "date": "25/11/2026",
+  "note": "Kho tool 1 hang gon + Quan ly chi Admin; Kho thuat toan + chuoi tac vu tuan tu (a:/w:) gan vao menu",
+  "sha256": "1c224b27dc4378de9724b00e774b1efffb5c921b190fb4ffd6d5a1f006c72473",
+  "sig": "FjJ+neZVWlRnsz1m7eWLtE/NjPFqT+Ukv9vd8IZbvgYFw+CUp2doEto4YKlAPBkvYbWllUvIkWiUSvLBYX4DVA==",
+  "size": 7211520,
   "tool": "gsm-pro-toolkit-rust",
   "v": 2
 }

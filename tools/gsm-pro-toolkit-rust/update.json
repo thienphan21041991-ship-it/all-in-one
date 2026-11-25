@@ -1,11 +1,11 @@
 {
-  "asset": "GsmProToolkit-178.exe",
-  "build": 178,
+  "asset": "GsmProToolkit-179.exe",
+  "build": 179,
   "date": "25/11/2026",
-  "note": "Thuat toan bao trum co khai bao nguyen lieu (script) + nguyen lieu theo nut day len GitHub",
-  "sha256": "9ece3dd3875e03f914e2af5010184281d2d13e4133c8b121b84856f76e910203",
-  "sig": "TnSLqrIvtOG8+qJXpMuubwceywby04SDhcDVdUjYoqzgAw9KuIsgtDNSBCOSwjpbqQBvKmvN52W3RVLdBltHvg==",
-  "size": 7261696,
+  "note": "Mo san Kho tool khi bat tool; khung tieu de Kho tool dep hon; bo cot Nhom + Nguon; giau chu GitHub",
+  "sha256": "639a351378a9eaf7ce4724ceac857e8dbf21021f8923bce520f2d049b62bcdb8",
+  "sig": "b3qpjrva45DaXtY75jciE0t5Qy/zPQnYJwqIQMuTTrZB+x/PXm06RJrprKrlynd7NC+opRhnaCX2+4ScJWkFfg==",
+  "size": 7262720,
   "tool": "gsm-pro-toolkit-rust",
   "v": 2
 }

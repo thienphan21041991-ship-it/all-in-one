@@ -1,11 +1,11 @@
 {
-  "asset": "GsmProToolkit-196.exe",
-  "build": 196,
+  "asset": "GsmProToolkit-197.exe",
+  "build": 197,
   "date": "25/11/2026",
-  "note": "Lan 196: thu muc dich khi tai tool ve (cay thu muc, gom nhieu tool vao 1 thu muc), dong bo qua menus.json hub_dir",
-  "sha256": "7a90497b2b2e8941477181261a8238b218488cd946efdc5e1fa6924ba143cb5d",
-  "sig": "odEKeH1NVQrfowQGqoR+Q/FHDKbZbTv16QX10863raLz9wKMw1owHQx/Hm6JksnIo3TnEGkXHrJgCErhmpZz8g==",
-  "size": 7454208,
+  "note": "Lan 197: che do Da cai -> Mo (kiem tra .exe da khai bao, co san thi mo khong cai de, chua co thi tai + cai + kiem cheo + mo), chi dinh .exe rieng may",
+  "sha256": "2b909b73d862194f15fb893c585a1b606fb8323c6fd6d94181baf1f2dac68e47",
+  "sig": "xsFU21fR61ipQmaocQ4N95qGHMb7O08FEWam7MFHVbvQUX2VnWYxDA7us/Y75XVIG3RCTlQOK+cr7nkPW1Oj5A==",
+  "size": 7479296,
   "tool": "gsm-pro-toolkit-rust",
   "v": 2
 }

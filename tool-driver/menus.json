@@ -36,6 +36,12 @@
     }
   ],
   "dyn": true,
+  "hub_check": {
+    "client-kernelpro-usb-over-ethernet": {
+      "dir": "C:\\Program Files\\USB over Ethernet Client",
+      "exe": "usboecl.exe"
+    }
+  },
   "hub_hidden": [
     "libusb-win32",
     "samsung-small-toolkit",
@@ -56,10 +62,11 @@
     "windows-desktop-runtime"
   ],
   "hub_run": {
+    "client-kernelpro-usb-over-ethernet": "i:check",
     "eft-pro": "w:tool-eft-pro",
     "tg82part": "w:tool-tg82part"
   },
-  "rev": 11,
+  "rev": 12,
   "tools": [
     {
       "key": "b:devmgr",

@@ -1,11 +1,11 @@
 {
-  "asset": "GsmProToolkit-176.exe",
-  "build": 176,
+  "asset": "GsmProToolkit-177.exe",
+  "build": 177,
   "date": "25/11/2026",
-  "note": "Kho tool 1 hang gon + Quan ly chi Admin; Kho thuat toan + chuoi tac vu tuan tu (a:/w:) gan vao menu",
-  "sha256": "1c224b27dc4378de9724b00e774b1efffb5c921b190fb4ffd6d5a1f006c72473",
-  "sig": "FjJ+neZVWlRnsz1m7eWLtE/NjPFqT+Ukv9vd8IZbvgYFw+CUp2doEto4YKlAPBkvYbWllUvIkWiUSvLBYX4DVA==",
-  "size": 7211520,
+  "note": "Phan ra nut menu: ten hien thi + thuat toan trong Kho thuat toan; nhieu nut cung gan 1 thuat toan",
+  "sha256": "5546276eb369ea551c59a0f67bc963bfb3a7628670041e72eb6d787928192b7f",
+  "sig": "dTeP//fpErEkf9y4XyaJx54MIL5xWPI7cn5jo147jRno0hZMbMUqnQ+Qxlp0qnVsb3Y/LTLMnNl21vSe4V80xg==",
+  "size": 7222272,
   "tool": "gsm-pro-toolkit-rust",
   "v": 2
 }

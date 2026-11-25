@@ -1,11 +1,11 @@
 {
-  "asset": "GsmProToolkit-181.exe",
-  "build": 181,
+  "asset": "GsmProToolkit-183.exe",
+  "build": 183,
   "date": "25/11/2026",
-  "note": "Thanh % chung cho tai tool (toc do + dung luong); gon log; bo dieu phoi tac vu song song / xep hang; cap nhat cho ranh",
-  "sha256": "d1be6cbc742cb19bc9fd7dec715aae4d991b23093348655a5b7d7fd997fab534",
-  "sig": "GwpbJJYyWCq1IezWiq6tEpIOBtUQbMcAia0MBXsMa4GUlBzfc0Ir6wQxRFMdMtjtL9c6swqQ5EDlXlCTl+pu5w==",
-  "size": 7281664,
+  "note": "Sua cai driver: ten tep lenh rieng, ghi output pnputil, ket luan theo kho Windows (het bao ma -1 nham), du phong ShellExecute",
+  "sha256": "0db60e71deefc6f88dccc2319d6a3b9e65792ac41ca3d6c4c58c61295ed81848",
+  "sig": "SI2Zc+r91lLgoGbAFVzbX7ZQ1WBS6GIHz3lDDcMtcKfOrOXfQQVBt8kgVAvsC21lnDpuCWJgaKb7lDKPjUfGwA==",
+  "size": 7285248,
   "tool": "gsm-pro-toolkit-rust",
   "v": 2
 }

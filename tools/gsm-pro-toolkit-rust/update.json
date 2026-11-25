@@ -1,11 +1,11 @@
 {
-  "asset": "GsmProToolkit-183.exe",
-  "build": 183,
+  "asset": "GsmProToolkit-185.exe",
+  "build": 185,
   "date": "25/11/2026",
-  "note": "Sua cai driver: ten tep lenh rieng, ghi output pnputil, ket luan theo kho Windows (het bao ma -1 nham), du phong ShellExecute",
-  "sha256": "0db60e71deefc6f88dccc2319d6a3b9e65792ac41ca3d6c4c58c61295ed81848",
-  "sig": "SI2Zc+r91lLgoGbAFVzbX7ZQ1WBS6GIHz3lDDcMtcKfOrOXfQQVBt8kgVAvsC21lnDpuCWJgaKb7lDKPjUfGwA==",
-  "size": 7285248,
+  "note": "Tu dong cap nhat khong hoi; lan dau tu chon o cung con trong nhieu nhat, log gon",
+  "sha256": "14e02c299f6ce3f5caf9be0a9015719074c8b75fad21c8a9ed59f297404595cf",
+  "sig": "z/nXCXR29VZ7KcSzVCoq9lnSyMafQOQWp7l6YtrnW904HLWIXGdBsGaxEXHKy/cxX4SLnInAifW4iTV5H6JqmQ==",
+  "size": 7288320,
   "tool": "gsm-pro-toolkit-rust",
   "v": 2
 }

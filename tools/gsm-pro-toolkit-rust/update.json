@@ -1,11 +1,11 @@
 {
-  "asset": "GsmProToolkit-195.exe",
-  "build": 195,
+  "asset": "GsmProToolkit-196.exe",
+  "build": 196,
   "date": "25/11/2026",
-  "note": "Lan 195: chuoi tac vu chay ngam, chi ghi nhat ky (khong bat bang theo doi)",
-  "sha256": "052a9d0178b4560906b0170ca3ccd9188e66cea5678564f8549c9e1c606964c2",
-  "sig": "nRcfvU2nfDN/CHvsnmre7Pvt90emEacfFlig58trqrCO/kBZhmCstifh7a3Fx/i7sij+kTKI04ZW9uUVPYVLcA==",
-  "size": 7397888,
+  "note": "Lan 196: thu muc dich khi tai tool ve (cay thu muc, gom nhieu tool vao 1 thu muc), dong bo qua menus.json hub_dir",
+  "sha256": "7a90497b2b2e8941477181261a8238b218488cd946efdc5e1fa6924ba143cb5d",
+  "sig": "odEKeH1NVQrfowQGqoR+Q/FHDKbZbTv16QX10863raLz9wKMw1owHQx/Hm6JksnIo3TnEGkXHrJgCErhmpZz8g==",
+  "size": 7454208,
   "tool": "gsm-pro-toolkit-rust",
   "v": 2
 }

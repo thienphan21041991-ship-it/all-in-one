@@ -1,11 +1,11 @@
 {
-  "asset": "GsmProToolkit-177.exe",
-  "build": 177,
+  "asset": "GsmProToolkit-178.exe",
+  "build": 178,
   "date": "25/11/2026",
-  "note": "Phan ra nut menu: ten hien thi + thuat toan trong Kho thuat toan; nhieu nut cung gan 1 thuat toan",
-  "sha256": "5546276eb369ea551c59a0f67bc963bfb3a7628670041e72eb6d787928192b7f",
-  "sig": "dTeP//fpErEkf9y4XyaJx54MIL5xWPI7cn5jo147jRno0hZMbMUqnQ+Qxlp0qnVsb3Y/LTLMnNl21vSe4V80xg==",
-  "size": 7222272,
+  "note": "Thuat toan bao trum co khai bao nguyen lieu (script) + nguyen lieu theo nut day len GitHub",
+  "sha256": "9ece3dd3875e03f914e2af5010184281d2d13e4133c8b121b84856f76e910203",
+  "sig": "TnSLqrIvtOG8+qJXpMuubwceywby04SDhcDVdUjYoqzgAw9KuIsgtDNSBCOSwjpbqQBvKmvN52W3RVLdBltHvg==",
+  "size": 7261696,
   "tool": "gsm-pro-toolkit-rust",
   "v": 2
 }

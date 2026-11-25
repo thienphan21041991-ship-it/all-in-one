@@ -1,11 +1,11 @@
 {
-  "asset": "GsmProToolkit-194.exe",
-  "build": 194,
+  "asset": "GsmProToolkit-195.exe",
+  "build": 195,
   "date": "25/11/2026",
-  "note": "Lan 194: buoc Cai dat trong chuoi chay duoc ca voi tool khai Mo thang (tep tai ve chinh la bo cai, vd Windows Desktop Runtime)",
-  "sha256": "803147447776f5652928684534c77f718f14fa950b7a9ecc07633dedce5e1d2d",
-  "sig": "PM/3E2jdO0JL6p8MtClTLFC7pjE0IpwSTbDcvhtcdYSmxFjlfzSLDqImhBLL5X0K93T2zzIRqb9MRNyUn9c5Vw==",
-  "size": 7402496,
+  "note": "Lan 195: chuoi tac vu chay ngam, chi ghi nhat ky (khong bat bang theo doi)",
+  "sha256": "052a9d0178b4560906b0170ca3ccd9188e66cea5678564f8549c9e1c606964c2",
+  "sig": "nRcfvU2nfDN/CHvsnmre7Pvt90emEacfFlig58trqrCO/kBZhmCstifh7a3Fx/i7sij+kTKI04ZW9uUVPYVLcA==",
+  "size": 7397888,
   "tool": "gsm-pro-toolkit-rust",
   "v": 2
 }

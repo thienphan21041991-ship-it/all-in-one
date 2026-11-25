@@ -56,9 +56,10 @@
     "windows-desktop-runtime"
   ],
   "hub_run": {
+    "eft-pro": "w:tool-eft-pro",
     "tg82part": "w:tool-tg82part"
   },
-  "rev": 8,
+  "rev": 9,
   "tools": [
     {
       "key": "b:devmgr",

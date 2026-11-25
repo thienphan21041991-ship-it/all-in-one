@@ -1,11 +1,11 @@
 {
-  "asset": "GsmProToolkit-192.exe",
-  "build": 192,
+  "asset": "GsmProToolkit-193.exe",
+  "build": 193,
   "date": "25/11/2026",
-  "note": "Lan 191: dong thuat toan/chuoi o Kho tool ghi ro loai, cot Hien o tinh ca nut menu chua phan ra",
-  "sha256": "83891769cab0bf671eac3c7aef4ed3ccecc95a0d3d6e1373f554859889f92211",
-  "sig": "ovJAZZjctkRR+M97/DZPgiSwxZ7V5uF3+260vKYa22YSufRGmv3pFKUyxN2FSyW/Qk3MXVpbfBfa5ENGQXCsKA==",
-  "size": 7339008,
+  "note": "Lan 193: Kho tool an muc thuoc tab Cong cu/Driver/Apple (co Hien thi ca tren Kho tool), tri nh quan ly chung 4 nhanh, Them/Sua tool co cach chay Chuoi node / Thuat toan bao ham",
+  "sha256": "8033ca65ecbac4309091b8b3ada9d175d6be34417984e361dc4af0314744376a",
+  "sig": "3jXrwjvccthk9i44DC0iNthPm1ly1JWL8jmayNikNe2nUCDecU7SGXIORu5GNWzbPMaUpMBop39j1MWj/o2afQ==",
+  "size": 7403008,
   "tool": "gsm-pro-toolkit-rust",
   "v": 2
 }

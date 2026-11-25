@@ -189,7 +189,7 @@
         {
           "action": "",
           "kind": "hub",
-          "op": "setup",
+          "op": "open",
           "optional": false,
           "run": "",
           "tool": "windows-desktop-runtime"
@@ -205,7 +205,7 @@
       ]
     }
   ],
-  "rev": 1,
-  "sig": "E0vpLs+4RBu7Ll8chOPjkEdX/yXandqxXzrXRe7DAj/mqyYQC4OpWcCHF6rjFHUkxmQG7DkDhoQ3vWg+qrNbKg==",
+  "rev": 2,
+  "sig": "LcjUaCaYx4CU6c7JIcCx/Ek9vwhuTB9/nIa6kbwJgSafTiJNj5dTd+DZ5Tyjmavx5Shi9dt8x9t0Yy2XQsPWDw==",
   "v": 1
 }

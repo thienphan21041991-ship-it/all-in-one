@@ -1,11 +1,11 @@
 {
-  "asset": "GsmProToolkit-185.exe",
-  "build": 185,
+  "asset": "GsmProToolkit-186.exe",
+  "build": 186,
   "date": "25/11/2026",
-  "note": "Tu dong cap nhat khong hoi; lan dau tu chon o cung con trong nhieu nhat, log gon",
-  "sha256": "14e02c299f6ce3f5caf9be0a9015719074c8b75fad21c8a9ed59f297404595cf",
-  "sig": "z/nXCXR29VZ7KcSzVCoq9lnSyMafQOQWp7l6YtrnW904HLWIXGdBsGaxEXHKy/cxX4SLnInAifW4iTV5H6JqmQ==",
-  "size": 7288320,
+  "note": "Kiem tra cap nhat quet thuc te tep tren dia, thieu/rong/hong thi tu tai lai dung goi; bang bao Thieu tep",
+  "sha256": "216052f33be7848bfdc63e32885531a48b8a154a3bf7cff43f4d92ef2d421ede",
+  "sig": "yNIzHdZpo0DlISlQpngO+tynIOtZwDQiYxCQMvwl2gIewmIJwG1AhJ4sHkNtb/vgF43Ljt3WPVU7ilwsgZm13g==",
+  "size": 7293440,
   "tool": "gsm-pro-toolkit-rust",
   "v": 2
 }

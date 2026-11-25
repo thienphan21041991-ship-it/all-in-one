@@ -79,13 +79,13 @@
       "updated": "2026-11-24"
     },
     {
-      "icon": "",
-      "icon_sha256": "",
+      "icon": "winrar-x64-7-23-c26b36b93831.png",
+      "icon_sha256": "c26b36b938312a2ab8ffbf6ca0498101de584b7cc2f7fce18573f9b77ceaca85",
       "id": "winrar-x64-7-23",
       "updated": "2026-11-23"
     }
   ],
-  "sig": "SIJENEz9Y0HhJW+w2okx0OzgqXo5GSWBHWH6Vm+pYm0x43ccVsFH8XffbxT370R/u3n2r/Bni+BIGjvDAjRIqw==",
+  "sig": "a2wz618FqOPaDCWpgzsFwa+Yg+EA/Jn54u943axl49LkOQjnSeJtUaqzBKEAB1lT9LAeoZW8V3yqgOeHzCKuKQ==",
   "v": 1,
-  "ver": 39
+  "ver": 40
 }

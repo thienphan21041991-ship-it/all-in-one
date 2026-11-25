@@ -1,5 +1,5 @@
 {
-  "date": "24/11/2026",
+  "date": "25/11/2026",
   "items": [
     {
       "file": "hub-eft-pro-1e75dcb50d4a.zip",
@@ -35,7 +35,7 @@
       "url": ""
     }
   ],
-  "sig": "JKTvTX6DWhHlp+NJKcTDQN1ffo53zualMsxd4oJYCsCHxItpN0gB83rMG4+FZHDvv0NqMTddlnPDQt2BsScP+A==",
+  "sig": "2bUKYySOmnOpZ+IwlabA/1s3L+1hYicvz4k2cclITF/t42OuntKxO0Nm/hHL+AwBJ2W6WvumgcmF12BzueqhDg==",
   "v": 1,
-  "ver": 56
+  "ver": 57
 }

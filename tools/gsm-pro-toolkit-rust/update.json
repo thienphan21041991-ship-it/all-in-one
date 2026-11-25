@@ -1,11 +1,11 @@
 {
-  "asset": "GsmProToolkit-190.exe",
-  "build": 190,
+  "asset": "GsmProToolkit-192.exe",
+  "build": 192,
   "date": "25/11/2026",
-  "note": "Lan 190: Kho tool tong gom moi tool + thuat toan + chuoi, chuoi node kieu Make.com co kiem tra cheo, thuat toan bao ham khai bao nguyen lieu lien ket",
-  "sha256": "b4675dc0ef957315b72f374f7dbf84695a790df8d5efdc4adf7ac36e78b395b4",
-  "sig": "oIYhvKS0GVccyLIJxwNFLnt/nMeS/t4xzaWHwxMSE4Z1r1DoCRf0IZ/ppTj2Ie+o9rZiLUHRMiNxAUpDOf1OQw==",
-  "size": 7338496,
+  "note": "Lan 191: dong thuat toan/chuoi o Kho tool ghi ro loai, cot Hien o tinh ca nut menu chua phan ra",
+  "sha256": "83891769cab0bf671eac3c7aef4ed3ccecc95a0d3d6e1373f554859889f92211",
+  "sig": "ovJAZZjctkRR+M97/DZPgiSwxZ7V5uF3+260vKYa22YSufRGmv3pFKUyxN2FSyW/Qk3MXVpbfBfa5ENGQXCsKA==",
+  "size": 7339008,
   "tool": "gsm-pro-toolkit-rust",
   "v": 2
 }

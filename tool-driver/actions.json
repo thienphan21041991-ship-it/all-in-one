@@ -203,9 +203,31 @@
           "tool": "tg82part"
         }
       ]
+    },
+    {
+      "id": "tool-eft-pro",
+      "name": "EFT Pro — chuỗi",
+      "steps": [
+        {
+          "action": "",
+          "kind": "hub",
+          "op": "ensure",
+          "optional": false,
+          "run": "",
+          "tool": "client-kernelpro-usb-over-ethernet"
+        },
+        {
+          "action": "",
+          "kind": "hub",
+          "op": "open",
+          "optional": false,
+          "run": "",
+          "tool": "eft-pro"
+        }
+      ]
     }
   ],
-  "rev": 3,
-  "sig": "T0mB3goACUADoUCaplfnrzXWt2MOPhc4TviONbktaoRXKzaqGaFlcc8BSTrqCQUBc2T8lm6lWK2kNiqKIchVOQ==",
+  "rev": 4,
+  "sig": "60cY8vLnri7tj/aRm91G7yVMkvy/j717mUBWE5U1tzs0fahCC2hfNxRGPSZ8u478xA1a0r7CJlEJ7fjhb+Gd2g==",
   "v": 1
 }

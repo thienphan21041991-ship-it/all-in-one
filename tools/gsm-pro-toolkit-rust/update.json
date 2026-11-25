@@ -1,11 +1,11 @@
 {
-  "asset": "GsmProToolkit-179.exe",
-  "build": 179,
+  "asset": "GsmProToolkit-180.exe",
+  "build": 180,
   "date": "25/11/2026",
-  "note": "Mo san Kho tool khi bat tool; khung tieu de Kho tool dep hon; bo cot Nhom + Nguon; giau chu GitHub",
-  "sha256": "639a351378a9eaf7ce4724ceac857e8dbf21021f8923bce520f2d049b62bcdb8",
-  "sig": "b3qpjrva45DaXtY75jciE0t5Qy/zPQnYJwqIQMuTTrZB+x/PXm06RJrprKrlynd7NC+opRhnaCX2+4ScJWkFfg==",
-  "size": 7262720,
+  "note": "Mo san Kho tool khi bat (ke ca khoa); khoa Kho tool khi chua mo khoa; tu ghim Taskbar (API Windows, co hop xac nhan)",
+  "sha256": "c8b6cc1bb9b5f86e42a45fdab651db1a47429db9daa968a3e500604c7fc2361b",
+  "sig": "ekgb2ksqrXZpMvoVphd58L24zQcCGlrVam8ULxU2aTMyYpg6e2AM4i3mBhZPsxg9g2dkZNQNYGMa431g9Tl7cA==",
+  "size": 7280128,
   "tool": "gsm-pro-toolkit-rust",
   "v": 2
 }

@@ -37,6 +37,7 @@
   ],
   "dyn": true,
   "hub_hidden": [
+    "client-kernelpro-usb-over-ethernet",
     "libusb-win32",
     "samsung-small-toolkit",
     "usb-1-9-7",
@@ -59,7 +60,7 @@
     "eft-pro": "w:tool-eft-pro",
     "tg82part": "w:tool-tg82part"
   },
-  "rev": 9,
+  "rev": 10,
   "tools": [
     {
       "key": "b:devmgr",

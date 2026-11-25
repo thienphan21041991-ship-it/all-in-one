@@ -1,5 +1,5 @@
 {
-  "date": "24/11/2026",
+  "date": "25/11/2026",
   "items": [
     {
       "author": "",
@@ -316,7 +316,7 @@
   ],
   "min_app": "",
   "mirrors": [],
-  "sig": "ZCS9LPVWUqJ6Foztllm1kbgQpykYDHfrQoBR91zZwCbvrIHO1QVgH9jQXJmoPsPPRwZ1nH6K18frY+dQhGvCUw==",
+  "sig": "jZIyEf/1qZi26HFueHz0N8Ewg9fqb6PcuJBAx7RRqe3Ofpz8l2AxdW8Zwt4V4Vj0quvUV9ZxSQuVMWdjR5ubRg==",
   "v": 2,
-  "ver": 56
+  "ver": 57
 }

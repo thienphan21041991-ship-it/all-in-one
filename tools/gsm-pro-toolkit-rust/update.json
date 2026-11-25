@@ -1,11 +1,11 @@
 {
-  "asset": "GsmProToolkit-186.exe",
-  "build": 186,
+  "asset": "GsmProToolkit-187.exe",
+  "build": 187,
   "date": "25/11/2026",
-  "note": "Kiem tra cap nhat quet thuc te tep tren dia, thieu/rong/hong thi tu tai lai dung goi; bang bao Thieu tep",
-  "sha256": "216052f33be7848bfdc63e32885531a48b8a154a3bf7cff43f4d92ef2d421ede",
-  "sig": "yNIzHdZpo0DlISlQpngO+tynIOtZwDQiYxCQMvwl2gIewmIJwG1AhJ4sHkNtb/vgF43Ljt3WPVU7ilwsgZm13g==",
-  "size": 7293440,
+  "note": "Gon log: bo dong giai thich UAC, rut ngan cac dong log dai",
+  "sha256": "21dfb2eb4114bb599843f8a3d6d70ae403cbf8d3a6e5f6b84becd3bb50fc8df6",
+  "sig": "lt12JHd8mg0wRMfRkI1WwjuUGNcTkevfREdlovJQsU4OSzIxl9cHSNxgjXyv2FmPOzYy8OgAgVkzh6GCMuLUrA==",
+  "size": 7289344,
   "tool": "gsm-pro-toolkit-rust",
   "v": 2
 }

@@ -1,11 +1,11 @@
 {
-  "asset": "GsmProToolkit-188.exe",
-  "build": 188,
+  "asset": "GsmProToolkit-189.exe",
+  "build": 189,
   "date": "25/11/2026",
-  "note": "Bo hop xac nhan loai tru Defender: chay thang (chi con UAC cua Windows); log Defender gon",
-  "sha256": "d75dd873cb39e80154faa976dc86b873ed9334435946edc2581a71af133f90d2",
-  "sig": "PjdcKmQGsaXYuKr8BNA46DIAZZ4xpDFZT2ybRjAhNI26MJUKex3dc/1Wu66Pj4ux5IK4A5b1JHkchfL4ep/q9w==",
-  "size": 7288832,
+  "note": "",
+  "sha256": "ab37ce896bca1668cb3a0eb981fa45bdc18a5c3db714d23fe9ea14e2d354ca03",
+  "sig": "inBTrm/qy1xrSE6BmRVux5zSra5kAdlIHa/dyvixIM9449H4UMXMOfLk5W+Mha8XlyC6ygycKSHXDxNg4r8GAw==",
+  "size": 7309312,
   "tool": "gsm-pro-toolkit-rust",
   "v": 2
 }

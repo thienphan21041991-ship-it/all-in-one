@@ -1,0 +1,211 @@
+{
+  "actions": [
+    {
+      "args": "",
+      "builtin": "tools:optimize",
+      "elevate": false,
+      "exe": "",
+      "id": "optimize",
+      "kind": "builtin",
+      "name": "Tối ưu UAC/Sleep/Time + Tắt tự chia màn hình",
+      "wait": false
+    },
+    {
+      "args": "",
+      "builtin": "tools:neat",
+      "elevate": false,
+      "exe": "",
+      "id": "neat",
+      "kind": "builtin",
+      "name": "Neat Download",
+      "wait": false
+    },
+    {
+      "args": "",
+      "builtin": "tools:7zip",
+      "elevate": false,
+      "exe": "",
+      "id": "7zip",
+      "kind": "builtin",
+      "name": "7-Zip ZS",
+      "wait": false
+    },
+    {
+      "args": "",
+      "builtin": "tools:geek",
+      "elevate": false,
+      "exe": "",
+      "id": "geek",
+      "kind": "builtin",
+      "name": "Geek Uninstaller",
+      "wait": false
+    },
+    {
+      "args": "",
+      "builtin": "tools:realtime",
+      "elevate": false,
+      "exe": "",
+      "id": "realtime",
+      "kind": "builtin",
+      "name": "Bật/tắt Realtime Protection",
+      "wait": false
+    },
+    {
+      "args": "",
+      "builtin": "tools:defender",
+      "elevate": false,
+      "exe": "",
+      "id": "defender",
+      "kind": "builtin",
+      "name": "Thêm vào loại trừ Windows Defender",
+      "wait": false
+    },
+    {
+      "args": "",
+      "builtin": "tools:devmgr",
+      "elevate": false,
+      "exe": "",
+      "id": "devmgr",
+      "kind": "builtin",
+      "name": "Device Manager",
+      "wait": false
+    },
+    {
+      "args": "",
+      "builtin": "tools:control",
+      "elevate": false,
+      "exe": "",
+      "id": "control",
+      "kind": "builtin",
+      "name": "Control Panel",
+      "wait": false
+    },
+    {
+      "args": "",
+      "builtin": "tools:update",
+      "elevate": false,
+      "exe": "",
+      "id": "update",
+      "kind": "builtin",
+      "name": "Kiểm tra cập nhật",
+      "wait": false
+    },
+    {
+      "args": "",
+      "builtin": "tools:admin",
+      "elevate": false,
+      "exe": "",
+      "id": "admin",
+      "kind": "builtin",
+      "name": "Quản trị tool",
+      "wait": false
+    },
+    {
+      "args": "",
+      "builtin": "driver:mtk",
+      "elevate": false,
+      "exe": "",
+      "id": "driver-mtk",
+      "kind": "builtin",
+      "name": "Driver MTK",
+      "wait": false
+    },
+    {
+      "args": "",
+      "builtin": "driver:libusb",
+      "elevate": false,
+      "exe": "",
+      "id": "driver-libusb",
+      "kind": "builtin",
+      "name": "Bộ lọc libUSB 32",
+      "wait": false
+    },
+    {
+      "args": "",
+      "builtin": "driver:adb",
+      "elevate": false,
+      "exe": "",
+      "id": "driver-adb",
+      "kind": "builtin",
+      "name": "Driver ADB",
+      "wait": false
+    },
+    {
+      "args": "",
+      "builtin": "driver:samsung",
+      "elevate": false,
+      "exe": "",
+      "id": "driver-samsung",
+      "kind": "builtin",
+      "name": "Driver Samsung",
+      "wait": false
+    },
+    {
+      "args": "",
+      "builtin": "driver:qualcomm",
+      "elevate": false,
+      "exe": "",
+      "id": "driver-qualcomm",
+      "kind": "builtin",
+      "name": "Driver Qualcomm",
+      "wait": false
+    },
+    {
+      "args": "",
+      "builtin": "driver:spd",
+      "elevate": false,
+      "exe": "",
+      "id": "driver-spd",
+      "kind": "builtin",
+      "name": "Driver SPD",
+      "wait": false
+    },
+    {
+      "args": "",
+      "builtin": "driver:kirin",
+      "elevate": false,
+      "exe": "",
+      "id": "driver-kirin",
+      "kind": "builtin",
+      "name": "Driver Kirin",
+      "wait": false
+    },
+    {
+      "args": "",
+      "builtin": "driver:all",
+      "elevate": false,
+      "exe": "",
+      "id": "driver-all",
+      "kind": "builtin",
+      "name": "Cài tất cả",
+      "wait": false
+    }
+  ],
+  "flows": [
+    {
+      "id": "tool-tg82part",
+      "name": "TG82PART — chuỗi",
+      "steps": [
+        {
+          "action": "",
+          "kind": "hub",
+          "op": "setup",
+          "optional": false,
+          "run": "",
+          "tool": "windows-desktop-runtime"
+        },
+        {
+          "action": "",
+          "kind": "hub",
+          "op": "open",
+          "optional": false,
+          "run": "",
+          "tool": "tg82part"
+        }
+      ]
+    }
+  ],
+  "rev": 1,
+  "sig": "E0vpLs+4RBu7Ll8chOPjkEdX/yXandqxXzrXRe7DAj/mqyYQC4OpWcCHF6rjFHUkxmQG7DkDhoQ3vWg+qrNbKg==",
+  "v": 1
+}

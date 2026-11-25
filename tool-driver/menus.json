@@ -40,6 +40,7 @@
     "libusb-win32",
     "samsung-small-toolkit",
     "usb-1-9-7",
+    "windows-desktop-runtime",
     "winrar-x64-7-23"
   ],
   "hub_order": [
@@ -57,7 +58,7 @@
   "hub_run": {
     "tg82part": "w:tool-tg82part"
   },
-  "rev": 7,
+  "rev": 8,
   "tools": [
     {
       "key": "b:devmgr",

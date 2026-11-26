@@ -59,6 +59,9 @@
       "exe": "usboecl.exe"
     }
   },
+  "hub_dir": {
+    "hth-nd-v4-3": "HTH_ND v4.3"
+  },
   "hub_hidden": [
     "libusb-win32",
     "samsung-small-toolkit",
@@ -89,7 +92,7 @@
     "mrst-pro": "w:tool-mrst-pro",
     "tg82part": "w:tool-tg82part"
   },
-  "rev": 28,
+  "rev": 29,
   "tools": [
     {
       "key": "b:devmgr",

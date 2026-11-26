@@ -1,12 +1,6 @@
 {
   "items": [
     {
-      "icon": "",
-      "icon_sha256": "",
-      "id": "bypass-hello-67caferacer-hello-a12",
-      "updated": "2026-11-26"
-    },
-    {
       "icon": "client-kernelpro-usb-over-ethernet-5d60fcffdfd3.png",
       "icon_sha256": "5d60fcffdfd359194c35b85bf672b86a63a3f0a4fa8cb4ed7b922e4e8bba47a1",
       "id": "client-kernelpro-usb-over-ethernet",
@@ -91,7 +85,7 @@
       "updated": "2026-11-23"
     }
   ],
-  "sig": "udogynrcXpBXVBTfXmva5zEoZrBk16TOKgF2Pkj86KizxQhoua1Bq0AEF5Pm7ytpM0b1rnObqzEBQhIqZYPTAA==",
+  "sig": "Tx0kVtLY6FTZtl0XAPOs9bKHAKGxMt7zHuMSqZizBSFUni5fkhxbWz7028vIZ/5Od/kKAhuzIqMGPF+w3x2qjg==",
   "v": 1,
-  "ver": 45
+  "ver": 46
 }

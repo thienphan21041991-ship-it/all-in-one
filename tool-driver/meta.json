@@ -19,6 +19,12 @@
       "updated": "2026-11-22"
     },
     {
+      "icon": "",
+      "icon_sha256": "",
+      "id": "hth-nd-v4-3",
+      "updated": "2026-11-26"
+    },
+    {
       "icon": "libusb-win32-e5749c51d22f.png",
       "icon_sha256": "e5749c51d22f653d828e96de7ac46fbe4dd418a562e898225a3e629693beb069",
       "id": "libusb-win32",
@@ -85,7 +91,7 @@
       "updated": "2026-11-23"
     }
   ],
-  "sig": "OQgtXJmcCtfNoJ7KzhIdO2USbvM25BPgk45AI3E7u04R+EOu/C5owiHsH7IEFPWaon5vwaAyBOoene3cBAHFsQ==",
+  "sig": "+Y5oEzrCJOTFFivs1YDe0YitVq0O5mG8H0XQFq3QCEhBndsbDfrMCOUbgCj4BDDYNUdOu77OiD719muUYcyu4g==",
   "v": 1,
-  "ver": 41
+  "ver": 42
 }

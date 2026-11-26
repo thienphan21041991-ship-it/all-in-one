@@ -1,11 +1,11 @@
 {
-  "asset": "GsmProToolkit-209.exe",
-  "build": 209,
+  "asset": "GsmProToolkit-210.exe",
+  "build": 210,
   "date": "26/11/2026",
-  "note": "Thuat toan bao ham: chon tep them nguyen lieu ngay tren bang, tool tu dat dung ma va day len GitHub",
-  "sha256": "4a90771fe546577137fc13e1e28353e2ebdb95934ebc59b32392ced010e042d8",
-  "sig": "AHaMb5jbDkGmjja7e8DbotD0oLHt1fK5Iw2wpa6HBw/SrYi1ldY6ZQ25Jzz8x4vk2id74zaCui/LoK+n28B4xQ==",
-  "size": 7560192,
+  "note": "Sua ten tool thi bang Apple va nut mang ten cu dong bo theo ngay",
+  "sha256": "9962c6b2fd8e6e46ac4b6a9491a38692a2fca11b086aaf4e91e30c073f471dee",
+  "sig": "9coDGLjzcVH86TasxvQwI/N+tVLfOlpira33L4q8BUCO/MyfFzryXmmnqTJqnQINAAyp/EO1Jw+nrccUqIvyEg==",
+  "size": 7561728,
   "tool": "gsm-pro-toolkit-rust",
   "v": 2
 }

@@ -57,6 +57,17 @@
       "url": ""
     },
     {
+      "file": "hub-usbdk64-21fe2884f4a4.zip",
+      "group": "Nguyên liệu nút",
+      "id": "usbdk64",
+      "kind": "depot",
+      "name": "UsbDk 64-bit (UsbDk64.msi)",
+      "run": "",
+      "sha256": "21fe2884f4a457944e9cbdeb1dd8c00247ce773cc03af02d52535d29607daed3",
+      "size": 6308378,
+      "url": ""
+    },
+    {
       "file": "hub-winrar-x64-7-23-9fedd584247d.zip",
       "group": "Tool",
       "id": "winrar-x64-7-23",
@@ -68,7 +79,7 @@
       "url": ""
     }
   ],
-  "sig": "CD3DJieMnK5qG0J2ArS60pev2SR8inhgNZ+7KT8gIw5bhrIxBTm7+07s4opLtS0PvGXEN0c2PDMdeY/gZog68Q==",
+  "sig": "GR4YvRv9EY0/X5Cbm11SMY+aAmPgMC/7+Ec6EG9y+Whd+bSoJMyHpMPtvwFABtJHbagGTWkJ3+cIxm8bsDBSFA==",
   "v": 1,
-  "ver": 82
+  "ver": 83
 }

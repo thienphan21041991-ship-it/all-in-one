@@ -74,6 +74,28 @@
       "desc": "",
       "disabled": false,
       "disabled_note": "",
+      "file": "hub-hth-nd-v4-3-4cc23ab01d72.zip",
+      "group": "Tool",
+      "homepage": "",
+      "id": "hth-nd-v4-3",
+      "kind": "depot",
+      "min_app": "",
+      "mirror_urls": [],
+      "name": "HTH_ND v4.3",
+      "notes": "",
+      "publisher": "",
+      "run": "",
+      "sha256": "4cc23ab01d72ba2375a427c69677beccb71bc1ba46dabfbc50cd3b03c7113cb7",
+      "size": 204375618,
+      "url": "",
+      "version": ""
+    },
+    {
+      "author": "",
+      "channel": "",
+      "desc": "",
+      "disabled": false,
+      "disabled_note": "",
       "file": "hub-libusb-win32-ded3513d7d39.zip",
       "group": "Tool",
       "homepage": "",
@@ -316,7 +338,7 @@
   ],
   "min_app": "",
   "mirrors": [],
-  "sig": "zcr33ZNlqQgJlPj1Zx7Vdzo1hclNRyIFJPA1qccG7kQnVtDWD82ND2v1e8tiuuKYaFySAWknM40Px4tdv9XVKw==",
+  "sig": "4PvTkg0V7rYMHo7vFgng0BoXoAHSzyh4HQ7cJK9EYF1+Qa/Es/SmGK26EaoFsr9xLlxbnL1aODhTbPhjrlfoTw==",
   "v": 2,
-  "ver": 70
+  "ver": 71
 }

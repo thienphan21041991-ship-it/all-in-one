@@ -1,6 +1,12 @@
 {
   "items": [
     {
+      "icon": "",
+      "icon_sha256": "",
+      "id": "3utools",
+      "updated": "2026-11-26"
+    },
+    {
       "icon": "bypass-hello-67caferacer-hello-a12-c7bc1bd2e9e0.png",
       "icon_sha256": "c7bc1bd2e9e070b02189da0437fe4065087e6a51b931acdac7502811909e84e6",
       "id": "bypass-hello-67caferacer-hello-a12",
@@ -97,7 +103,7 @@
       "updated": "2026-11-23"
     }
   ],
-  "sig": "uPEEKI4IukXG78gw5pYfJQd77HR6TVW7uYLqeuTLx+OZTBhtdc+yoBkeoPg5QiksUpEIi8Z0L2sLZJM+ugToVg==",
+  "sig": "RQwBZ3sJactmfM1VCNvB4c32dhjbKDSwvyMLdAdj9G5PO4djFZoMICvEQn/5/LFNumvy779ojiko6vqyYxKgOw==",
   "v": 1,
-  "ver": 54
+  "ver": 55
 }

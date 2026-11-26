@@ -7,6 +7,11 @@
     },
     {
       "behavior": "install",
+      "key": "h:3utools",
+      "label": "3utools"
+    },
+    {
+      "behavior": "install",
       "key": "h:hth-nd-v4-3",
       "label": "HTH_ND v4.3"
     },
@@ -19,11 +24,6 @@
       "behavior": "install",
       "key": "h:bypass-hello-67caferacer-hello-a12",
       "label": "[Bypass Hello] 67CafeRacer Hello A12+ v3"
-    },
-    {
-      "behavior": "install",
-      "key": "h:3utools",
-      "label": "3utools"
     }
   ],
   "driver": [
@@ -109,7 +109,7 @@
     "mrst-pro": "w:tool-mrst-pro",
     "tg82part": "w:tool-tg82part"
   },
-  "rev": 43,
+  "rev": 44,
   "tools": [
     {
       "key": "b:devmgr",

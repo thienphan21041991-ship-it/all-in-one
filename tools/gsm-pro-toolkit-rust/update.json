@@ -1,11 +1,11 @@
 {
-  "asset": "GsmProToolkit-202.exe",
-  "build": 202,
+  "asset": "GsmProToolkit-203.exe",
+  "build": 203,
   "date": "26/11/2026",
-  "note": "Hop Thu muc cai dat them nut Mo thu muc cai dat; go bo tinh nang tu ghim len Taskbar",
-  "sha256": "b5c7a8d098c77d209a92d4177497fbd6c0efc26c4f709085adaaabeba10d429e",
-  "sig": "UV4iFPz/w/P1waIRsiAJbwr3i2Jsdqt5RSM47h8s4lP1gDdXZhyCkYXy1ytRTOnwmCwEsLB47erSnReR/vBRVg==",
-  "size": 7501312,
+  "note": "Hop thoai tu vua man hinh (khong chim duoi taskbar), cuon duoc, ghim hang nut, keo di chuyen va doi kich thuoc; Quan ly tool ve tinh: go tool khoi tab ngay tu nhanh Kho tool, chon an han hoac hien o Kho tool",
+  "sha256": "f14b6eb4da7aa85fd6e69fe7cef5bae0e7a92ad8e43ce65d243404e2c5e055e7",
+  "sig": "dv0r3D1NAH0lPCA8+bPntosDq+Hr6wMaLBdr1fxVvf3BEMf/obltsprExZq91vbtrw+CV0CPl0bJsD2APgWhjA==",
+  "size": 7515136,
   "tool": "gsm-pro-toolkit-rust",
   "v": 2
 }

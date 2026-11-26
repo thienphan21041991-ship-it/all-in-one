@@ -225,9 +225,31 @@
           "tool": "eft-pro"
         }
       ]
+    },
+    {
+      "id": "tool-tsm-pro-edition",
+      "name": "TSM Pro Edition — chuỗi",
+      "steps": [
+        {
+          "action": "",
+          "kind": "hub",
+          "op": "ensure",
+          "optional": false,
+          "run": "",
+          "tool": "client-kernelpro-usb-over-ethernet"
+        },
+        {
+          "action": "",
+          "kind": "hub",
+          "op": "ensure",
+          "optional": false,
+          "run": "",
+          "tool": "tsm-pro-edition"
+        }
+      ]
     }
   ],
-  "rev": 4,
-  "sig": "60cY8vLnri7tj/aRm91G7yVMkvy/j717mUBWE5U1tzs0fahCC2hfNxRGPSZ8u478xA1a0r7CJlEJ7fjhb+Gd2g==",
+  "rev": 5,
+  "sig": "3dr/8yo569dEznCWE49GQjV0FbC4lUXF38SLzISBiLaSt5scwpF6SFBkvrGuZaldTsrsDu1MPyyVEIdLJHm3ug==",
   "v": 1
 }

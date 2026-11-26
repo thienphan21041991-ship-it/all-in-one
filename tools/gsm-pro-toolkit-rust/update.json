@@ -1,11 +1,11 @@
 {
-  "asset": "GsmProToolkit-212.exe",
-  "build": 212,
+  "asset": "GsmProToolkit-214.exe",
+  "build": 214,
   "date": "26/11/2026",
-  "note": "Thuật toán bao hàm: nguyên liệu # @lazy chỉ tải khi máy còn thiếu",
-  "sha256": "fb60f3f45eaf5899c084cabaf05675dcd1d4fb520dee83036325d7e69cd3671a",
-  "sig": "izsAWdrWRalc6XEKL/YwgtovVHh4liJOtr1tzXZT76EcgULNLWXKPjD1milA21GZ/GvtRhFh8JFvnsm9NQZTtg==",
-  "size": 7571968,
+  "note": "Thuật toán chạy ẩn (kết quả ở nhật ký) và tự xin nguyên liệu giữa lúc chạy",
+  "sha256": "1c536176428d664115bd0f02734dc36736e40ab70073df2398dcb5e5f2be3018",
+  "sig": "QVPcqYVK5JUtbqYXsLtSvt2Vcn4QS/npSHeCus5di9Knw/uQJlHHMuiy7GmQMoAwdcFfrlYsd4E5hLtJnSi1eA==",
+  "size": 7581696,
   "tool": "gsm-pro-toolkit-rust",
   "v": 2
 }

@@ -81,14 +81,14 @@
       "kind": "depot",
       "min_app": "",
       "mirror_urls": [],
-      "name": "HTH_ND v4.3",
+      "name": "HTH_ND",
       "notes": "",
       "publisher": "",
       "run": "HTH_ND_All_In_One.exe",
       "sha256": "4cc23ab01d72ba2375a427c69677beccb71bc1ba46dabfbc50cd3b03c7113cb7",
       "size": 204375618,
       "url": "",
-      "version": ""
+      "version": "v4.3.2"
     },
     {
       "author": "",
@@ -338,7 +338,7 @@
   ],
   "min_app": "",
   "mirrors": [],
-  "sig": "IEU1nzzxJfKkJyGfNMNnBxBuE9cjqW5hDt0aG5wxSEwKBSF+Bk7zQV8wVWpi7ENBhBuV5hIMapSaiesC79IJVw==",
+  "sig": "39OQSjbqs9/Ug4twNxvOytzqYzl1VaBHczJgZ2z0Hretz7SFtTm8oZNVehLwTdM9041gYbIZyJ0zp1/LUxPifQ==",
   "v": 2,
-  "ver": 78
+  "ver": 79
 }

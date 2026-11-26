@@ -2,14 +2,14 @@
   "date": "26/11/2026",
   "items": [
     {
-      "file": "hub-bypass-hello-67caferacer-hello-a12-fae8ac305ccf.zip",
+      "file": "hub-bypass-hello-67caferacer-hello-a12-729f2a9e2aaa.zip",
       "group": "Tool",
       "id": "bypass-hello-67caferacer-hello-a12",
       "kind": "depot",
       "name": "[Bypass Hello] 67CafeRacer Hello A12+ v3",
       "run": "",
-      "sha256": "fae8ac305ccf3f1ef8a5503338c54aaab19cfc7145efad4138af47298d1b1c4e",
-      "size": 96028516,
+      "sha256": "729f2a9e2aaa2c7e17c230c2662da4ee2c6b9ca9bbb761f59767a08bc3484043",
+      "size": 97190189,
       "url": ""
     },
     {
@@ -57,7 +57,7 @@
       "url": ""
     }
   ],
-  "sig": "BEuNIpCwg4DduBo/nnA5pVC0QZgvu3ojUkMUP95RjGljnjuYsUmfe+PzJnC2PdYrU2KzJ36WfTKDhIyfo+EeDA==",
+  "sig": "GDEQkypn7qF7sMPAxv+vovEfQhJICA7HA4Krnm4YjfA/nYIW7/mXk5fVRolB93LQftjhBdNlRsqaRWdacMqgwg==",
   "v": 1,
-  "ver": 77
+  "ver": 78
 }

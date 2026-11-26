@@ -35,6 +35,17 @@
       "url": ""
     },
     {
+      "file": "hub-itunes64-6fd29d29f173.zip",
+      "group": "Nguyên liệu nút",
+      "id": "itunes64",
+      "kind": "depot",
+      "name": "iTunes 64-bit (iTunes64.exe)",
+      "run": "",
+      "sha256": "6fd29d29f173ee3091d9a4fea2055516ed660abe381e3d7638df0d6d769eb7da",
+      "size": 207966627,
+      "url": ""
+    },
+    {
       "file": "hub-usb-1-9-7-1d4c0f3cdfb2.zip",
       "group": "Tool",
       "id": "usb-1-9-7",
@@ -57,7 +68,7 @@
       "url": ""
     }
   ],
-  "sig": "X3Qxd01/5/iqdCiafva9vU9f1gEs+XeOVzFdV9wRmZm4nWGoUfnqyScXqialRF1Uuou+lBlHc12QCZ/o8yGz6g==",
+  "sig": "CD3DJieMnK5qG0J2ArS60pev2SR8inhgNZ+7KT8gIw5bhrIxBTm7+07s4opLtS0PvGXEN0c2PDMdeY/gZog68Q==",
   "v": 1,
-  "ver": 81
+  "ver": 82
 }

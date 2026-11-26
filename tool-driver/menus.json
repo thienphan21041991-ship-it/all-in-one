@@ -66,7 +66,10 @@
     "eft-pro": "w:tool-eft-pro",
     "tg82part": "w:tool-tg82part"
   },
-  "rev": 12,
+  "hub_show": [
+    "scrcpy"
+  ],
+  "rev": 13,
   "tools": [
     {
       "key": "b:devmgr",

@@ -68,6 +68,7 @@
     "hth-nd-v4-3": "HTH_ND v4.3"
   },
   "hub_hidden": [
+    "3utools-setup",
     "apple-ramdisk-tool",
     "bonjour64",
     "itunes64",
@@ -102,7 +103,7 @@
     "mrst-pro": "w:tool-mrst-pro",
     "tg82part": "w:tool-tg82part"
   },
-  "rev": 40,
+  "rev": 41,
   "tools": [
     {
       "key": "b:devmgr",

@@ -70,6 +70,7 @@
     "samsung-small-toolkit",
     "titanservice-bypass-aio",
     "usb-1-9-7",
+    "usbdk64",
     "windows-desktop-runtime",
     "winrar-x64-7-23"
   ],
@@ -95,7 +96,7 @@
     "mrst-pro": "w:tool-mrst-pro",
     "tg82part": "w:tool-tg82part"
   },
-  "rev": 33,
+  "rev": 34,
   "tools": [
     {
       "key": "b:devmgr",

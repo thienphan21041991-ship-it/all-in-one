@@ -7,11 +7,6 @@
     },
     {
       "behavior": "install",
-      "key": "h:apple-ramdisk-tool",
-      "label": "APPLE RAMDISK TOOL"
-    },
-    {
-      "behavior": "install",
       "key": "h:hth-nd-v4-3",
       "label": "HTH_ND v4.3"
     }
@@ -63,6 +58,7 @@
     "hth-nd-v4-3": "HTH_ND v4.3"
   },
   "hub_hidden": [
+    "apple-ramdisk-tool",
     "libusb-win32",
     "samsung-small-toolkit",
     "titanservice-bypass-aio",
@@ -92,7 +88,7 @@
     "mrst-pro": "w:tool-mrst-pro",
     "tg82part": "w:tool-tg82part"
   },
-  "rev": 29,
+  "rev": 30,
   "tools": [
     {
       "key": "b:devmgr",

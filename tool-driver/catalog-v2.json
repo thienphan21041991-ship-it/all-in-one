@@ -7,7 +7,7 @@
       "desc": "",
       "disabled": false,
       "disabled_note": "",
-      "file": "hub-bypass-hello-67caferacer-hello-a12-fae8ac305ccf.zip",
+      "file": "hub-bypass-hello-67caferacer-hello-a12-729f2a9e2aaa.zip",
       "group": "Tool",
       "homepage": "",
       "id": "bypass-hello-67caferacer-hello-a12",
@@ -18,8 +18,8 @@
       "notes": "",
       "publisher": "",
       "run": "",
-      "sha256": "fae8ac305ccf3f1ef8a5503338c54aaab19cfc7145efad4138af47298d1b1c4e",
-      "size": 96028516,
+      "sha256": "729f2a9e2aaa2c7e17c230c2662da4ee2c6b9ca9bbb761f59767a08bc3484043",
+      "size": 97190189,
       "url": "",
       "version": ""
     },
@@ -338,7 +338,7 @@
   ],
   "min_app": "",
   "mirrors": [],
-  "sig": "rslnEc2H3tsWgqxrX/wB6ea4p9iycf9bzDHr8h7eSw8Ys1KrPF1Z5EXkuPnXFjAIBeuFNVUKFgDU1nqlATiATA==",
+  "sig": "IEU1nzzxJfKkJyGfNMNnBxBuE9cjqW5hDt0aG5wxSEwKBSF+Bk7zQV8wVWpi7ENBhBuV5hIMapSaiesC79IJVw==",
   "v": 2,
-  "ver": 77
+  "ver": 78
 }

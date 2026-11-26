@@ -7,6 +7,28 @@
       "desc": "",
       "disabled": false,
       "disabled_note": "",
+      "file": "hub-bypass-hello-67caferacer-hello-a12-fae8ac305ccf.zip",
+      "group": "Tool",
+      "homepage": "",
+      "id": "bypass-hello-67caferacer-hello-a12",
+      "kind": "depot",
+      "min_app": "",
+      "mirror_urls": [],
+      "name": "[Bypass Hello] 67CafeRacer Hello A12+ v3",
+      "notes": "",
+      "publisher": "",
+      "run": "",
+      "sha256": "fae8ac305ccf3f1ef8a5503338c54aaab19cfc7145efad4138af47298d1b1c4e",
+      "size": 96028516,
+      "url": "",
+      "version": ""
+    },
+    {
+      "author": "",
+      "channel": "",
+      "desc": "",
+      "disabled": false,
+      "disabled_note": "",
       "file": "hub-client-kernelpro-usb-over-ethernet-a7e6ebcb91a6.zip",
       "group": "Tool",
       "homepage": "",
@@ -316,7 +338,7 @@
   ],
   "min_app": "",
   "mirrors": [],
-  "sig": "ZP5TC2vj2D5lDO0paHbyXjpYWFbAQy+I5t2Ynu05mzZUrbj8cNdEYXDN1HTeQgVyypwnN64yQB5VtihMZprhkQ==",
+  "sig": "clhTynXaUjLf140066M5Z3tQHnNatTwfSBx/9fGPoBczRkBYMhegwVMxEtzsme9BNquGijJxW8Gau7nX9K3hjQ==",
   "v": 2,
-  "ver": 75
+  "ver": 76
 }

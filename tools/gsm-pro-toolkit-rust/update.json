@@ -1,11 +1,11 @@
 {
-  "asset": "GsmProToolkit-207.exe",
-  "build": 207,
+  "asset": "GsmProToolkit-208.exe",
+  "build": 208,
   "date": "26/11/2026",
-  "note": "Bang tool: icon moi hien dung tren may quan tri; xoa tool thi go luon khoi tab Apple/Cong cu/Driver",
-  "sha256": "0bedef9aab7e8d97813b51b2cbdaeec0e6869c53b9b895f2365f3816c801ea23",
-  "sig": "SLhaI/TOcaHvzt05Huv7/kH5bgB0OM4+I3hnUj9ZlN1igKCYPkCSRvudR0FySv8G3wZO9VOvLIAmt8DNKWnP8g==",
-  "size": 7550464,
+  "note": "Tool da xoa thi tu go ghim o tab Apple/Cong cu/Driver; xoa tool nguon khong lam mat nut co san",
+  "sha256": "234649d2c64e93778443d30dd98badbdeddbcde33c43b3928b05944e5d24e49e",
+  "sig": "8QoYa87rs3kSHK7C19nvLYkbmbOlhJ7Otqeb4HVNZGBagURVCZSTtCkBltha1aIgm0y2JWxHgIKVEYtS2PTnEA==",
+  "size": 7554048,
   "tool": "gsm-pro-toolkit-rust",
   "v": 2
 }

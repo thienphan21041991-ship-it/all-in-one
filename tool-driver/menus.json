@@ -4,6 +4,11 @@
       "behavior": "install",
       "key": "h:titanservice-bypass-aio",
       "label": "TitanService Bypass AIO"
+    },
+    {
+      "behavior": "install",
+      "key": "h:apple-ramdisk-tool",
+      "label": "APPLE RAMDISK TOOL"
     }
   ],
   "driver": [
@@ -74,7 +79,7 @@
     "eft-pro": "w:tool-eft-pro",
     "tg82part": "w:tool-tg82part"
   },
-  "rev": 20,
+  "rev": 21,
   "tools": [
     {
       "key": "b:devmgr",

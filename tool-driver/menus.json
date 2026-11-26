@@ -14,6 +14,11 @@
       "behavior": "install",
       "key": "h:bypass-hello-67caferacer-hello-a12",
       "label": "[Bypass Hello] 67CafeRacer Hello A12+ v3"
+    },
+    {
+      "behavior": "install",
+      "key": "h:fix-all-apple",
+      "label": "Fix All Apple"
     }
   ],
   "driver": [
@@ -97,7 +102,7 @@
     "mrst-pro": "w:tool-mrst-pro",
     "tg82part": "w:tool-tg82part"
   },
-  "rev": 35,
+  "rev": 36,
   "tools": [
     {
       "key": "b:devmgr",

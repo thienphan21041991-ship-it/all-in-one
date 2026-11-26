@@ -7,6 +7,28 @@
       "desc": "",
       "disabled": false,
       "disabled_note": "",
+      "file": "hub-3utools-14aba6172d1b.zip",
+      "group": "Tool",
+      "homepage": "",
+      "id": "3utools",
+      "kind": "depot",
+      "min_app": "",
+      "mirror_urls": [],
+      "name": "3utools",
+      "notes": "",
+      "publisher": "",
+      "run": "Chay-bang-thuat-toan.txt",
+      "sha256": "14aba6172d1b76acd4b9fdde9031de681d0e8403fc4314070b27c15daa40761a",
+      "size": 348,
+      "url": "",
+      "version": ""
+    },
+    {
+      "author": "",
+      "channel": "",
+      "desc": "",
+      "disabled": false,
+      "disabled_note": "",
       "file": "hub-3utools-setup-0ee830fb85e3.zip",
       "group": "Nguyên liệu nút",
       "homepage": "",
@@ -448,7 +470,7 @@
   ],
   "min_app": "",
   "mirrors": [],
-  "sig": "hL/JN1/N2efuuCFaZ3tT/KLeh/DYHkHzA1MOBnxP/2VN/uR2PVR7SKQRv28rsW5v4729jiuvjArlzYvL/FWcoQ==",
+  "sig": "w2CpoyYgB3yqZ+8Q1sy7/DOaPTjSDtuNeZ6FoaXbOm/XotzdVQk0O21AGNUmp6lCa+bQelJHLpFGX+1Y3lU9fw==",
   "v": 2,
-  "ver": 89
+  "ver": 90
 }

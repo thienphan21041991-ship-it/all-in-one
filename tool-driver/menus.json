@@ -52,6 +52,7 @@
   "hub_hidden": [
     "libusb-win32",
     "samsung-small-toolkit",
+    "scrcpy",
     "titanservice-bypass-aio",
     "usb-1-9-7",
     "windows-desktop-runtime",
@@ -74,10 +75,7 @@
     "eft-pro": "w:tool-eft-pro",
     "tg82part": "w:tool-tg82part"
   },
-  "hub_show": [
-    "scrcpy"
-  ],
-  "rev": 17,
+  "rev": 18,
   "tools": [
     {
       "key": "b:devmgr",
@@ -95,11 +93,6 @@
       "behavior": "install",
       "key": "h:samsung-small-toolkit",
       "label": "Samsung small toolkit"
-    },
-    {
-      "behavior": "install",
-      "key": "h:scrcpy",
-      "label": "scrcpy"
     },
     {
       "behavior": "install",

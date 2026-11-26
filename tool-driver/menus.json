@@ -69,7 +69,7 @@
   "hub_show": [
     "scrcpy"
   ],
-  "rev": 13,
+  "rev": 14,
   "tools": [
     {
       "key": "b:devmgr",
@@ -126,6 +126,11 @@
     {
       "key": "b:admin",
       "label": "Quản trị tool"
+    },
+    {
+      "behavior": "install",
+      "key": "h:titanservice-bypass-aio",
+      "label": "TitanService Bypass AIO"
     }
   ],
   "usb": {

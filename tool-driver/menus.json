@@ -93,10 +93,11 @@
   "hub_run": {
     "client-kernelpro-usb-over-ethernet": "i:check",
     "eft-pro": "w:tool-eft-pro",
+    "fix-all-apple": "a:fix-apple-toan-dien",
     "mrst-pro": "w:tool-mrst-pro",
     "tg82part": "w:tool-tg82part"
   },
-  "rev": 34,
+  "rev": 35,
   "tools": [
     {
       "key": "b:devmgr",

@@ -35,17 +35,6 @@
       "url": ""
     },
     {
-      "file": "hub-fix-all-apple-b4a12426480e.zip",
-      "group": "Tool",
-      "id": "fix-all-apple",
-      "kind": "depot",
-      "name": "Fix All Apple",
-      "run": "",
-      "sha256": "b4a12426480e807721a296733f69a013876da65619ebcb87b161aa7bebd81b29",
-      "size": 215544299,
-      "url": ""
-    },
-    {
       "file": "hub-itunes64-6fd29d29f173.zip",
       "group": "Nguyên liệu nút",
       "id": "itunes64",
@@ -90,7 +79,7 @@
       "url": ""
     }
   ],
-  "sig": "wr4iZ4i9H0Wfx95FQbNYjP7Sz0FX4jEfhOptgnyq6mTNbPjbv6BT2UPF6cExM2M1tK76uNDymqrs8lu3NvEaOQ==",
+  "sig": "eHIOOyG7LNul9Wvh75ScSBoKFR8gJ6ZNdzmo5/nbtHVF52R5H4yrfi92X15+pPFm+RuAuM8Dzbybzcs2JIBidg==",
   "v": 1,
-  "ver": 84
+  "ver": 85
 }

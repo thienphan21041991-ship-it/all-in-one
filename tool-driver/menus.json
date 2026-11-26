@@ -1,4 +1,11 @@
 {
+  "apple": [
+    {
+      "behavior": "install",
+      "key": "h:titanservice-bypass-aio",
+      "label": "TitanService Bypass AIO"
+    }
+  ],
   "driver": [
     {
       "key": "b:mtk",
@@ -69,7 +76,7 @@
   "hub_show": [
     "scrcpy"
   ],
-  "rev": 14,
+  "rev": 15,
   "tools": [
     {
       "key": "b:devmgr",

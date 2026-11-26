@@ -2,6 +2,17 @@
   "date": "26/11/2026",
   "items": [
     {
+      "file": "hub-bypass-hello-67caferacer-hello-a12-fae8ac305ccf.zip",
+      "group": "Tool",
+      "id": "bypass-hello-67caferacer-hello-a12",
+      "kind": "depot",
+      "name": "[Bypass Hello] 67CafeRacer Hello A12+ v3",
+      "run": "",
+      "sha256": "fae8ac305ccf3f1ef8a5503338c54aaab19cfc7145efad4138af47298d1b1c4e",
+      "size": 96028516,
+      "url": ""
+    },
+    {
       "file": "hub-eft-pro-1e75dcb50d4a.zip",
       "group": "Tool",
       "id": "eft-pro",
@@ -46,7 +57,7 @@
       "url": ""
     }
   ],
-  "sig": "/+H7eDhACoW7Om3W/tIHmLEIJlETYKbXdV7n8Vse7Jc0Zz634MhMvm0E5mFuTh2jQ+32ojg9GkZMxID3X57Nig==",
+  "sig": "wDUvRmeKBPiHpUrJa4n6BbbwOh2vnE16tgsdVjybTwhN401aHyT/3L+agIG+aB3wMY4M3LsJK32ovid6abEbPQ==",
   "v": 1,
-  "ver": 75
+  "ver": 76
 }

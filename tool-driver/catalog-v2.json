@@ -7,6 +7,28 @@
       "desc": "",
       "disabled": false,
       "disabled_note": "",
+      "file": "hub-3utools-setup-0ee830fb85e3.zip",
+      "group": "Nguyên liệu nút",
+      "homepage": "",
+      "id": "3utools-setup",
+      "kind": "depot",
+      "min_app": "",
+      "mirror_urls": [],
+      "name": "Bộ cài 3uTools",
+      "notes": "",
+      "publisher": "",
+      "run": "",
+      "sha256": "0ee830fb85e363487c6b178d38cfa6681c625c4c40edc807ed195df1d35cd099",
+      "size": 203309929,
+      "url": "",
+      "version": ""
+    },
+    {
+      "author": "",
+      "channel": "",
+      "desc": "",
+      "disabled": false,
+      "disabled_note": "",
       "file": "hub-bonjour64-d3591be0da45.zip",
       "group": "Nguyên liệu nút",
       "homepage": "",
@@ -426,7 +448,7 @@
   ],
   "min_app": "",
   "mirrors": [],
-  "sig": "c/nps0Rb0UDqLFEDgJfins+Oayo71JJIG8Zs8MBhkoiKg6ri1p9WQganU5zj0bj45mKVVp2EZUP3TVW/kmTLqg==",
+  "sig": "hL/JN1/N2efuuCFaZ3tT/KLeh/DYHkHzA1MOBnxP/2VN/uR2PVR7SKQRv28rsW5v4729jiuvjArlzYvL/FWcoQ==",
   "v": 2,
-  "ver": 88
+  "ver": 89
 }

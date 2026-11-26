@@ -1,11 +1,4 @@
 {
-  "apple": [
-    {
-      "behavior": "install",
-      "key": "h:titanservice-bypass-aio",
-      "label": "TitanService Bypass AIO"
-    }
-  ],
   "driver": [
     {
       "key": "b:mtk",
@@ -52,6 +45,7 @@
   "hub_hidden": [
     "libusb-win32",
     "samsung-small-toolkit",
+    "titanservice-bypass-aio",
     "usb-1-9-7",
     "windows-desktop-runtime",
     "winrar-x64-7-23"
@@ -76,7 +70,7 @@
   "hub_show": [
     "scrcpy"
   ],
-  "rev": 15,
+  "rev": 16,
   "tools": [
     {
       "key": "b:devmgr",
@@ -133,11 +127,6 @@
     {
       "key": "b:admin",
       "label": "Quản trị tool"
-    },
-    {
-      "behavior": "install",
-      "key": "h:titanservice-bypass-aio",
-      "label": "TitanService Bypass AIO"
     }
   ],
   "usb": {

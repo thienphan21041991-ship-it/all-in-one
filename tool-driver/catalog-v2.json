@@ -7,28 +7,6 @@
       "desc": "",
       "disabled": false,
       "disabled_note": "",
-      "file": "hub-apple-ramdisk-tool-204cfc58e99a.zip",
-      "group": "Tool",
-      "homepage": "",
-      "id": "apple-ramdisk-tool",
-      "kind": "depot",
-      "min_app": "",
-      "mirror_urls": [],
-      "name": "APPLE RAMDISK TOOL",
-      "notes": "",
-      "publisher": "",
-      "run": "",
-      "sha256": "204cfc58e99a6dcec4c73c37bcc200f72d22316f983f2c7012a1f67bef912eef",
-      "size": 585335547,
-      "url": "",
-      "version": "HTH v4.3.2"
-    },
-    {
-      "author": "",
-      "channel": "",
-      "desc": "",
-      "disabled": false,
-      "disabled_note": "",
       "file": "hub-client-kernelpro-usb-over-ethernet-a7e6ebcb91a6.zip",
       "group": "Tool",
       "homepage": "",
@@ -338,7 +316,7 @@
   ],
   "min_app": "",
   "mirrors": [],
-  "sig": "mSfkqfV+BUnDrIsUNxkw9uKCkoUx3znZM82nvQ1dyX9nVLDgF5R3LAPSb3J4bsQzsQ9st3rdbvSjkmowGxemhA==",
+  "sig": "ZP5TC2vj2D5lDO0paHbyXjpYWFbAQy+I5t2Ynu05mzZUrbj8cNdEYXDN1HTeQgVyypwnN64yQB5VtihMZprhkQ==",
   "v": 2,
-  "ver": 74
+  "ver": 75
 }

@@ -2,6 +2,17 @@
   "date": "26/11/2026",
   "items": [
     {
+      "file": "hub-3utools-setup-0ee830fb85e3.zip",
+      "group": "Nguyên liệu nút",
+      "id": "3utools-setup",
+      "kind": "depot",
+      "name": "Bộ cài 3uTools",
+      "run": "",
+      "sha256": "0ee830fb85e363487c6b178d38cfa6681c625c4c40edc807ed195df1d35cd099",
+      "size": 203309929,
+      "url": ""
+    },
+    {
       "file": "hub-bonjour64-d3591be0da45.zip",
       "group": "Nguyên liệu nút",
       "id": "bonjour64",
@@ -90,7 +101,7 @@
       "url": ""
     }
   ],
-  "sig": "BM0g0FBdoaUhfI0M+1cODXMoYObCXuIOPi7IPW8qhkp2uLp923dY0ylDB54OnNe7MwI36duezhVR2YnuDQdPnA==",
+  "sig": "MVkBcfAev46xGOMmG4wWlsrnXi3zNdo44eIvDDfhy3WafHg/o6r9cByiJKzwpEZm5pAXfcqPN8GSmr65XlEnQA==",
   "v": 1,
-  "ver": 88
+  "ver": 89
 }

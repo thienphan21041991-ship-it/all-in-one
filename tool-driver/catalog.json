@@ -2,6 +2,17 @@
   "date": "26/11/2026",
   "items": [
     {
+      "file": "hub-bonjour64-d3591be0da45.zip",
+      "group": "Nguyên liệu nút",
+      "id": "bonjour64",
+      "kind": "depot",
+      "name": "Bonjour 64-bit (Bonjour64.msi)",
+      "run": "",
+      "sha256": "d3591be0da450c7cff65cf2d8c2b7c7e3d58258b7081f10f6131ba16a77b308c",
+      "size": 1267121,
+      "url": ""
+    },
+    {
       "file": "hub-bypass-hello-67caferacer-hello-a12-729f2a9e2aaa.zip",
       "group": "Tool",
       "id": "bypass-hello-67caferacer-hello-a12",
@@ -46,7 +57,7 @@
       "url": ""
     }
   ],
-  "sig": "JQ7S1i3pmhME7LkV/TmzFGavtK1pFT0KT84+Jp/KkfV/YvTA40QGvfTvYKZdOamAjdapu85B0A3Ske8MT8DBnQ==",
+  "sig": "X3Qxd01/5/iqdCiafva9vU9f1gEs+XeOVzFdV9wRmZm4nWGoUfnqyScXqialRF1Uuou+lBlHc12QCZ/o8yGz6g==",
   "v": 1,
-  "ver": 80
+  "ver": 81
 }

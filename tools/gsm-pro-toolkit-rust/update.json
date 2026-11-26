@@ -1,11 +1,11 @@
 {
-  "asset": "GsmProToolkit-204.exe",
-  "build": 204,
+  "asset": "GsmProToolkit-205.exe",
+  "build": 205,
   "date": "26/11/2026",
-  "note": "Man hinh nho: cua so chinh tu vua man (toi thieu 1000x640 thay vi 1240), man nho hon thi thu nho deu; cat chu bang dung mep bang",
-  "sha256": "b3915477dffe3010933df67de85b80ed6d6e0c4358c3397313e496ab85e90956",
-  "sig": "9zhD4F0n/yeEYNQW90+kPbDWyq5hbi/MNEC+Wl0QFtA13zTOIFYnSYUSScUhVQNTqsNN24ldrI2LI8xELtaJRQ==",
-  "size": 7523328,
+  "note": "Nut Mo: tool da cai ma bo cai tren may khac / chua co so voi GitHub thi hien hop chon mo ban hien co hoac tai + cai ban moi roi mo",
+  "sha256": "64001e8380b293e84a911f8d579ecdb69349136e4c330383940fc8226179d408",
+  "sig": "/Kj+aQ9dV2rQDbwiQ99lYMi51B4l9SDOUgBnRl2vEzbGZrdlgo83/lX7gBZIx+bkrEr9ZKVj7cEJuuQiYFWwIQ==",
+  "size": 7543296,
   "tool": "gsm-pro-toolkit-rust",
   "v": 2
 }

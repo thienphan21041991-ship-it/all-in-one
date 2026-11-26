@@ -341,6 +341,28 @@
       "desc": "",
       "disabled": false,
       "disabled_note": "",
+      "file": "hub-usbdk64-21fe2884f4a4.zip",
+      "group": "Nguyên liệu nút",
+      "homepage": "",
+      "id": "usbdk64",
+      "kind": "depot",
+      "min_app": "",
+      "mirror_urls": [],
+      "name": "UsbDk 64-bit (UsbDk64.msi)",
+      "notes": "",
+      "publisher": "",
+      "run": "",
+      "sha256": "21fe2884f4a457944e9cbdeb1dd8c00247ce773cc03af02d52535d29607daed3",
+      "size": 6308378,
+      "url": "",
+      "version": ""
+    },
+    {
+      "author": "",
+      "channel": "",
+      "desc": "",
+      "disabled": false,
+      "disabled_note": "",
       "file": "hub-windows-desktop-runtime-f1286194dcd7.zip",
       "group": "Tool",
       "homepage": "",
@@ -382,7 +404,7 @@
   ],
   "min_app": "",
   "mirrors": [],
-  "sig": "pVGHNiH1TAWPmXNE7IW8kcY3VTbxHjJoHI8C/TVuAlf3uAWDXf84XjQ9KzaXbIiJVrdfzyJTOa3D19dpy+bI3Q==",
+  "sig": "cuY76F6YSKz+GYYu9mfygN8sqBNRckrdjtn6k1+h5lcLYfaFqe34p1UW5TV/wWTiDMPy8yP6bgpPlJGcp1qGOQ==",
   "v": 2,
-  "ver": 82
+  "ver": 83
 }

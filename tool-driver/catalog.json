@@ -2,6 +2,17 @@
   "date": "26/11/2026",
   "items": [
     {
+      "file": "hub-3utools-14aba6172d1b.zip",
+      "group": "Tool",
+      "id": "3utools",
+      "kind": "depot",
+      "name": "3utools",
+      "run": "Chay-bang-thuat-toan.txt",
+      "sha256": "14aba6172d1b76acd4b9fdde9031de681d0e8403fc4314070b27c15daa40761a",
+      "size": 348,
+      "url": ""
+    },
+    {
       "file": "hub-3utools-setup-0ee830fb85e3.zip",
       "group": "Nguyên liệu nút",
       "id": "3utools-setup",
@@ -101,7 +112,7 @@
       "url": ""
     }
   ],
-  "sig": "MVkBcfAev46xGOMmG4wWlsrnXi3zNdo44eIvDDfhy3WafHg/o6r9cByiJKzwpEZm5pAXfcqPN8GSmr65XlEnQA==",
+  "sig": "imAgCxUrHI5oBSWQLyXDe2wvTk35pJA8DpUUnJYgu/ImZfWQ9a3b16Ga0wyymah0UHFc92UqYpQ5aMzinSgulQ==",
   "v": 1,
-  "ver": 89
+  "ver": 90
 }

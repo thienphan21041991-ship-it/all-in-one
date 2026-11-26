@@ -1,12 +1,6 @@
 {
   "items": [
     {
-      "icon": "apple-ramdisk-tool-5b3ad198bc88.png",
-      "icon_sha256": "5b3ad198bc88035a2d4b88077218cda8c1eb72c4f60c16f10400a2a8216d4a85",
-      "id": "apple-ramdisk-tool",
-      "updated": "2026-11-22"
-    },
-    {
       "icon": "client-kernelpro-usb-over-ethernet-5d60fcffdfd3.png",
       "icon_sha256": "5d60fcffdfd359194c35b85bf672b86a63a3f0a4fa8cb4ed7b922e4e8bba47a1",
       "id": "client-kernelpro-usb-over-ethernet",
@@ -91,7 +85,7 @@
       "updated": "2026-11-23"
     }
   ],
-  "sig": "IqDh2LaBK5YcmeJ82gE2wcjZ4K2D68c+VsaxP2qqBeX8dj1RgeLqjv43xajZxKiqjzPEsLYZfzU9qaAx7Opxag==",
+  "sig": "gESQ+irpx9W/wksKHrVh8kud8Lcs23LQgGyVDw//vitt6dTuFnDmqhu/wIpPVh/e0l+vsPjY8ttShbGmKthJaw==",
   "v": 1,
-  "ver": 43
+  "ver": 44
 }

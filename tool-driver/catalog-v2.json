@@ -96,6 +96,28 @@
       "desc": "",
       "disabled": false,
       "disabled_note": "",
+      "file": "hub-fix-all-apple-6ebe21345a6a.zip",
+      "group": "Tool",
+      "homepage": "",
+      "id": "fix-all-apple",
+      "kind": "depot",
+      "min_app": "",
+      "mirror_urls": [],
+      "name": "Fix All Apple",
+      "notes": "",
+      "publisher": "",
+      "run": "Chay-bang-thuat-toan.txt",
+      "sha256": "6ebe21345a6a30b61435c745707aa3e2397d7a60ad9499e641fa6f81742f0059",
+      "size": 358,
+      "url": "",
+      "version": ""
+    },
+    {
+      "author": "",
+      "channel": "",
+      "desc": "",
+      "disabled": false,
+      "disabled_note": "",
       "file": "hub-hth-nd-v4-3-4cc23ab01d72.zip",
       "group": "Tool",
       "homepage": "",
@@ -404,7 +426,7 @@
   ],
   "min_app": "",
   "mirrors": [],
-  "sig": "6WFKdafb/VLnG8X4mk+DM7yhGMSp8K16wXFo03o/aXF2DYe3re9bv6b1vtyfsuUuM7kFgqrr6YwdkX4hxogzbg==",
+  "sig": "yUV3PR+OBtG9CXuLJzwVMmuDiDijLVbcUwQmjNayxyo+WQH6dU//qWU0/2f+jlsvXmLjbTCgfApi+QkBbH6nMw==",
   "v": 2,
-  "ver": 85
+  "ver": 86
 }

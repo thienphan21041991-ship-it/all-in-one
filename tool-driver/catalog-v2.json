@@ -96,28 +96,6 @@
       "desc": "",
       "disabled": false,
       "disabled_note": "",
-      "file": "hub-fix-all-apple-b4a12426480e.zip",
-      "group": "Tool",
-      "homepage": "",
-      "id": "fix-all-apple",
-      "kind": "depot",
-      "min_app": "",
-      "mirror_urls": [],
-      "name": "Fix All Apple",
-      "notes": "",
-      "publisher": "",
-      "run": "",
-      "sha256": "b4a12426480e807721a296733f69a013876da65619ebcb87b161aa7bebd81b29",
-      "size": 215544299,
-      "url": "",
-      "version": ""
-    },
-    {
-      "author": "",
-      "channel": "",
-      "desc": "",
-      "disabled": false,
-      "disabled_note": "",
       "file": "hub-hth-nd-v4-3-4cc23ab01d72.zip",
       "group": "Tool",
       "homepage": "",
@@ -426,7 +404,7 @@
   ],
   "min_app": "",
   "mirrors": [],
-  "sig": "G/zu+YhxuPZt+M1NXugPBwQrwY+HknEYKKiy7L/xSRbGCQUz9y+jY1m+Ib7fPwWhSdqIiAD+V/NMPDY3YTK+FA==",
+  "sig": "6WFKdafb/VLnG8X4mk+DM7yhGMSp8K16wXFo03o/aXF2DYe3re9bv6b1vtyfsuUuM7kFgqrr6YwdkX4hxogzbg==",
   "v": 2,
-  "ver": 84
+  "ver": 85
 }

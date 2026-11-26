@@ -195,7 +195,7 @@
       "name": "TitanService Bypass AIO",
       "notes": "",
       "publisher": "",
-      "run": "",
+      "run": "TitanService Bypass AIO Ver2.0.8\\TitanAIOBypass.exe",
       "sha256": "4ac27c786501b7425595c1a263a56176977f722bbc421fc22a56c34924e42ee5",
       "size": 304231245,
       "url": "",
@@ -316,7 +316,7 @@
   ],
   "min_app": "",
   "mirrors": [],
-  "sig": "ao04e3bPgJ6HqbDVQ33esN5QhdYD3RHmnkpfJWMmCdvZxl4jq8qH02etc3e2rEewCeCrTZW4WrItA9Je2RoMtg==",
+  "sig": "zcr33ZNlqQgJlPj1Zx7Vdzo1hclNRyIFJPA1qccG7kQnVtDWD82ND2v1e8tiuuKYaFySAWknM40Px4tdv9XVKw==",
   "v": 2,
-  "ver": 69
+  "ver": 70
 }

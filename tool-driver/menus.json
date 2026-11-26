@@ -75,7 +75,7 @@
     "eft-pro": "w:tool-eft-pro",
     "tg82part": "w:tool-tg82part"
   },
-  "rev": 18,
+  "rev": 19,
   "tools": [
     {
       "key": "b:devmgr",
@@ -127,6 +127,11 @@
     {
       "key": "b:admin",
       "label": "Quản trị tool"
+    },
+    {
+      "behavior": "install",
+      "key": "h:scrcpy",
+      "label": "scrcpy"
     }
   ],
   "usb": {

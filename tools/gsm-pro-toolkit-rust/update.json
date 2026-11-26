@@ -1,11 +1,11 @@
 {
-  "asset": "GsmProToolkit-210.exe",
-  "build": 210,
+  "asset": "GsmProToolkit-211.exe",
+  "build": 211,
   "date": "26/11/2026",
-  "note": "Sua ten tool thi bang Apple va nut mang ten cu dong bo theo ngay",
-  "sha256": "9962c6b2fd8e6e46ac4b6a9491a38692a2fca11b086aaf4e91e30c073f471dee",
-  "sig": "9coDGLjzcVH86TasxvQwI/N+tVLfOlpira33L4q8BUCO/MyfFzryXmmnqTJqnQINAAyp/EO1Jw+nrccUqIvyEg==",
-  "size": 7561728,
+  "note": "Thêm tool chạy bằng Thuật toán bao hàm / Chuỗi node không còn bắt chọn tệp: tự thêm kèm gói giữ chỗ",
+  "sha256": "8d25a2b23cdfd076478ff4261c61536317329a461cecd56eee0e75d47c374ade",
+  "sig": "WdFKhN9sCL4k3dmnCK+ph7wDoLOacUHnsnFziGyTleL16iAV+A1HJA8W5FSUDfMcsEO8uGh8T9Pa410lCkGilg==",
+  "size": 7570432,
   "tool": "gsm-pro-toolkit-rust",
   "v": 2
 }

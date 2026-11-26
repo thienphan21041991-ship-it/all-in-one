@@ -81,9 +81,10 @@
   "hub_run": {
     "client-kernelpro-usb-over-ethernet": "i:check",
     "eft-pro": "w:tool-eft-pro",
+    "mrst-pro": "w:tool-mrst-pro",
     "tg82part": "w:tool-tg82part"
   },
-  "rev": 26,
+  "rev": 27,
   "tools": [
     {
       "key": "b:devmgr",

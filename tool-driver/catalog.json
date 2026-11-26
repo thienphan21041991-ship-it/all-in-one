@@ -13,6 +13,17 @@
       "url": ""
     },
     {
+      "file": "hub-hth-nd-v4-3-4cc23ab01d72.zip",
+      "group": "Tool",
+      "id": "hth-nd-v4-3",
+      "kind": "depot",
+      "name": "HTH_ND v4.3",
+      "run": "",
+      "sha256": "4cc23ab01d72ba2375a427c69677beccb71bc1ba46dabfbc50cd3b03c7113cb7",
+      "size": 204375618,
+      "url": ""
+    },
+    {
       "file": "hub-usb-1-9-7-1d4c0f3cdfb2.zip",
       "group": "Tool",
       "id": "usb-1-9-7",
@@ -35,7 +46,7 @@
       "url": ""
     }
   ],
-  "sig": "bFfun2bXAPJHNbS772+R9wO4usPsfbsJtoZUQpqWU3c6ZzvfZvlXw6uTqyLNIsRte6HyH23KOUlcbo5DdaaEGQ==",
+  "sig": "5cFKDrp558drOLybkwLcU1sn8gLIZz6kPeeiTAQOCTITCVVQYOAGeIXADMeegYy2yso4pH05HjmtkFClNDEmrg==",
   "v": 1,
-  "ver": 70
+  "ver": 71
 }

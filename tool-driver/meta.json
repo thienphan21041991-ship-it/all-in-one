@@ -19,6 +19,12 @@
       "updated": "2026-11-22"
     },
     {
+      "icon": "fix-all-apple-4974eb7e3c12.png",
+      "icon_sha256": "4974eb7e3c124b0fc203ac890c05a1659843e86612964c3865ce9ea73e7de909",
+      "id": "fix-all-apple",
+      "updated": ""
+    },
+    {
       "icon": "hth-nd-v4-3-5b3ad198bc88.png",
       "icon_sha256": "5b3ad198bc88035a2d4b88077218cda8c1eb72c4f60c16f10400a2a8216d4a85",
       "id": "hth-nd-v4-3",
@@ -91,7 +97,7 @@
       "updated": "2026-11-23"
     }
   ],
-  "sig": "0pam5uOlsQGUqY/JKjv6Sgs3P/zfYZNgBbbcTnbaTEKvgqURtOPIUD1ZA2jOyZqJM2BGkAbX2BZmnIJVsxyi4g==",
+  "sig": "TCAwujPcT/cqAXHQjP8oMYd4mVvsC5FwVW78rbXiY/moTKjj1AVwO+1UCnE5EUU+GW2hVzOM8zSMZ7tI4hzWuw==",
   "v": 1,
-  "ver": 52
+  "ver": 53
 }

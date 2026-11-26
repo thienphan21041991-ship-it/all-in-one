@@ -1,11 +1,11 @@
 {
-  "asset": "GsmProToolkit-211.exe",
-  "build": 211,
+  "asset": "GsmProToolkit-212.exe",
+  "build": 212,
   "date": "26/11/2026",
-  "note": "Thêm tool chạy bằng Thuật toán bao hàm / Chuỗi node không còn bắt chọn tệp: tự thêm kèm gói giữ chỗ",
-  "sha256": "8d25a2b23cdfd076478ff4261c61536317329a461cecd56eee0e75d47c374ade",
-  "sig": "WdFKhN9sCL4k3dmnCK+ph7wDoLOacUHnsnFziGyTleL16iAV+A1HJA8W5FSUDfMcsEO8uGh8T9Pa410lCkGilg==",
-  "size": 7570432,
+  "note": "Thuật toán bao hàm: nguyên liệu # @lazy chỉ tải khi máy còn thiếu",
+  "sha256": "fb60f3f45eaf5899c084cabaf05675dcd1d4fb520dee83036325d7e69cd3671a",
+  "sig": "izsAWdrWRalc6XEKL/YwgtovVHh4liJOtr1tzXZT76EcgULNLWXKPjD1milA21GZ/GvtRhFh8JFvnsm9NQZTtg==",
+  "size": 7571968,
   "tool": "gsm-pro-toolkit-rust",
   "v": 2
 }

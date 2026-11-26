@@ -118,6 +118,28 @@
       "desc": "",
       "disabled": false,
       "disabled_note": "",
+      "file": "hub-itunes64-6fd29d29f173.zip",
+      "group": "Nguyên liệu nút",
+      "homepage": "",
+      "id": "itunes64",
+      "kind": "depot",
+      "min_app": "",
+      "mirror_urls": [],
+      "name": "iTunes 64-bit (iTunes64.exe)",
+      "notes": "",
+      "publisher": "",
+      "run": "",
+      "sha256": "6fd29d29f173ee3091d9a4fea2055516ed660abe381e3d7638df0d6d769eb7da",
+      "size": 207966627,
+      "url": "",
+      "version": ""
+    },
+    {
+      "author": "",
+      "channel": "",
+      "desc": "",
+      "disabled": false,
+      "disabled_note": "",
       "file": "hub-libusb-win32-ded3513d7d39.zip",
       "group": "Tool",
       "homepage": "",
@@ -360,7 +382,7 @@
   ],
   "min_app": "",
   "mirrors": [],
-  "sig": "ZLiysodNEkpiIaXwo1RrAPxpnUBSxUAndD2hI3JX3sj6UHKANc5dyEbaOZ1l5tg87LsbBISfzIr+oVuIfTU9xQ==",
+  "sig": "pVGHNiH1TAWPmXNE7IW8kcY3VTbxHjJoHI8C/TVuAlf3uAWDXf84XjQ9KzaXbIiJVrdfzyJTOa3D19dpy+bI3Q==",
   "v": 2,
-  "ver": 81
+  "ver": 82
 }

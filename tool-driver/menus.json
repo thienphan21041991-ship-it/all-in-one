@@ -97,13 +97,14 @@
     "titanservice-bypass-aio"
   ],
   "hub_run": {
+    "3utools": "a:mo-3utools",
     "client-kernelpro-usb-over-ethernet": "i:check",
     "eft-pro": "w:tool-eft-pro",
     "fix-all-apple": "a:fix-apple-toan-dien",
     "mrst-pro": "w:tool-mrst-pro",
     "tg82part": "w:tool-tg82part"
   },
-  "rev": 41,
+  "rev": 42,
   "tools": [
     {
       "key": "b:devmgr",

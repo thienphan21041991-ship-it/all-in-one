@@ -66,8 +66,6 @@
     "eft-pro",
     "mrst-pro",
     "tsm-pro-edition",
-    "apple-ramdisk-tool",
-    "titanservice-bypass-aio",
     "unlocktool",
     "scrcpy",
     "tg82part",
@@ -76,7 +74,9 @@
     "libusb-win32",
     "samsung-small-toolkit",
     "usb-1-9-7",
-    "winrar-x64-7-23"
+    "winrar-x64-7-23",
+    "apple-ramdisk-tool",
+    "titanservice-bypass-aio"
   ],
   "hub_run": {
     "client-kernelpro-usb-over-ethernet": "i:check",
@@ -84,7 +84,7 @@
     "tg82part": "w:tool-tg82part",
     "tsm-pro-edition": "w:tool-tsm-pro-edition"
   },
-  "rev": 23,
+  "rev": 24,
   "tools": [
     {
       "key": "b:devmgr",

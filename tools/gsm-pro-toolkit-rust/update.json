@@ -1,11 +1,11 @@
 {
-  "asset": "GsmProToolkit-203.exe",
-  "build": 203,
+  "asset": "GsmProToolkit-204.exe",
+  "build": 204,
   "date": "26/11/2026",
-  "note": "Hop thoai tu vua man hinh (khong chim duoi taskbar), cuon duoc, ghim hang nut, keo di chuyen va doi kich thuoc; Quan ly tool ve tinh: go tool khoi tab ngay tu nhanh Kho tool, chon an han hoac hien o Kho tool",
-  "sha256": "f14b6eb4da7aa85fd6e69fe7cef5bae0e7a92ad8e43ce65d243404e2c5e055e7",
-  "sig": "dv0r3D1NAH0lPCA8+bPntosDq+Hr6wMaLBdr1fxVvf3BEMf/obltsprExZq91vbtrw+CV0CPl0bJsD2APgWhjA==",
-  "size": 7515136,
+  "note": "Man hinh nho: cua so chinh tu vua man (toi thieu 1000x640 thay vi 1240), man nho hon thi thu nho deu; cat chu bang dung mep bang",
+  "sha256": "b3915477dffe3010933df67de85b80ed6d6e0c4358c3397313e496ab85e90956",
+  "sig": "9zhD4F0n/yeEYNQW90+kPbDWyq5hbi/MNEC+Wl0QFtA13zTOIFYnSYUSScUhVQNTqsNN24ldrI2LI8xELtaJRQ==",
+  "size": 7523328,
   "tool": "gsm-pro-toolkit-rust",
   "v": 2
 }

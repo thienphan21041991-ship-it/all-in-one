@@ -18,7 +18,7 @@
       "id": "hth-nd-v4-3",
       "kind": "depot",
       "name": "HTH_ND v4.3",
-      "run": "",
+      "run": "HTH_ND_All_In_One.exe",
       "sha256": "4cc23ab01d72ba2375a427c69677beccb71bc1ba46dabfbc50cd3b03c7113cb7",
       "size": 204375618,
       "url": ""
@@ -46,7 +46,7 @@
       "url": ""
     }
   ],
-  "sig": "5cFKDrp558drOLybkwLcU1sn8gLIZz6kPeeiTAQOCTITCVVQYOAGeIXADMeegYy2yso4pH05HjmtkFClNDEmrg==",
+  "sig": "mibM81UNAzE66UirXfONjqPZcFB/4UVrJFKbWssEG4S1W/6Djud2fcfpgT/GXIsiFpP2PXBSDOCbgPRyXGiYwg==",
   "v": 1,
-  "ver": 71
+  "ver": 72
 }

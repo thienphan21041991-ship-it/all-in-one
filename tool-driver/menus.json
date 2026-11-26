@@ -2,8 +2,8 @@
   "apple": [
     {
       "behavior": "install",
-      "key": "h:titanservice-bypass-aio",
-      "label": "TitanService Bypass AIO"
+      "key": "h:fix-all-apple",
+      "label": "Fix All Apple"
     },
     {
       "behavior": "install",
@@ -12,13 +12,13 @@
     },
     {
       "behavior": "install",
-      "key": "h:bypass-hello-67caferacer-hello-a12",
-      "label": "[Bypass Hello] 67CafeRacer Hello A12+ v3"
+      "key": "h:titanservice-bypass-aio",
+      "label": "TitanService Bypass AIO"
     },
     {
       "behavior": "install",
-      "key": "h:fix-all-apple",
-      "label": "Fix All Apple"
+      "key": "h:bypass-hello-67caferacer-hello-a12",
+      "label": "[Bypass Hello] 67CafeRacer Hello A12+ v3"
     }
   ],
   "driver": [
@@ -102,7 +102,7 @@
     "mrst-pro": "w:tool-mrst-pro",
     "tg82part": "w:tool-tg82part"
   },
-  "rev": 39,
+  "rev": 40,
   "tools": [
     {
       "key": "b:devmgr",

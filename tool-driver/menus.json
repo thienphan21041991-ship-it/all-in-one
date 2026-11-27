@@ -96,7 +96,6 @@
     "client-fabulatech-usb-over-network",
     "alcor-micro-smart-card-reader-driv",
     "sigmaplus-software-setup-v1-01-18",
-    "c-full",
     "zadig",
     "libusb-win32",
     "samsung-small-toolkit",
@@ -121,7 +120,7 @@
     "mrst-pro": "w:tool-mrst-pro",
     "tg82part": "w:tool-tg82part"
   },
-  "rev": 45,
+  "rev": 46,
   "tools": [
     {
       "key": "b:devmgr",

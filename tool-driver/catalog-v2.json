@@ -117,6 +117,28 @@
       "desc": "",
       "disabled": false,
       "disabled_note": "",
+      "file": "hub-c-full-895ea1461063.zip",
+      "group": "Tool",
+      "homepage": "",
+      "id": "c-full",
+      "kind": "depot",
+      "min_app": "",
+      "mirror_urls": [],
+      "name": "C++ Full",
+      "notes": "",
+      "publisher": "",
+      "run": "",
+      "sha256": "895ea14610633d41eb738de19e3d7495d822c1b069b5ba53412e011cd24dd38c",
+      "size": 7610,
+      "url": "",
+      "version": ""
+    },
+    {
+      "author": "",
+      "channel": "",
+      "desc": "",
+      "disabled": false,
+      "disabled_note": "",
       "file": "hub-client-fabulatech-usb-over-network-b4c8425bfacf.zip",
       "group": "Tool",
       "homepage": "",
@@ -538,7 +560,7 @@
   ],
   "min_app": "",
   "mirrors": [],
-  "sig": "TlD5qVYZO7P8gUugS1nXhN90etIPXF2eqNj45ighS46IuI4lWFBJSxxwq0lEU1fUjpbGpoD7VXwhCmAZZ9AiOA==",
+  "sig": "3+dbgSz2V7Dw15rrxJuez+XM6PIRSz/UxPyoAnyMhwK0/elNrJgvF6eAjnB1f5LGasYSjnUowBWQMyi6kr9utg==",
   "v": 2,
-  "ver": 98
+  "ver": 99
 }

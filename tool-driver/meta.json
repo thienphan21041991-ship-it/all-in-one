@@ -125,9 +125,15 @@
       "icon_sha256": "c26b36b938312a2ab8ffbf6ca0498101de584b7cc2f7fce18573f9b77ceaca85",
       "id": "winrar-x64-7-23",
       "updated": "2026-11-23"
+    },
+    {
+      "icon": "",
+      "icon_sha256": "",
+      "id": "zadig",
+      "updated": "2026-11-27"
     }
   ],
-  "sig": "ZNmQDanhN7gC07SWiiYDYwwS6CLUYqMs6H0zuYEzfC3iJYHeZSvMcLUbO8F8tsru4WYBy15FL8OYF0x83HVvcA==",
+  "sig": "BUsXau3cpbA+YbqRaKN5U3mlw/ctaEPneUp0yqHYc/bQ4dMYH/fss1vMDYOsWtZ/NJ3N13GTDXKmF3KUO+vr8w==",
   "v": 1,
-  "ver": 61
+  "ver": 62
 }

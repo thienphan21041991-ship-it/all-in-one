@@ -13,6 +13,12 @@
       "updated": "2026-11-26"
     },
     {
+      "icon": "",
+      "icon_sha256": "",
+      "id": "client-fabulatech-usb-over-network",
+      "updated": "2026-11-27"
+    },
+    {
       "icon": "client-kernelpro-usb-over-ethernet-5d60fcffdfd3.png",
       "icon_sha256": "5d60fcffdfd359194c35b85bf672b86a63a3f0a4fa8cb4ed7b922e4e8bba47a1",
       "id": "client-kernelpro-usb-over-ethernet",
@@ -109,7 +115,7 @@
       "updated": "2026-11-23"
     }
   ],
-  "sig": "umTDnJugEF2keUksIgWP65T/s7sFLDS/+rFF3atg1flGwSDbhvtVAA/nutWAsrjdwuZuzXnVJGDp7hm9oOUIYw==",
+  "sig": "jINT0rFKpSwpRBqHJmQwNb0iBOcL8SpxO96ZgQ2OttISN8DpEvhRCfLMflmBx566YjOe5YM5vlp/Pp/LxBTrjg==",
   "v": 1,
-  "ver": 58
+  "ver": 59
 }

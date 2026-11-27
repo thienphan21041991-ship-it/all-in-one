@@ -1,5 +1,5 @@
 {
-  "date": "26/11/2026",
+  "date": "27/11/2026",
   "items": [
     {
       "file": "hub-3utools-14aba6172d1b.zip",
@@ -112,7 +112,7 @@
       "url": ""
     }
   ],
-  "sig": "GFLyki+TK5JFzLfj6RBeatPmVKQirs3oZXRLwhg5wn5rXFkfymZYo7wAWHToowmnlOnnkGl9r509r24ZR+TtUQ==",
+  "sig": "GG9zTSBh4qPcCbZFOoidAWySPrW/zUFMGuZ8qPTjOCu7gFdvDvMnIeK8kSjkY75/LGBaNdBbQhwoXZcDImKtCA==",
   "v": 1,
-  "ver": 91
+  "ver": 92
 }

@@ -7,8 +7,8 @@
       "updated": ""
     },
     {
-      "icon": "",
-      "icon_sha256": "",
+      "icon": "alcor-micro-smart-card-reader-driv-3cbe55fc7dc6.png",
+      "icon_sha256": "3cbe55fc7dc6100b0b058848796077ec92b64f645612b9b4e8bd4ed0da1bf58d",
       "id": "alcor-micro-smart-card-reader-driv",
       "updated": "2026-11-27"
     },
@@ -133,7 +133,7 @@
       "updated": "2026-11-27"
     }
   ],
-  "sig": "mJ4J8R1K8nuSPSZUYV8PsyW8b+rxGTEJzURK6ZuIo7TWKFWZ3CR7A6d27jsRKw69CUiqr5KjiyJfXE6PpIhgog==",
+  "sig": "mbjCtTUaqcykOScWFZzQwhdBo69P5lAL8xD5vuz5yn7kb4MM7XjT8plAMCO7xR0+MB/dyJ5himgI3eSeKsFusA==",
   "v": 1,
-  "ver": 64
+  "ver": 65
 }

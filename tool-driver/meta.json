@@ -79,8 +79,8 @@
       "updated": "2026-11-24"
     },
     {
-      "icon": "",
-      "icon_sha256": "",
+      "icon": "sigmaplus-software-setup-v1-01-18-1cd86b8b7aeb.png",
+      "icon_sha256": "1cd86b8b7aeb8798b5f865c2ea6c6446b024625f73453b2f7076d6a8703635b0",
       "id": "sigmaplus-software-setup-v1-01-18",
       "updated": "2026-11-27"
     },
@@ -133,7 +133,7 @@
       "updated": "2026-11-27"
     }
   ],
-  "sig": "jlCXTuvka+sQWYqec0sIfOYMiBSLOK7mEDR6GRi1JrgNfGai9SXswneMGB/3QuKUuy1r4DuphCxPxAjgWsLpYQ==",
+  "sig": "mJ4J8R1K8nuSPSZUYV8PsyW8b+rxGTEJzURK6ZuIo7TWKFWZ3CR7A6d27jsRKw69CUiqr5KjiyJfXE6PpIhgog==",
   "v": 1,
-  "ver": 63
+  "ver": 64
 }

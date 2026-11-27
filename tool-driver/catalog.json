@@ -24,14 +24,14 @@
       "url": ""
     },
     {
-      "file": "hub-alcor-micro-smart-card-reader-driv-22a5ef2f04e4.zip",
+      "file": "hub-alcor-micro-smart-card-reader-driv-d6a842efec65.zip",
       "group": "Tool",
       "id": "alcor-micro-smart-card-reader-driv",
       "kind": "depot",
       "name": "Alcor Micro Smart Card Reader Driver v1.7.26",
       "run": "",
-      "sha256": "22a5ef2f04e43ad06311457ddccc2e42d2f4beb6994f09e0b260be099e85a8f9",
-      "size": 527242,
+      "sha256": "d6a842efec655c82f6301da19d00757e9df5e4048a36b9358d685768e0cbea56",
+      "size": 4130223,
       "url": ""
     },
     {
@@ -123,7 +123,7 @@
       "url": ""
     }
   ],
-  "sig": "1LQUb6iOyjTOfZocDZ/Eh6l0XZ7mIzC2wrViodPkNxtwbLQLy3YC9VtjTc+1fo9wJl4QCYRvdKfGHdAuFsq2Fg==",
+  "sig": "UMZ8V/8YhBhWrsn0IhnCDLbOLRjjA4OCHoqLnOaFO4j5hL6EJGlgPBQfuLp659DWHV8/23dwE+mjTiwT6aLj7Q==",
   "v": 1,
-  "ver": 95
+  "ver": 96
 }

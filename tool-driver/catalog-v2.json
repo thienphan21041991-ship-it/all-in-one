@@ -556,11 +556,33 @@
       "size": 3574541,
       "url": "",
       "version": ""
+    },
+    {
+      "author": "",
+      "channel": "",
+      "desc": "",
+      "disabled": false,
+      "disabled_note": "",
+      "file": "hub-zadig-32fde964a602.zip",
+      "group": "Tool",
+      "homepage": "",
+      "id": "zadig",
+      "kind": "depot",
+      "min_app": "",
+      "mirror_urls": [],
+      "name": "Zadig",
+      "notes": "",
+      "publisher": "",
+      "run": "",
+      "sha256": "32fde964a602882da420709ad6d23d51b8754d698e897930ab48ffb102ee9e32",
+      "size": 5320778,
+      "url": "",
+      "version": "v2.9"
     }
   ],
   "min_app": "",
   "mirrors": [],
-  "sig": "dqYK2f5wL1G60WNolzUd7IKuJlt2MqZQ5m8zOkocOIxDnlOkO01ttR3IHfaXHaE2nojsxDucjrPKSpiNGKyYlg==",
+  "sig": "DVyxx/l1IPv3ctubfi4T/Ih94Q4wCF8Dfj35S2t+7gLhs1m2YPYD3atGecBuAd6qpHw72mC4PMOsAOSNh62vBg==",
   "v": 2,
-  "ver": 100
+  "ver": 101
 }

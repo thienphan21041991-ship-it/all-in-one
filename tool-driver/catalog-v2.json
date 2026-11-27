@@ -51,7 +51,7 @@
       "desc": "",
       "disabled": false,
       "disabled_note": "",
-      "file": "hub-alcor-micro-smart-card-reader-driv-22a5ef2f04e4.zip",
+      "file": "hub-alcor-micro-smart-card-reader-driv-d6a842efec65.zip",
       "group": "Tool",
       "homepage": "",
       "id": "alcor-micro-smart-card-reader-driv",
@@ -62,8 +62,8 @@
       "notes": "",
       "publisher": "",
       "run": "",
-      "sha256": "22a5ef2f04e43ad06311457ddccc2e42d2f4beb6994f09e0b260be099e85a8f9",
-      "size": 527242,
+      "sha256": "d6a842efec655c82f6301da19d00757e9df5e4048a36b9358d685768e0cbea56",
+      "size": 4130223,
       "url": "",
       "version": ""
     },
@@ -538,7 +538,7 @@
   ],
   "min_app": "",
   "mirrors": [],
-  "sig": "yaWJzjk4vX48ukYZ8S0dL26asoSE0cMmiI3UpYg6zDmS2beDiT3evmwizsBlz8e2zBrbReIyV9V83A6lssBzwA==",
+  "sig": "g5q9iixDusm9Gdg0204QOPgLGFYTaeZGyrJjkK2DB6CBlfleWHGwf6/yCLjADWeXVRhqxi3oUZue1nDPCMkIqQ==",
   "v": 2,
-  "ver": 95
+  "ver": 96
 }

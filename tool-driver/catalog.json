@@ -57,17 +57,6 @@
       "url": ""
     },
     {
-      "file": "hub-c-full-1d7fbb8a0cda.zip",
-      "group": "Tool",
-      "id": "c-full",
-      "kind": "depot",
-      "name": "C++ Full",
-      "run": "",
-      "sha256": "1d7fbb8a0cdaa776423d7bc53b02e56771e0ac09afda786c06d9fccd4db2b1c7",
-      "size": 88091772,
-      "url": ""
-    },
-    {
       "file": "hub-eft-pro-1e75dcb50d4a.zip",
       "group": "Tool",
       "id": "eft-pro",
@@ -134,7 +123,7 @@
       "url": ""
     }
   ],
-  "sig": "izsVCrOI0ryco1QbAW0WZ7og2mVXOlq3njpZ/hBTJse8KvZO6ujPZHVcdmmyEWljRabXQ9IZlOkGQK46mFqiCw==",
+  "sig": "aBzSP3P2O9US4u2NT/O/O60Mbfa3aKbcD61d8gdtsA5vandrWOwF7VhHE4SlL9aqwu/cVGdrlrNRiHL3wR/Z/Q==",
   "v": 1,
-  "ver": 105
+  "ver": 106
 }

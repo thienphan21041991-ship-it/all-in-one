@@ -117,7 +117,7 @@
       "desc": "",
       "disabled": false,
       "disabled_note": "",
-      "file": "hub-c-full-895ea1461063.zip",
+      "file": "hub-c-full-1d7fbb8a0cda.zip",
       "group": "Tool",
       "homepage": "",
       "id": "c-full",
@@ -128,8 +128,8 @@
       "notes": "",
       "publisher": "",
       "run": "",
-      "sha256": "895ea14610633d41eb738de19e3d7495d822c1b069b5ba53412e011cd24dd38c",
-      "size": 7610,
+      "sha256": "1d7fbb8a0cdaa776423d7bc53b02e56771e0ac09afda786c06d9fccd4db2b1c7",
+      "size": 88091772,
       "url": "",
       "version": ""
     },
@@ -560,7 +560,7 @@
   ],
   "min_app": "",
   "mirrors": [],
-  "sig": "3+dbgSz2V7Dw15rrxJuez+XM6PIRSz/UxPyoAnyMhwK0/elNrJgvF6eAjnB1f5LGasYSjnUowBWQMyi6kr9utg==",
+  "sig": "dqYK2f5wL1G60WNolzUd7IKuJlt2MqZQ5m8zOkocOIxDnlOkO01ttR3IHfaXHaE2nojsxDucjrPKSpiNGKyYlg==",
   "v": 2,
-  "ver": 99
+  "ver": 100
 }

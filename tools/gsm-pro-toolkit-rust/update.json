@@ -1,11 +1,11 @@
 {
-  "asset": "GsmProToolkit-215.exe",
-  "build": 215,
+  "asset": "GsmProToolkit-216.exe",
+  "build": 216,
   "date": "27/11/2026",
-  "note": "Rút gọn nhật ký khi chạy thuật toán bao hàm",
-  "sha256": "a46c716bdd6fb7d525306e09f0c66b1d0548f806a2bb787f7b2ec0cc3f40dd83",
-  "sig": "Ob461DGEZDagDpxBV7nylXjsobzDIWx4SVUKpwiJ2TdRHFmrU2VdjBF+yiKM02Y0B+lEn9AfwMIn88UhYv0QYw==",
-  "size": 7581184,
+  "note": "Thêm nút Visual C++ All-in-One ở menu Driver (tải từ Microsoft, cài ẩn)",
+  "sha256": "bdddda822cdfa97a61c784538c1f1ce2e56b263ae21d6c690d13839607eb3000",
+  "sig": "k0eTX+EddRvDcUolRRdsc5prF6yE8UCDNSpQHRJQg3dyPqrrinps0Bc/pCg/3Rexg1079vswl/1zYpwKVUJYGA==",
+  "size": 7604736,
   "tool": "gsm-pro-toolkit-rust",
   "v": 2
 }

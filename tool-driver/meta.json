@@ -25,8 +25,8 @@
       "updated": "2026-11-27"
     },
     {
-      "icon": "",
-      "icon_sha256": "",
+      "icon": "client-fabulatech-usb-over-network-f404eb8f9558.png",
+      "icon_sha256": "f404eb8f955884c01cad7e994a40e5d6b35c616148852a17066a0192aaf30c77",
       "id": "client-fabulatech-usb-over-network",
       "updated": "2026-11-27"
     },
@@ -133,7 +133,7 @@
       "updated": "2026-11-27"
     }
   ],
-  "sig": "mbjCtTUaqcykOScWFZzQwhdBo69P5lAL8xD5vuz5yn7kb4MM7XjT8plAMCO7xR0+MB/dyJ5himgI3eSeKsFusA==",
+  "sig": "9Rc2cg7FUQIQaqHUteETXANuC2ooWF725dBmVogU5ugM+W1P6/L5st3S41fyTI0TrFukXnoZFvcoEZotQNFNcg==",
   "v": 1,
-  "ver": 65
+  "ver": 66
 }

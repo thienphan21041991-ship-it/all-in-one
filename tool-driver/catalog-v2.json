@@ -1,5 +1,5 @@
 {
-  "date": "26/11/2026",
+  "date": "27/11/2026",
   "items": [
     {
       "author": "",
@@ -295,6 +295,29 @@
       "desc": "",
       "disabled": false,
       "disabled_note": "",
+      "file": "hub-sigmaplus-software-setup-v1-01-18-c99dc98cb40a.zip",
+      "group": "Tool",
+      "homepage": "",
+      "id": "sigmaplus-software-setup-v1-01-18",
+      "install_path": "%ProgramFiles(x86)%\\GsmServer\\SigmaPlus\\SigmaPlus.exe",
+      "kind": "depot",
+      "min_app": "",
+      "mirror_urls": [],
+      "name": "sigmaplus-software-setup-v1.01.18.01",
+      "notes": "",
+      "publisher": "",
+      "run": "",
+      "sha256": "c99dc98cb40af0e341b4a5761501d1ffecc555a6299dcbb186630e1ec0e8c948",
+      "size": 123709375,
+      "url": "",
+      "version": ""
+    },
+    {
+      "author": "",
+      "channel": "",
+      "desc": "",
+      "disabled": false,
+      "disabled_note": "",
       "file": "hub-tg82part-9f707904bdfb.zip",
       "group": "Tool",
       "homepage": "",
@@ -470,7 +493,7 @@
   ],
   "min_app": "",
   "mirrors": [],
-  "sig": "01lYqniLTkDZr3X6SRoH5QraxlikgvYMdnQKXg9GgiLMGKuxAcdCDS78yEELeWEwoCQxHd+OrzFeHc68UUAfNQ==",
+  "sig": "ozu5cC642+VD7wvkh3RCV+P339ehO4N5HCJWR9RvrRHVS6RgEhrGqpsIii+m91gxdjeRIGJljEGSlxbkI2y7vw==",
   "v": 2,
-  "ver": 91
+  "ver": 92
 }

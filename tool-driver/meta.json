@@ -21,6 +21,12 @@
     {
       "icon": "",
       "icon_sha256": "",
+      "id": "c-full",
+      "updated": "2026-11-27"
+    },
+    {
+      "icon": "",
+      "icon_sha256": "",
       "id": "client-fabulatech-usb-over-network",
       "updated": "2026-11-27"
     },
@@ -121,7 +127,7 @@
       "updated": "2026-11-23"
     }
   ],
-  "sig": "GqzQcMbA8YHYNAMZq+6yrG78k1+6T82N1lJbdUi3p6S5LGesh7TDC/aGGFDPDv6cNFZl4E+n/Xb/HZraWj8QZw==",
+  "sig": "ZNmQDanhN7gC07SWiiYDYwwS6CLUYqMs6H0zuYEzfC3iJYHeZSvMcLUbO8F8tsru4WYBy15FL8OYF0x83HVvcA==",
   "v": 1,
-  "ver": 60
+  "ver": 61
 }

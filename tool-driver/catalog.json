@@ -57,14 +57,14 @@
       "url": ""
     },
     {
-      "file": "hub-c-full-895ea1461063.zip",
+      "file": "hub-c-full-1d7fbb8a0cda.zip",
       "group": "Tool",
       "id": "c-full",
       "kind": "depot",
       "name": "C++ Full",
       "run": "",
-      "sha256": "895ea14610633d41eb738de19e3d7495d822c1b069b5ba53412e011cd24dd38c",
-      "size": 7610,
+      "sha256": "1d7fbb8a0cdaa776423d7bc53b02e56771e0ac09afda786c06d9fccd4db2b1c7",
+      "size": 88091772,
       "url": ""
     },
     {
@@ -134,7 +134,7 @@
       "url": ""
     }
   ],
-  "sig": "MxLprtYrKcfeDzc6VMA5novB+kDOmfyXelB1q//0BbWwoedmTao/2n3NZQ69YtvYkz2OvLI41sF/nP8FzGxKIg==",
+  "sig": "2Ln8JwOVR+KgmnESsTAVs2Bh/3oYAd1dXmxnP36EHbzrqRePplaDFOelLc3TvA1tMi7IeqdJsPOCnxAsN40s7w==",
   "v": 1,
-  "ver": 99
+  "ver": 100
 }

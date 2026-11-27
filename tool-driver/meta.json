@@ -61,6 +61,12 @@
       "updated": "2026-11-24"
     },
     {
+      "icon": "",
+      "icon_sha256": "",
+      "id": "sigmaplus-software-setup-v1-01-18",
+      "updated": "2026-11-27"
+    },
+    {
       "icon": "tg82part-76977dcfc4fd.png",
       "icon_sha256": "76977dcfc4fd8b0f3a12716d7c753cc8a89bdc7f9391f39a0ca9d10e5b9a6036",
       "id": "tg82part",
@@ -103,7 +109,7 @@
       "updated": "2026-11-23"
     }
   ],
-  "sig": "cxDEOu9CwMp9mYcO9RtAKmLmjxzLr1/UoeFH4O0wQrlXzydxqKXeyFO3cMgHLop/6iDwnl4rgR6JCk6qfEK6lA==",
+  "sig": "umTDnJugEF2keUksIgWP65T/s7sFLDS/+rFF3atg1flGwSDbhvtVAA/nutWAsrjdwuZuzXnVJGDp7hm9oOUIYw==",
   "v": 1,
-  "ver": 57
+  "ver": 58
 }

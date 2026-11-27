@@ -93,13 +93,25 @@
     "scrcpy",
     "tg82part",
     "client-kernelpro-usb-over-ethernet",
-    "windows-desktop-runtime",
+    "client-fabulatech-usb-over-network",
+    "alcor-micro-smart-card-reader-driv",
+    "sigmaplus-software-setup-v1-01-18",
+    "c-full",
+    "zadig",
     "libusb-win32",
     "samsung-small-toolkit",
+    "hth-nd-v4-3",
+    "fix-all-apple",
+    "bypass-hello-67caferacer-hello-a12",
+    "3utools",
+    "usbdk64",
+    "itunes64",
+    "windows-desktop-runtime",
     "usb-1-9-7",
-    "winrar-x64-7-23",
-    "apple-ramdisk-tool",
-    "titanservice-bypass-aio"
+    "3utools-setup",
+    "bonjour64",
+    "titanservice-bypass-aio",
+    "winrar-x64-7-23"
   ],
   "hub_run": {
     "3utools": "a:mo-3utools",
@@ -109,7 +121,7 @@
     "mrst-pro": "w:tool-mrst-pro",
     "tg82part": "w:tool-tg82part"
   },
-  "rev": 44,
+  "rev": 45,
   "tools": [
     {
       "key": "b:devmgr",

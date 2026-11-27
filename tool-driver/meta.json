@@ -127,13 +127,13 @@
       "updated": "2026-11-23"
     },
     {
-      "icon": "",
-      "icon_sha256": "",
+      "icon": "zadig-56ebd357b445.png",
+      "icon_sha256": "56ebd357b4450705a5437ca235f2c03221527d8752f2d99a70008998a58b94c6",
       "id": "zadig",
       "updated": "2026-11-27"
     }
   ],
-  "sig": "BUsXau3cpbA+YbqRaKN5U3mlw/ctaEPneUp0yqHYc/bQ4dMYH/fss1vMDYOsWtZ/NJ3N13GTDXKmF3KUO+vr8w==",
+  "sig": "jlCXTuvka+sQWYqec0sIfOYMiBSLOK7mEDR6GRi1JrgNfGai9SXswneMGB/3QuKUuy1r4DuphCxPxAjgWsLpYQ==",
   "v": 1,
-  "ver": 62
+  "ver": 63
 }

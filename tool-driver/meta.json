@@ -7,6 +7,12 @@
       "updated": ""
     },
     {
+      "icon": "",
+      "icon_sha256": "",
+      "id": "alcor-micro-smart-card-reader-driv",
+      "updated": "2026-11-27"
+    },
+    {
       "icon": "bypass-hello-67caferacer-hello-a12-c7bc1bd2e9e0.png",
       "icon_sha256": "c7bc1bd2e9e070b02189da0437fe4065087e6a51b931acdac7502811909e84e6",
       "id": "bypass-hello-67caferacer-hello-a12",
@@ -115,7 +121,7 @@
       "updated": "2026-11-23"
     }
   ],
-  "sig": "jINT0rFKpSwpRBqHJmQwNb0iBOcL8SpxO96ZgQ2OttISN8DpEvhRCfLMflmBx566YjOe5YM5vlp/Pp/LxBTrjg==",
+  "sig": "GqzQcMbA8YHYNAMZq+6yrG78k1+6T82N1lJbdUi3p6S5LGesh7TDC/aGGFDPDv6cNFZl4E+n/Xb/HZraWj8QZw==",
   "v": 1,
-  "ver": 59
+  "ver": 60
 }

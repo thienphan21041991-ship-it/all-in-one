@@ -102,16 +102,6 @@
     },
     {
       "args": "",
-      "builtin": "driver:mtk",
-      "elevate": false,
-      "exe": "",
-      "id": "driver-mtk",
-      "kind": "builtin",
-      "name": "Driver MTK",
-      "wait": false
-    },
-    {
-      "args": "",
       "builtin": "driver:libusb",
       "elevate": false,
       "exe": "",
@@ -303,7 +293,7 @@
       ]
     }
   ],
-  "rev": 14,
-  "sig": "MnhL9E13cYGZT0nJQmF3hT0O3OVZ0GFJStVuKH2yVACyOBXHe2i12O116UwWgkFlV1okrJr45QXDgi5KjmXqsg==",
+  "rev": 15,
+  "sig": "+cXvspYzn3y2hEE3maQVv+vYawKBv2fJkO2dr0K5rQawmF8+xJ0KWzWiLspPr6BVe99/ULXuX7SaU6PSq7ifxA==",
   "v": 1
 }

@@ -185,6 +185,28 @@
       "desc": "",
       "disabled": false,
       "disabled_note": "",
+      "file": "hub-driver-mtk-e6a03212db98.zip",
+      "group": "Tool",
+      "homepage": "",
+      "id": "driver-mtk",
+      "kind": "depot",
+      "min_app": "",
+      "mirror_urls": [],
+      "name": "Driver MTK",
+      "notes": "",
+      "publisher": "",
+      "run": "",
+      "sha256": "e6a03212db9811c915a7b68c2f351adc39c3bb0599cc0ca54c426b38d1ef2c9b",
+      "size": 20823983,
+      "url": "",
+      "version": ""
+    },
+    {
+      "author": "",
+      "channel": "",
+      "desc": "",
+      "disabled": false,
+      "disabled_note": "",
       "file": "hub-eft-pro-1e75dcb50d4a.zip",
       "group": "Tool",
       "homepage": "",
@@ -626,7 +648,7 @@
   ],
   "min_app": "",
   "mirrors": [],
-  "sig": "a1TwabLnUdU9ShR2EtafsQnzT2cGMqVAIursRFr0j3ckP+x2hBs4qd0kZsmIufpKTxva4e/SQUmH7Px/r2ktKg==",
+  "sig": "Qt4DOyKpe+AuZb9e9JWfLJ1ZCaNO0p0J95vHJGYmvqhDCJwohN9d+G2raW/0Onugq/sxlwk+n0csLupS2kvFBw==",
   "v": 2,
-  "ver": 114
+  "ver": 115
 }

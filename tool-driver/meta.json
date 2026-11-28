@@ -67,12 +67,6 @@
       "updated": "2026-11-22"
     },
     {
-      "icon": "",
-      "icon_sha256": "",
-      "id": "rav-uninstaller-tool",
-      "updated": "2026-11-28"
-    },
-    {
       "icon": "samsung-small-toolkit-7111bf77b50a.png",
       "icon_sha256": "7111bf77b50a7cd8a387c1027f1cec6def06ea7c59b792fa88a86c4fceda63ee",
       "id": "samsung-small-toolkit",
@@ -145,7 +139,7 @@
       "updated": "2026-11-27"
     }
   ],
-  "sig": "cQdBjCXORRrUPyU1YFaKW8AO+Tl0o4eciRM/Dl3/QWNAyYnD6lQex/l/FOLyPCg6UVIDUv5Kl/VQUmtv2hJ11w==",
+  "sig": "mFzC2321qQGCE+obMSrCZrep4wTwyjWRTElfcu263vCNxBE65GowDe6SjFJY/u/VpaBp9HYs65GUypV16OPp8A==",
   "v": 1,
-  "ver": 74
+  "ver": 75
 }

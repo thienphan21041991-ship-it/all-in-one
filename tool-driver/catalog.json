@@ -6,7 +6,7 @@
       "group": "Tool",
       "id": "360-uninstaller-tool",
       "kind": "depot",
-      "name": "360.Uninstaller.Tool",
+      "name": "360 Uninstaller Tool",
       "run": "",
       "sha256": "6f98fa005d49ef32feebbf62e2b5ad3c54f01e5fb7894f60036d45f9acf4debd",
       "size": 112633,
@@ -156,7 +156,7 @@
       "url": ""
     }
   ],
-  "sig": "pNLdVj662/C2a6RQ/+bTTdoA3ua8ePxLMWYQ4lIo0SIkhwO6OHf7RQ4clj7IvGYldSXY3bF7tgFBh7Yx2q1ABA==",
+  "sig": "CT41ZNmOx2T3ooQHBXr8QgDtqGvSr7Pjk+HSfRQYQB0T5ZG2KrMku8FEzEaMy4jdIimTsbqbbbhn8ZY+WI8U3A==",
   "v": 1,
-  "ver": 113
+  "ver": 114
 }

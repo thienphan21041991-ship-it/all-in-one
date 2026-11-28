@@ -1,11 +1,11 @@
 {
-  "asset": "GsmProToolkit-217.exe",
-  "build": 217,
+  "asset": "GsmProToolkit-218.exe",
+  "build": 218,
   "date": "28/11/2026",
-  "note": "Bỏ lệnh gộp Fix Brick trong menu Lệnh fastboot",
-  "sha256": "4c246ee984ea95370da64b3fdad289e2484ed3afbfadd37c77ecaf3b2dfa7353",
-  "sig": "cWResec4r23KPjJIcSK3DREZVQZ431gTeWhJ167eXDKEyhdejQuLF/IwT+986XluWQLUT/T/aIgI7ATc8ScucA==",
-  "size": 7604736,
+  "note": "Thu gọn giao diện lúc mở trên mọi cỡ màn hình",
+  "sha256": "54f8816c6554a9ada7aac0174f691af73199cbc7b2fe201692974e08d9f3fbae",
+  "sig": "SfoDHYCJ8L0ZeHYgHPtoSsUqpIPMQZO3HJQf1cXLSCZbZeO/ZIc3gGLe/piOm5VyWUIuJB+mXTDtrWf+t6QVEA==",
+  "size": 7605248,
   "tool": "gsm-pro-toolkit-rust",
   "v": 2
 }

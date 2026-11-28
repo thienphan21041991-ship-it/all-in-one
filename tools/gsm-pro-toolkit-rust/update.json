@@ -1,11 +1,11 @@
 {
-  "asset": "GsmProToolkit-221.exe",
-  "build": 221,
+  "asset": "GsmProToolkit-222.exe",
+  "build": 222,
   "date": "28/11/2026",
-  "note": "Dòng gói Thuật toán bao hàm hiện đúng trạng thái, không còn Chưa tải",
-  "sha256": "fae1b7b17a31c675b96566d2222e02f65ba20ebfcfb37d181ae2f5006624b084",
-  "sig": "x38SpB/SA1cAtO9h5esFAMAW1DmO3gGgZT3VjKn5Z3jwbBjZehqQLsKpwBVpcMnfQFkUjvHsyK4N8lD9YDtrtg==",
-  "size": 7607808,
+  "note": "Dòng tool thuật toán bao hàm hiện trạng thái nguyên liệu: Chưa tải / Đã tải x/y / Đã tải",
+  "sha256": "733eae1e8d57c9c1a3fba81b14bff9d6c12610d70eeb766993805714e1cde003",
+  "sig": "pchQjr3vJR+JataRbnuwnXOFTMKy4uO4Tp9HWNusfwSqhtmV9bMBvNeOHrpOCQOzWcOCnL3MfhO2R5XsRMuXBA==",
+  "size": 7609344,
   "tool": "gsm-pro-toolkit-rust",
   "v": 2
 }

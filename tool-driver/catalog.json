@@ -101,6 +101,17 @@
       "url": ""
     },
     {
+      "file": "hub-rav-uninstaller-tool-3e36fbae6015.zip",
+      "group": "Tool",
+      "id": "rav-uninstaller-tool",
+      "kind": "depot",
+      "name": "Rav Uninstaller Tool",
+      "run": "",
+      "sha256": "3e36fbae60150a396fe2056b1314bc26626977114af67f7255b02fdfead78690",
+      "size": 44731021,
+      "url": ""
+    },
+    {
       "file": "hub-totalcleaner-final-0dcce29d15a3.zip",
       "group": "Tool",
       "id": "totalcleaner-final",
@@ -145,7 +156,7 @@
       "url": ""
     }
   ],
-  "sig": "Crnmu7Nju03XzWaCqpU3tndxBLIwWzShiKiBjpQSSr4EINhn5f/VlSSAQ/TH6i68vu9mUgMjAtHLFguMszR58w==",
+  "sig": "OuAhWUqjO+XiZYcVja+oJjY/PXZRf1kA4M9A2Ti1CioB25p9CRfRz7Ak6Y3dMthM6pXhsSf3bhJlw2qeKSRx2A==",
   "v": 1,
-  "ver": 111
+  "ver": 112
 }

@@ -124,7 +124,7 @@
     "mrst-pro": "w:tool-mrst-pro",
     "tg82part": "w:tool-tg82part"
   },
-  "rev": 51,
+  "rev": 52,
   "tools": [
     {
       "key": "b:devmgr",
@@ -147,6 +147,11 @@
       "behavior": "install",
       "key": "h:totalcleaner-final",
       "label": "TotalCleaner (xóa 360 TOTAL SECURITY)"
+    },
+    {
+      "behavior": "install",
+      "key": "h:360-uninstaller-tool",
+      "label": "360.Uninstaller.Tool"
     },
     {
       "behavior": "install",
@@ -181,11 +186,6 @@
     {
       "key": "b:admin",
       "label": "Quản trị tool"
-    },
-    {
-      "behavior": "install",
-      "key": "h:360-uninstaller-tool",
-      "label": "360.Uninstaller.Tool"
     }
   ],
   "usb": {

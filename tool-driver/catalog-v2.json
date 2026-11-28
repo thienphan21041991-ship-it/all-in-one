@@ -7,6 +7,28 @@
       "desc": "",
       "disabled": false,
       "disabled_note": "",
+      "file": "hub-360-uninstaller-tool-6f98fa005d49.zip",
+      "group": "Tool",
+      "homepage": "",
+      "id": "360-uninstaller-tool",
+      "kind": "depot",
+      "min_app": "",
+      "mirror_urls": [],
+      "name": "360.Uninstaller.Tool",
+      "notes": "",
+      "publisher": "",
+      "run": "",
+      "sha256": "6f98fa005d49ef32feebbf62e2b5ad3c54f01e5fb7894f60036d45f9acf4debd",
+      "size": 112633,
+      "url": "",
+      "version": ""
+    },
+    {
+      "author": "",
+      "channel": "",
+      "desc": "",
+      "disabled": false,
+      "disabled_note": "",
       "file": "hub-3utools-14aba6172d1b.zip",
       "group": "Tool",
       "homepage": "",
@@ -582,7 +604,7 @@
   ],
   "min_app": "",
   "mirrors": [],
-  "sig": "twPpXPUt46oqq04KUJ1x/GG0XxvZH3r88TK8MBjgl9Vvm7oJaA5XjSETuIomPNvY71BxHm8TPcPmuLRvSX73WA==",
+  "sig": "AGlBJjVav4G/oaK0wp+MyLpZRtC00XZFpyAWqh9PkM3cC6kbLPFPHbbBND6YroXzMd3gi+AhD37Nm8g3S+Q7Nw==",
   "v": 2,
-  "ver": 109
+  "ver": 110
 }

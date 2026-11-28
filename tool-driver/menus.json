@@ -124,7 +124,7 @@
     "mrst-pro": "w:tool-mrst-pro",
     "tg82part": "w:tool-tg82part"
   },
-  "rev": 48,
+  "rev": 49,
   "tools": [
     {
       "key": "b:devmgr",
@@ -142,6 +142,11 @@
       "behavior": "install",
       "key": "h:samsung-small-toolkit",
       "label": "Samsung small toolkit"
+    },
+    {
+      "behavior": "install",
+      "key": "h:totalcleaner-final",
+      "label": "TotalCleaner_Final"
     },
     {
       "behavior": "install",
@@ -176,11 +181,6 @@
     {
       "key": "b:admin",
       "label": "Quản trị tool"
-    },
-    {
-      "behavior": "install",
-      "key": "h:totalcleaner-final",
-      "label": "TotalCleaner_Final"
     }
   ],
   "usb": {

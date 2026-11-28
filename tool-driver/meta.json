@@ -91,6 +91,12 @@
       "updated": "2026-11-26"
     },
     {
+      "icon": "totalcleaner-final-621481f42ed4.png",
+      "icon_sha256": "621481f42ed4067ec721b73e4c4575c7eb53bfb0b2af6580dca8912e70913fb3",
+      "id": "totalcleaner-final",
+      "updated": ""
+    },
+    {
       "icon": "tsm-pro-edition-04745e1aa7b5.png",
       "icon_sha256": "04745e1aa7b55a06190cb73bd0603e4c9fdec63195968b712e6491662d7019e3",
       "id": "tsm-pro-edition",
@@ -127,7 +133,7 @@
       "updated": "2026-11-27"
     }
   ],
-  "sig": "/8hKPmw/gkom3ZOjrP8imM3qHD9owmjuESFm9kZbWhi45pX7hhu1q31VOmCM2AzxF1MRb7LaAbPJMAO/U7uCEQ==",
+  "sig": "TCEyZMYFU/0ptgbvX8JgBWnzKKlSingShpqVVulwc8WuaeYGhH5j7C7x8t9ACQUKWCNZGiVz91JaCJhNtsCv/A==",
   "v": 1,
-  "ver": 69
+  "ver": 70
 }

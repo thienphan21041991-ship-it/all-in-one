@@ -28,7 +28,8 @@
   ],
   "driver": [
     {
-      "key": "b:mtk",
+      "behavior": "install",
+      "key": "h:driver-mtk",
       "label": "Driver MTK"
     },
     {
@@ -38,31 +39,31 @@
       "src": "libusb-win32"
     },
     {
-      "key": "b:vcredist",
+      "key": "a:driver-vcredist",
       "label": "Visual C++ All-in-One (2005–2022)"
     },
     {
-      "key": "b:adb",
+      "key": "a:driver-adb",
       "label": "Driver ADB"
     },
     {
-      "key": "b:samsung",
+      "key": "a:driver-samsung",
       "label": "Driver Samsung"
     },
     {
-      "key": "b:qualcomm",
+      "key": "a:driver-qualcomm",
       "label": "Driver Qualcomm"
     },
     {
-      "key": "b:spd",
+      "key": "a:driver-spd",
       "label": "Driver SPD"
     },
     {
-      "key": "b:kirin",
+      "key": "a:driver-kirin",
       "label": "Driver Kirin"
     },
     {
-      "key": "b:all",
+      "key": "a:driver-all",
       "label": "Cài tất cả"
     }
   ],
@@ -124,18 +125,18 @@
     "mrst-pro": "w:tool-mrst-pro",
     "tg82part": "w:tool-tg82part"
   },
-  "rev": 55,
+  "rev": 56,
   "tools": [
     {
-      "key": "b:devmgr",
+      "key": "a:devmgr",
       "label": "Device Manager"
     },
     {
-      "key": "b:optimize",
+      "key": "a:optimize",
       "label": "Tối ưu UAC/Sleep/Time/Snap"
     },
     {
-      "key": "b:neat",
+      "key": "a:neat",
       "label": "Neat Download"
     },
     {
@@ -164,32 +165,27 @@
       "label": "WinRAR x64 7.23"
     },
     {
-      "key": "b:7zip",
+      "key": "a:7zip",
       "label": "7-Zip ZS"
     },
     {
-      "key": "b:geek",
+      "key": "a:geek",
       "label": "Geek Uninstaller"
     },
     {
-      "key": "b:realtime",
+      "key": "a:realtime",
       "label": "Bật/tắt Realtime Protection"
     },
     {
-      "hidden": true,
-      "key": "b:defender",
-      "label": "Thêm vào loại trừ Windows Defender"
-    },
-    {
-      "key": "b:control",
+      "key": "a:control",
       "label": "Control Panel"
     },
     {
-      "key": "b:update",
+      "key": "a:update",
       "label": "Kiểm tra cập nhật"
     },
     {
-      "key": "b:admin",
+      "key": "a:admin",
       "label": "Quản trị tool"
     }
   ],

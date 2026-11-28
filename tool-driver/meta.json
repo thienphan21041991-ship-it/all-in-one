@@ -37,6 +37,12 @@
       "updated": "2026-11-23"
     },
     {
+      "icon": "",
+      "icon_sha256": "",
+      "id": "driver-mtk",
+      "updated": "2026-11-28"
+    },
+    {
       "icon": "eft-pro-b7d55843b2ee.png",
       "icon_sha256": "b7d55843b2ee10176deb6c3d5e9b44968b1539a993a01bb932008cfd510c0f29",
       "id": "eft-pro",
@@ -145,7 +151,7 @@
       "updated": "2026-11-27"
     }
   ],
-  "sig": "JCBQcnbhBreFs+G470DKys1naS+COz9+Kp8FQGXBgcdt4qd5ohdb5mWcEx2VFE2Qlmv3XgNUYn71jOK949DThQ==",
+  "sig": "vn1f6wEE7bTBIN1jHZ4sskW+/cGs5OyHT8x63znOdZSC3V9x1SZfSoVDM2XQKCQD/cf/50e+CfR/ortP1JPm1A==",
   "v": 1,
-  "ver": 76
+  "ver": 77
 }

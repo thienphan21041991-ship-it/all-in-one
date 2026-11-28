@@ -1,6 +1,12 @@
 {
   "items": [
     {
+      "icon": "",
+      "icon_sha256": "",
+      "id": "360-uninstaller-tool",
+      "updated": "2026-11-28"
+    },
+    {
       "icon": "3utools-0630315c8849.png",
       "icon_sha256": "0630315c8849fe475f426dd391918b6b95a395fd3e329d74a7ce5b2194cc1637",
       "id": "3utools",
@@ -133,7 +139,7 @@
       "updated": "2026-11-27"
     }
   ],
-  "sig": "TCEyZMYFU/0ptgbvX8JgBWnzKKlSingShpqVVulwc8WuaeYGhH5j7C7x8t9ACQUKWCNZGiVz91JaCJhNtsCv/A==",
+  "sig": "WhPiWuV6ZNe+1H6jZDnHZL6Fps56oUZXolJ73ktZ3nABaYQHFr3BTEd6S/82ciLKdc+dOQTnW3OQDPyjgJhYgQ==",
   "v": 1,
-  "ver": 70
+  "ver": 71
 }

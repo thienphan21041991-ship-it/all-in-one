@@ -1,11 +1,11 @@
 {
-  "asset": "GsmProToolkit-223.exe",
-  "build": 223,
+  "asset": "GsmProToolkit-224.exe",
+  "build": 224,
   "date": "28/11/2026",
-  "note": "Tải GitHub nhiều luồng kiểu IDM: tệp từ 8 MB có Range chia 4 đoạn song song, ghép + kiểm SHA; máy chủ không hỗ trợ thì tải như cũ",
-  "sha256": "2dffcf42e88013ee7074cfb1714c12a3539dd0ff868b2309d7fefa895b53b298",
-  "sig": "dDC/78Ij9Lv8KcxXDFs3TjizmxYqOF+trUp643uFN4oJOXtLE+j9iNDW/sSBoKrjSaWvaGSRHD/K6QTNqU2duA==",
-  "size": 7616512,
+  "note": "Tải mọi tệp từ 512 KB trở lên bằng 4 luồng (GitHub đã kiểm: release + raw đều trả 206); thanh tải hiện 4 ô tiến độ kiểu IDM khi đang tải một tệp",
+  "sha256": "95036cebdaab05b476053eaedb8763bab1bf8b29706bdb6a20814ac83f08a8db",
+  "sig": "bq9H5dzerZ3GQ3l3NM4a+nGb46yjlIyAj+ovOgRfTEHPJ/cPldjZHTduseSE81ktdh5kOucrslTQAyKrLafJXQ==",
+  "size": 7618560,
   "tool": "gsm-pro-toolkit-rust",
   "v": 2
 }

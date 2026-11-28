@@ -124,7 +124,7 @@
     "mrst-pro": "w:tool-mrst-pro",
     "tg82part": "w:tool-tg82part"
   },
-  "rev": 47,
+  "rev": 48,
   "tools": [
     {
       "key": "b:devmgr",
@@ -176,6 +176,11 @@
     {
       "key": "b:admin",
       "label": "Quản trị tool"
+    },
+    {
+      "behavior": "install",
+      "key": "h:totalcleaner-final",
+      "label": "TotalCleaner_Final"
     }
   ],
   "usb": {

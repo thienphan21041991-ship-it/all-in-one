@@ -414,7 +414,7 @@
       "kind": "depot",
       "min_app": "",
       "mirror_urls": [],
-      "name": "TotalCleaner_Final",
+      "name": "TotalCleaner (xóa 360 TOTAL SECURITY)",
       "notes": "",
       "publisher": "",
       "run": "",
@@ -582,7 +582,7 @@
   ],
   "min_app": "",
   "mirrors": [],
-  "sig": "DOyGoPcOR+mcViYvtVrUvZ5uPYtj+goPXTfLwlgT+Efo6YkLJMx0xWcpZkvKRocTZjd2ztJIyYS4EGBwkAc3PQ==",
+  "sig": "twPpXPUt46oqq04KUJ1x/GG0XxvZH3r88TK8MBjgl9Vvm7oJaA5XjSETuIomPNvY71BxHm8TPcPmuLRvSX73WA==",
   "v": 2,
-  "ver": 108
+  "ver": 109
 }

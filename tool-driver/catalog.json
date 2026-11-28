@@ -2,6 +2,17 @@
   "date": "28/11/2026",
   "items": [
     {
+      "file": "hub-360-uninstaller-tool-6f98fa005d49.zip",
+      "group": "Tool",
+      "id": "360-uninstaller-tool",
+      "kind": "depot",
+      "name": "360.Uninstaller.Tool",
+      "run": "",
+      "sha256": "6f98fa005d49ef32feebbf62e2b5ad3c54f01e5fb7894f60036d45f9acf4debd",
+      "size": 112633,
+      "url": ""
+    },
+    {
       "file": "hub-3utools-14aba6172d1b.zip",
       "group": "Tool",
       "id": "3utools",
@@ -134,7 +145,7 @@
       "url": ""
     }
   ],
-  "sig": "pYrclLwXEn3TM+LPWavFun4q9CCK7lN1/CH2IhNZA+72enJ46pE8iv65aK2BtMHx2EIOFsKTcbyUL2UXAeo88w==",
+  "sig": "+yRADw1qwsVh3l1VNI/ETfjzCrh7ZlH9PCSsoH5D76lC86rPdKZ3Bt+GOQx6B1W7FND44jNNNuYyvdrPHLKkOA==",
   "v": 1,
-  "ver": 109
+  "ver": 110
 }

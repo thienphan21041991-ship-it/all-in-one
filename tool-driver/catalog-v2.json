@@ -1,5 +1,5 @@
 {
-  "date": "27/11/2026",
+  "date": "28/11/2026",
   "items": [
     {
       "author": "",
@@ -407,6 +407,28 @@
       "desc": "",
       "disabled": false,
       "disabled_note": "",
+      "file": "hub-totalcleaner-final-0dcce29d15a3.zip",
+      "group": "Tool",
+      "homepage": "",
+      "id": "totalcleaner-final",
+      "kind": "depot",
+      "min_app": "",
+      "mirror_urls": [],
+      "name": "TotalCleaner_Final",
+      "notes": "",
+      "publisher": "",
+      "run": "",
+      "sha256": "0dcce29d15a3d5261ef75317e0b78a9dcbb16f6d76498f0fd04960be6498105f",
+      "size": 1350046,
+      "url": "",
+      "version": ""
+    },
+    {
+      "author": "",
+      "channel": "",
+      "desc": "",
+      "disabled": false,
+      "disabled_note": "",
       "file": "hub-tsm-pro-edition-d7c5ba650467.zip",
       "group": "Tool",
       "homepage": "",
@@ -560,7 +582,7 @@
   ],
   "min_app": "",
   "mirrors": [],
-  "sig": "+8SEteEDlCyGbPlubJBWK4A48sF1lVrnxw3Z3Ib5cL33FUwJUEUfn9VubO7v1hjWIPdrhiqUcOtaJ+HHL8ZimQ==",
+  "sig": "wXjAeRZSijcHre+pd08deg/S2UqbLcNU8ucSh+aTu5fSW/df7ph/0INsCp+Ai7Jp6r6RzpEMkcY9P3aordJPPQ==",
   "v": 2,
-  "ver": 106
+  "ver": 107
 }

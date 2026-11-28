@@ -94,7 +94,7 @@
       "group": "Tool",
       "id": "totalcleaner-final",
       "kind": "depot",
-      "name": "TotalCleaner_Final",
+      "name": "TotalCleaner (xóa 360 TOTAL SECURITY)",
       "run": "",
       "sha256": "0dcce29d15a3d5261ef75317e0b78a9dcbb16f6d76498f0fd04960be6498105f",
       "size": 1350046,
@@ -134,7 +134,7 @@
       "url": ""
     }
   ],
-  "sig": "nX1yEbtvkLOE5qg9Ji8pxjqb0VcR1i6ZtBSvURP62Oh7sA3/ZOTMKgW1/Jx7JnGLXb7RDlYbJa4ScrkbggWUoQ==",
+  "sig": "pYrclLwXEn3TM+LPWavFun4q9CCK7lN1/CH2IhNZA+72enJ46pE8iv65aK2BtMHx2EIOFsKTcbyUL2UXAeo88w==",
   "v": 1,
-  "ver": 108
+  "ver": 109
 }

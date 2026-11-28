@@ -1,10 +1,10 @@
 {
-  "asset": "GsmProToolkit-225.exe",
-  "build": 225,
+  "asset": "GsmProToolkit-226.exe",
+  "build": 226,
   "date": "28/11/2026",
-  "note": "Thanh tải: 1 khối như cũ; file chính ghi tên viết tắt + luồng:N; các file khác ghi tên ngắn + % + luồng; tải file từ 512 KB bằng 4 luồng",
-  "sha256": "6dd76c842d04bb4eff104e75db6b35f30656e1e0cdd895bf4e42cb0d2f68892b",
-  "sig": "qSRphYvrBO5BY4v1Bi03PI5/eyQLaoUBQAl6HwZl8EN0r3Ekb5mMZpOHxcnzbMpMnCGtf9Jtg1ba94dF+Kysyw==",
+  "note": "Đồng bộ thông tin tệp: tên GSM Pro Toolkit, bản quyền GSM Team, ngôn ngữ Tiếng Việt, FileVersion = ProductVersion",
+  "sha256": "47f722b2aaee01345e5f24889a3a8711f7bb548405c6c433be155d132f60720c",
+  "sig": "6t1Y6BXRgp8TEyquyjZrSKY6MApRj36XoHMfAhQa2HQRewzdcA07yYXNWafIFGlHbAHAa6MiYv5rVB7ihCJGRA==",
   "size": 7621120,
   "tool": "gsm-pro-toolkit-rust",
   "v": 2

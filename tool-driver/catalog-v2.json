@@ -318,6 +318,28 @@
       "desc": "",
       "disabled": false,
       "disabled_note": "",
+      "file": "hub-rav-uninstaller-tool-3e36fbae6015.zip",
+      "group": "Tool",
+      "homepage": "",
+      "id": "rav-uninstaller-tool",
+      "kind": "depot",
+      "min_app": "",
+      "mirror_urls": [],
+      "name": "Rav Uninstaller Tool",
+      "notes": "",
+      "publisher": "",
+      "run": "",
+      "sha256": "3e36fbae60150a396fe2056b1314bc26626977114af67f7255b02fdfead78690",
+      "size": 44731021,
+      "url": "",
+      "version": ""
+    },
+    {
+      "author": "",
+      "channel": "",
+      "desc": "",
+      "disabled": false,
+      "disabled_note": "",
       "file": "hub-samsung-small-toolkit-2a0d2076b1c7.zip",
       "group": "Tool",
       "homepage": "",
@@ -604,7 +626,7 @@
   ],
   "min_app": "",
   "mirrors": [],
-  "sig": "DBc6rgC0vYQhjfMGHWAlDtbwlqwioHSqZSx8P3VCk/SNtHNvbSXCPgoMxP9FlAQfrWrGq+K6wmWb6Z/8pt08pQ==",
+  "sig": "pp6t2zAEtqkpiqK9xgmAeJ2bDXOViSrxc/p6nCUCsYNZ2XeCW0tnM24KOoStCTgxtT0nrSrkN0thJv3H6VWg7g==",
   "v": 2,
-  "ver": 111
+  "ver": 112
 }

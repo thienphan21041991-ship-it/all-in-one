@@ -124,7 +124,7 @@
     "mrst-pro": "w:tool-mrst-pro",
     "tg82part": "w:tool-tg82part"
   },
-  "rev": 53,
+  "rev": 54,
   "tools": [
     {
       "key": "b:devmgr",
@@ -151,7 +151,7 @@
     {
       "behavior": "install",
       "key": "h:360-uninstaller-tool",
-      "label": "360.Uninstaller.Tool"
+      "label": "360 Uninstaller Tool"
     },
     {
       "behavior": "install",

@@ -1,10 +1,10 @@
 {
-  "asset": "GsmProToolkit-218.exe",
-  "build": 218,
+  "asset": "GsmProToolkit-219.exe",
+  "build": 219,
   "date": "28/11/2026",
-  "note": "Thu gọn giao diện lúc mở trên mọi cỡ màn hình",
-  "sha256": "54f8816c6554a9ada7aac0174f691af73199cbc7b2fe201692974e08d9f3fbae",
-  "sig": "SfoDHYCJ8L0ZeHYgHPtoSsUqpIPMQZO3HJQf1cXLSCZbZeO/ZIc3gGLe/piOm5VyWUIuJB+mXTDtrWf+t6QVEA==",
+  "note": "Màn 4K: tăng cỡ giao diện cho chữ dễ đọc hơn",
+  "sha256": "303e3dbe1a2d9b8bc59342a24dac63ce8b82ce62ae33bd4436c55c7cfc6844d2",
+  "sig": "e/hfeyd2DNWbG5nT9Iudy94xItrHpUwKk2srNwtkrpkRXM2R6LNG6CYd5YjYnFip0ybZscGUeiwwnE9lYXAfvA==",
   "size": 7605248,
   "tool": "gsm-pro-toolkit-rust",
   "v": 2

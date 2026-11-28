@@ -1,5 +1,5 @@
 {
-  "date": "27/11/2026",
+  "date": "28/11/2026",
   "items": [
     {
       "file": "hub-3utools-14aba6172d1b.zip",
@@ -90,6 +90,17 @@
       "url": ""
     },
     {
+      "file": "hub-totalcleaner-final-0dcce29d15a3.zip",
+      "group": "Tool",
+      "id": "totalcleaner-final",
+      "kind": "depot",
+      "name": "TotalCleaner_Final",
+      "run": "",
+      "sha256": "0dcce29d15a3d5261ef75317e0b78a9dcbb16f6d76498f0fd04960be6498105f",
+      "size": 1350046,
+      "url": ""
+    },
+    {
       "file": "hub-usb-1-9-7-1d4c0f3cdfb2.zip",
       "group": "Tool",
       "id": "usb-1-9-7",
@@ -123,7 +134,7 @@
       "url": ""
     }
   ],
-  "sig": "aBzSP3P2O9US4u2NT/O/O60Mbfa3aKbcD61d8gdtsA5vandrWOwF7VhHE4SlL9aqwu/cVGdrlrNRiHL3wR/Z/Q==",
+  "sig": "6HG8WJ9yglgvyERkWQc4pUp8j2bgnzoHV4bi6/ZMmBmBwM5AXlpRW/WWxeXgd/1SafgH/xTlqvrjY3uGcXpnQw==",
   "v": 1,
-  "ver": 106
+  "ver": 107
 }

@@ -1,10 +1,10 @@
 {
-  "asset": "GsmProToolkit-216.exe",
-  "build": 216,
-  "date": "27/11/2026",
-  "note": "Thêm nút Visual C++ All-in-One ở menu Driver (tải từ Microsoft, cài ẩn)",
-  "sha256": "bdddda822cdfa97a61c784538c1f1ce2e56b263ae21d6c690d13839607eb3000",
-  "sig": "k0eTX+EddRvDcUolRRdsc5prF6yE8UCDNSpQHRJQg3dyPqrrinps0Bc/pCg/3Rexg1079vswl/1zYpwKVUJYGA==",
+  "asset": "GsmProToolkit-217.exe",
+  "build": 217,
+  "date": "28/11/2026",
+  "note": "Bỏ lệnh gộp Fix Brick trong menu Lệnh fastboot",
+  "sha256": "4c246ee984ea95370da64b3fdad289e2484ed3afbfadd37c77ecaf3b2dfa7353",
+  "sig": "cWResec4r23KPjJIcSK3DREZVQZ431gTeWhJ167eXDKEyhdejQuLF/IwT+986XluWQLUT/T/aIgI7ATc8ScucA==",
   "size": 7604736,
   "tool": "gsm-pro-toolkit-rust",
   "v": 2

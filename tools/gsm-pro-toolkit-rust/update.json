@@ -1,11 +1,11 @@
 {
-  "asset": "GsmProToolkit-219.exe",
-  "build": 219,
+  "asset": "GsmProToolkit-220.exe",
+  "build": 220,
   "date": "28/11/2026",
-  "note": "Màn 4K: tăng cỡ giao diện cho chữ dễ đọc hơn",
-  "sha256": "303e3dbe1a2d9b8bc59342a24dac63ce8b82ce62ae33bd4436c55c7cfc6844d2",
-  "sig": "e/hfeyd2DNWbG5nT9Iudy94xItrHpUwKk2srNwtkrpkRXM2R6LNG6CYd5YjYnFip0ybZscGUeiwwnE9lYXAfvA==",
-  "size": 7605248,
+  "note": "Các tác vụ chạy song song, không còn xếp hàng chờ nhau",
+  "sha256": "a8b281313fd8f43bbe18e049e5d0b81dbe03dc8ce9ef252ff030ba28676f1f70",
+  "sig": "OYQKdo5E3TRn2bl2ZAXxjV9jno8eBgP5pYf40F2icmoq7DdAeflKrkTJXKiBxEZNXetwNX3s90FDSKJLK7XLYg==",
+  "size": 7607296,
   "tool": "gsm-pro-toolkit-rust",
   "v": 2
 }

@@ -124,7 +124,7 @@
     "mrst-pro": "w:tool-mrst-pro",
     "tg82part": "w:tool-tg82part"
   },
-  "rev": 49,
+  "rev": 50,
   "tools": [
     {
       "key": "b:devmgr",
@@ -146,7 +146,7 @@
     {
       "behavior": "install",
       "key": "h:totalcleaner-final",
-      "label": "TotalCleaner_Final"
+      "label": "TotalCleaner (xóa 360 TOTAL SECURITY)"
     },
     {
       "behavior": "install",

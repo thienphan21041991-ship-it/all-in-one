@@ -14,7 +14,7 @@
       "kind": "depot",
       "min_app": "",
       "mirror_urls": [],
-      "name": "360.Uninstaller.Tool",
+      "name": "360 Uninstaller Tool",
       "notes": "",
       "publisher": "",
       "run": "",
@@ -626,7 +626,7 @@
   ],
   "min_app": "",
   "mirrors": [],
-  "sig": "tKM81TY4Q+AsO8etnlK29hVEqea8r1NFeovaQ+O1AdgV9aHn6AWE2LgmJUQxzIJNOKOplUkqHioFtTw2XniaFA==",
+  "sig": "a1TwabLnUdU9ShR2EtafsQnzT2cGMqVAIursRFr0j3ckP+x2hBs4qd0kZsmIufpKTxva4e/SQUmH7Px/r2ktKg==",
   "v": 2,
-  "ver": 113
+  "ver": 114
 }

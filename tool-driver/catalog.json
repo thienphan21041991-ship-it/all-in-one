@@ -68,6 +68,17 @@
       "url": ""
     },
     {
+      "file": "hub-driver-mtk-e6a03212db98.zip",
+      "group": "Tool",
+      "id": "driver-mtk",
+      "kind": "depot",
+      "name": "Driver MTK",
+      "run": "",
+      "sha256": "e6a03212db9811c915a7b68c2f351adc39c3bb0599cc0ca54c426b38d1ef2c9b",
+      "size": 20823983,
+      "url": ""
+    },
+    {
       "file": "hub-eft-pro-1e75dcb50d4a.zip",
       "group": "Tool",
       "id": "eft-pro",
@@ -156,7 +167,7 @@
       "url": ""
     }
   ],
-  "sig": "CT41ZNmOx2T3ooQHBXr8QgDtqGvSr7Pjk+HSfRQYQB0T5ZG2KrMku8FEzEaMy4jdIimTsbqbbbhn8ZY+WI8U3A==",
+  "sig": "4ghlioRNwZW31EZPptmviaPrnEMkq7MHcjyiKsSM0wW1J5Yb9Rl+evOMLckwkfbAeh4OGwVUkZ8Q0obucBRG3Q==",
   "v": 1,
-  "ver": 114
+  "ver": 115
 }

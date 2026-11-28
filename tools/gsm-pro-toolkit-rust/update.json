@@ -1,11 +1,11 @@
 {
-  "asset": "GsmProToolkit-224.exe",
-  "build": 224,
+  "asset": "GsmProToolkit-225.exe",
+  "build": 225,
   "date": "28/11/2026",
-  "note": "Tải mọi tệp từ 512 KB trở lên bằng 4 luồng (GitHub đã kiểm: release + raw đều trả 206); thanh tải hiện 4 ô tiến độ kiểu IDM khi đang tải một tệp",
-  "sha256": "95036cebdaab05b476053eaedb8763bab1bf8b29706bdb6a20814ac83f08a8db",
-  "sig": "bq9H5dzerZ3GQ3l3NM4a+nGb46yjlIyAj+ovOgRfTEHPJ/cPldjZHTduseSE81ktdh5kOucrslTQAyKrLafJXQ==",
-  "size": 7618560,
+  "note": "Thanh tải: 1 khối như cũ; file chính ghi tên viết tắt + luồng:N; các file khác ghi tên ngắn + % + luồng; tải file từ 512 KB bằng 4 luồng",
+  "sha256": "6dd76c842d04bb4eff104e75db6b35f30656e1e0cdd895bf4e42cb0d2f68892b",
+  "sig": "qSRphYvrBO5BY4v1Bi03PI5/eyQLaoUBQAl6HwZl8EN0r3Ekb5mMZpOHxcnzbMpMnCGtf9Jtg1ba94dF+Kysyw==",
+  "size": 7621120,
   "tool": "gsm-pro-toolkit-rust",
   "v": 2
 }

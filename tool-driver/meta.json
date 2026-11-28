@@ -91,12 +91,6 @@
       "updated": "2026-11-26"
     },
     {
-      "icon": "",
-      "icon_sha256": "",
-      "id": "totalcleaner-final",
-      "updated": "2026-11-28"
-    },
-    {
       "icon": "tsm-pro-edition-04745e1aa7b5.png",
       "icon_sha256": "04745e1aa7b55a06190cb73bd0603e4c9fdec63195968b712e6491662d7019e3",
       "id": "tsm-pro-edition",
@@ -133,7 +127,7 @@
       "updated": "2026-11-27"
     }
   ],
-  "sig": "y6+JQhJJG6YqZmrCtTAUPvfPsxL8DGtxZ3rnkhP4VKlMT4J7ORYs3DQPSuQvL2sovxswkM5qGdYn/PK0bDRPNA==",
+  "sig": "/8hKPmw/gkom3ZOjrP8imM3qHD9owmjuESFm9kZbWhi45pX7hhu1q31VOmCM2AzxF1MRb7LaAbPJMAO/U7uCEQ==",
   "v": 1,
-  "ver": 68
+  "ver": 69
 }
